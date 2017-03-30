@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Herman Kamper
+# email: "&#x6B;&#97;&#x6D;&#112;&#x65;&#x72;h&#64;&#x67;&#109;&#97;i&#x6C;&#x2E;&#99;&#111;&#x6D;"
+email: "&#x6B;&#97;&#x6D;&#112;&#x65;&#x72;h [at] &#x67;&#109;&#97;i&#x6C; [dot] &#99;&#111;&#x6D;"
+# description: > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.kamperh.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  kamperh
+linkedin_username: kamperh
+google_scholar: http://scholar.google.com/citations?user=F3dhs4kAAAAJ
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
