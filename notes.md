@@ -11,9 +11,9 @@ order: 1
 
 Most of the code from my work is available on [GitHub](https://github.com/{{ site.github_username }}), as also noted with each of the [publications]({{site.url}}/publications/). Below is a summary of some of the main repositories.
 
-- [bayes_gmm](https://github.com/kamperh/bayes_gmm): Bayesian Gaussian mixture models in Python, as described in [[SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)].
-- [speech_correspondence](https://github.com/kamperh/speech_correspondence): Pylearn2 implementation of the correspondence autoencoder, as described in [[ICASSP'15](({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf))].
-- [couscous](https://github.com/kamperh/couscous):  Theano code for training Siamese CNNs. We used it in [[ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)] for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
+- [bayes_gmm](https://github.com/kamperh/bayes_gmm): Bayesian Gaussian mixture models in Python, as described in [SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf).
+- [speech_correspondence](https://github.com/kamperh/speech_correspondence): Pylearn2 implementation of the correspondence autoencoder, as described in [ICASSP'15](({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)).
+- [couscous](https://github.com/kamperh/couscous):  Theano code for training Siamese CNNs. We used it in [ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf) for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
 - [segmentalist](https://github.com/kamperh/segmentalist): Unsupervised word segmentation and clustering of speech in Python. A complete recipe is coming soon.
 
 
