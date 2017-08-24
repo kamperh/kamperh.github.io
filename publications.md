@@ -10,8 +10,6 @@ order: 3
 
 ### arXiv preprints
 
-- H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, "Visually grounded learning of keyword prediction from untranscribed speech," *arXiv preprint arXiv:1703.08136*, 2017.
-  [[arXiv](https://arxiv.org/abs/1703.08136)]
 - H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," *arXiv preprint arXiv:1703.08135*, 2017.
   [[arXiv](https://arxiv.org/abs/1703.08135)]
 - H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *arXiv preprint arXiv:1606.06950*, 2016.
@@ -27,13 +25,17 @@ order: 3
   [[link](http://www.sciencedirect.com/science/article/pii/S0885230814000369), [preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
 - H. Kamper and T. R. Niesler, "The impact of accent identification errors on speech recognition of South African English," *South African Journal of Science*, vol. 110, no. 1, 6 pages, 2014.
   [[pdf]({{site.url}}/papers/kamper+niesler_sajs2014.pdf)]
-- H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler, "Multi-accent acoustic modelling of South African English", *Speech Communication*, vol. 54, no. 6, pp. 801-813, 2012.
+- H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler, "Multi-accent acoustic modelling of South African English," *Speech Communication*, vol. 54, no. 6, pp. 801-813, 2012.
   [[link](http://www.sciencedirect.com/science/article/pii/S0167639312000155), [preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
 
 
 
 ### International conference proceedings
 
+- H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, "Visually grounded learning of keyword prediction from untranscribed speech," in *Proc. Interspeech*, 2017.
+  [[pdf]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf), [arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
+- S. Settle, K. Levin, H. Kamper, and K. Livescu, "Query-by-example search with discriminative neural acoustic word embeddings," in *Proc. Interspeech*, 2017.
+  [[pdf]({{site.url}}/papers/settle+levin+kamper+livescu_interspeech2017.pdf), [arXiv](https://arxiv.org/abs/1706.03818)]
 - S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater, "Towards speech-to-text translation without speech recognition," in *Proc. EACL*, 2017.
   [[arXiv](https://arxiv.org/abs/1702.03856)]
 - S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez, "Weakly supervised spoken term discovery using cross-lingual side information," in *Proc. ICASSP*, 2017.
@@ -48,7 +50,7 @@ order: 3
   [[pdf]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf), [slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
 - H. Kamper, A. Jansen, S. King, and S. J. Goldwater, "Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings," in *Proc. SLT*, 2014. [best poster presentation award]
   [[pdf]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf), [poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
-- H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Resource development and experiments in automatic South African broadcast news transcription", in *Proc. SLTU*, 2012.
+- H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Resource development and experiments in automatic South African broadcast news transcription," in *Proc. SLTU*, 2012.
   [[pdf]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf), [slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
 - H. Kamper and T. R. Niesler, "Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English," in *Proc. Interspeech*, 2011.
   [[pdf]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf), [poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
