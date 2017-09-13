@@ -20,7 +20,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Invited talks
 
-- *Learning from unlabelled speech, with and without visual cues.* Ohio State University, 2017. [[slides]({{site.url}}/slides/unsup_speech_vision_2017.pdf)]
+- *Learning from unlabelled speech, with and without visual cues.* Ohio State University, 2017. [[slides]({{site.url}}/slides/kamper_unsup_visionspeech_talk_20177.pdf)]
 - *Learning from unlabelled speech, with and without visual cues.* University of Maryland, CLIP Colloquium Speaker, 2017.
 - *Unsupervised neural and Bayesian models for zero-resource speech processing.* MIT, Computer Science and Artificial Intelligence Laboratory, 2016. [[slides]({{site.url}}/slides/kamper_mit2016_talk.pdf)]
 - *Unsupervised speech processing using acoustic word embeddings.* Workshop on Machine Learning in Speech and Language Processing, Spotlight Speaker, 2016. [[slides]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)]
@@ -33,4 +33,4 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 - [bayes_gmm](https://github.com/kamperh/bayes_gmm): Bayesian Gaussian mixture models in Python, as described in [SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf).
 - [speech_correspondence](https://github.com/kamperh/speech_correspondence): Pylearn2 implementation of the correspondence autoencoder, as described in [ICASSP'15]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf).
 - [couscous](https://github.com/kamperh/couscous):  Theano code for training Siamese CNNs. We used it in [ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf) for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
-- [segmentalist](https://github.com/kamperh/segmentalist): Unsupervised word segmentation and clustering of speech in Python. We use it in [CSL'17](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist).
+- [segmentalist](https://github.com/kamperh/segmentalist): Unsupervised word segmentation and clustering of speech in Python. We use it in [CSL'17](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge 2015 data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist).
