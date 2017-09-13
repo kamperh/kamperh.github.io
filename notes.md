@@ -20,7 +20,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Invited talks
 
-- *Learning from unlabelled speech, with and without visual cues.* Ohio State University, 2017. [[slides]({{site.url}}/slides/kamper_unsup_visionspeech_talk_20177.pdf)]
+- *Learning from unlabelled speech, with and without visual cues.* Ohio State University, 2017. [[slides]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)]
 - *Learning from unlabelled speech, with and without visual cues.* University of Maryland, CLIP Colloquium Speaker, 2017.
 - *Unsupervised neural and Bayesian models for zero-resource speech processing.* MIT, Computer Science and Artificial Intelligence Laboratory, 2016. [[slides]({{site.url}}/slides/kamper_mit2016_talk.pdf)]
 - *Unsupervised speech processing using acoustic word embeddings.* Workshop on Machine Learning in Speech and Language Processing, Spotlight Speaker, 2016. [[slides]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)]
