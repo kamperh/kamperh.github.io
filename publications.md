@@ -10,7 +10,7 @@ order: 3
 
 ### arXiv preprints
 
-- H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," *arXiv preprint arXiv:1703.08135*, 2017.
+- H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," accepted for *Proc. ASRU*, 2017.
   [[arXiv](https://arxiv.org/abs/1703.08135)]
 
 
