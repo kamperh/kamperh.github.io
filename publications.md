@@ -11,7 +11,7 @@ order: 3
 ### arXiv preprints
 
 - H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
-  [[arXiv](https://arxiv.org/abs/1710.01949)]
+  [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
 - H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," accepted for *Proc. ASRU*, 2017.
   [[arXiv](https://arxiv.org/abs/1703.08135)]
 
