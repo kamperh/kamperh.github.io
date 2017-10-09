@@ -24,11 +24,11 @@ order: 3
 - H. Kamper, A. Jansen, and S. J. Goldwater, "Unsupervised word segmentation and lexicon discovery using acoustic word embeddings," *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
   [[link](http://dx.doi.org/10.1109/TASLP.2016.2517567), [arXiv](http://arxiv.org/abs/1603.02845), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_taslp2016.pdf)]
 - H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system," *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.
-  [[link](http://www.sciencedirect.com/science/article/pii/S0885230814000369), [preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
+  [[link](https://doi.org/10.1016/j.csl.2014.04.005), [preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
 - H. Kamper and T. R. Niesler, "The impact of accent identification errors on speech recognition of South African English," *South African Journal of Science*, vol. 110, no. 1, 6 pages, 2014.
-  [[pdf]({{site.url}}/papers/kamper+niesler_sajs2014.pdf)]
+  [[link](http://dx.doi.org/10.1590/sajs.2014/20120049), [pdf]({{site.url}}/papers/kamper+niesler_sajs2014.pdf)]
 - H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler, "Multi-accent acoustic modelling of South African English," *Speech Communication*, vol. 54, no. 6, pp. 801-813, 2012.
-  [[link](http://www.sciencedirect.com/science/article/pii/S0167639312000155), [preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
+  [[link](https://doi.org/10.1016/j.specom.2012.01.008), [preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
 
 
 
