@@ -11,6 +11,10 @@ I am a lecturer in [E&E engineering](http://www.ee.sun.ac.za/) at [Stellenbosch 
 
 My main research interests are in machine learning, speech and language processing, and computer vision. I am particularly interested in machine learning methods that can learn from small amounts of labelled data, and in unsupervised methods that can learn directly from raw unlabelled data. Can an algorithm find meaningful units and structures in a corpus of speech audio, with only minimal guidance? How much supervision is required to build a useful speech processing or computer vision system? These questions are central when building language, speech and vision systems in low- and zero-resource settings.
 
+#### Latest news
+
+
+
 <!-- <div style="text-align:center"> -->
 
 <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp;
