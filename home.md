@@ -13,6 +13,7 @@ My main research interests are in machine learning, speech and language processi
 
 #### Latest news
 
+I am very happy to be one of the Indaba Abuntu (i.e. organisers) for the [Deep Learning Indaba 2018](http://www.deeplearningindaba.com/blog/the-drum-beats-on-the-deep-learning-indaba-201819) which will be held from 9 to 15 September in Stellenbosch.
 
 
 <!-- <div style="text-align:center"> -->
