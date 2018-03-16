@@ -17,6 +17,7 @@ My main research interests are in machine learning, speech and language processi
 - Make sure to [apply](http://www.deeplearningindaba.com/apply.html) for the Indaba by 30 April.
 - I will be a speaker at [IndabaX Western Cape](https://indabax.github.io/) at UCT on 6 April.
 
+<br>
 <!-- <div style="text-align:center"> -->
 
 <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp;
