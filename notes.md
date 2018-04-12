@@ -21,6 +21,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Invited talks
 
+- *Deep learning for (more than) speech recognition.* IndabaX Western Cape, UCT, 2018. [[slides]({{site.url}}/slides/kamper_indabax2018_talk.pdf)]
 - *Learning from unlabelled speech, with and without visual cues.* Ohio State University, 2017. [[slides]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)]
 - *Learning from unlabelled speech, with and without visual cues.* University of Maryland, CLIP Colloquium Speaker, 2017.
 - *Unsupervised neural and Bayesian models for zero-resource speech processing.* MIT, Computer Science and Artificial Intelligence Laboratory, 2016. [[slides]({{site.url}}/slides/kamper_mit2016_talk.pdf)]
