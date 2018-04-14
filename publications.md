@@ -12,7 +12,7 @@ order: 3
 
 [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
 H. Kamper, G. Shakhnarovich, and K. Livescu, *arXiv preprint arXiv:1710.01949*, 2017.  
-<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a>
+<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-primary">code</a>
 
 [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
 H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 2017.  
