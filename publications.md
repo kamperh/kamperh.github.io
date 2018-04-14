@@ -7,7 +7,7 @@ order: 3
 
 # Publications
 
-###arXiv preprints
+### arXiv preprints
 
 [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
 H. Kamper, G. Shakhnarovich, and K. Livescu, *arXiv preprint arXiv:1710.01949*, 2017.  
