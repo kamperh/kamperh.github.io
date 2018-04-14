@@ -7,7 +7,7 @@ order: 3
 
 # Publications
 
-## arXiv preprints
+###arXiv preprints
 
 [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
 H. Kamper, G. Shakhnarovich, and K. Livescu, *arXiv preprint arXiv:1710.01949*, 2017.  
@@ -21,7 +21,7 @@ H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 201
 H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
 
 
-## Journal publications
+### Journal publications
 
 - H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.  
 [[link](http://dx.doi.org/10.1016/j.csl.2017.04.008), [arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf)]
