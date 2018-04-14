@@ -7,12 +7,12 @@ order: 3
 
 # Publications
 
-<!--
+
 ### arXiv preprints
 
 [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
 H. Kamper, G. Shakhnarovich, and K. Livescu, *arXiv preprint arXiv:1710.01949*, 2017.  
-[[data](https://github.com/kamperh/semantic_flickraudio)]
+[[data](https://github.com/kamperh/semantic_flickraudio)]<a href="{{ include.paper.latex }}" class="label label-danger">\( \LaTeX \)</a>
 
 [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
 H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 2017.  
@@ -21,7 +21,7 @@ H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 201
 [An embedded segmental k-means model for unsupervised segmentation and clustering of speech](https://arxiv.org/abs/1703.08135)  
 H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
 
-
+<!--
 ### Journal publications
 
 - H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.  
