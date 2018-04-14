@@ -12,11 +12,11 @@ order: 3
 [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
 H. Kamper, G. Shakhnarovich, and K. Livescu  
 *arXiv preprint arXiv:1710.01949*, 2017  
-[data](https://github.com/kamperh/semantic_flickraudio)]
+[[data](https://github.com/kamperh/semantic_flickraudio)]
 
 [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
 H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu  
-Proc. Interspeech*, 2017  
+*Proc. Interspeech*, 2017  
 [[arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
 
 [An embedded segmental k-means model for unsupervised segmentation and clustering of speech](https://arxiv.org/abs/1703.08135)  
