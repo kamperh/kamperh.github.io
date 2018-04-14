@@ -21,6 +21,17 @@ H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 201
 H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
 
 
+## Journal publications
+
+- H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.  
+[[link](http://dx.doi.org/10.1016/j.csl.2017.04.008), [arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf)]
+- H. Kamper, A. Jansen, and S. J. Goldwater, "Unsupervised word segmentation and lexicon discovery using acoustic word embeddings," *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.  
+[[link](http://dx.doi.org/10.1109/TASLP.2016.2517567), [arXiv](http://arxiv.org/abs/1603.02845), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_taslp2016.pdf)]
+- H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system," *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.  
+[[link](https://doi.org/10.1016/j.csl.2014.04.005), [preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
+
+
+
 ### arXiv preprints
 
 - H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
