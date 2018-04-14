@@ -21,6 +21,13 @@ H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 201
 [An embedded segmental k-means model for unsupervised segmentation and clustering of speech](https://arxiv.org/abs/1703.08135)  
 H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
 
+- H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.  
+<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-primary">code</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>
+- H. Kamper, A. Jansen, and S. J. Goldwater, "Unsupervised word segmentation and lexicon discovery using acoustic word embeddings," *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.  
+<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-success">link</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>
+- H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system," *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.  
+<a href="{{ include.paper.latex }}" style="color:white" class="label label-primary">code</a><a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>
+
 <!--
 ### Journal publications
 
