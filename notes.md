@@ -42,7 +42,7 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 - [bayes_gmm](https://github.com/kamperh/bayes_gmm): Bayesian Gaussian mixture models in Python, as described in [SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf).
 
 
-<!-- Below is old. -->
+<!-- Below is old -->
 
 <!--
 
