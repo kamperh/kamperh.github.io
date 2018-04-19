@@ -19,19 +19,15 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Invited talks
 
-[Deep learning for (more than) speech recognition]({{site.url}}/slides/kamper_indabax2018_talk.pdf)  
+- [Deep learning for (more than) speech recognition]({{site.url}}/slides/kamper_indabax2018_talk.pdf)  
   IndabaX Western Cape, UCT, 2018.
-
-[Learning from unlabelled speech, with and without visual cues]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)  
+- [Learning from unlabelled speech, with and without visual cues]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)  
   Ohio State University, 2017.
-
-[Learning from unlabelled speech, with and without visual cues]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)  
+- [Learning from unlabelled speech, with and without visual cues]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)  
   University of Maryland, CLIP Colloquium Speaker, 2017.
-
-[Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/slides/kamper_mit2016_talk.pdf)  
+- [Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/slides/kamper_mit2016_talk.pdf)  
   MIT, Computer Science and Artificial Intelligence Laboratory, 2016.
-
-[Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
+- [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   Workshop on Machine Learning in Speech and Language Processing, Spotlight Speaker, 2016.
 
 
