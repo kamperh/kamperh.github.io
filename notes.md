@@ -10,7 +10,7 @@ order: 1
 ### Notes
 
 - [Yet another introduction to backpropagation]({{site.url}}/notes/kamper_backprop17.pdf)
-- [Gibbs sampling for fitting finite and infinite Gaussian mixture models]({{site.url}}/notes/kamper_bayesgmm15.pdf)
+- [Gibbs sampling for fitting finite and infinite Gaussian mixture models]({{site.url}}/notes/kamper_bayesgmm15.pdf)  
   [[code](https://github.com/kamperh/bayes_gmm)]
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
 
