@@ -72,8 +72,8 @@ ul, ol {
 li {
   > ul,
   > ol {
-    /*margin-bottom: 0;*/ /*Herman edit*/
-    margin-bottom: 5px;
+    margin-bottom: 0;
+    line-height: 1.4;  /*Herman*/
   }
 }
 
