@@ -9,6 +9,8 @@ order: 1
 
 ### Notes
 
+Hopefully someone else might also find these notes useful. Let me know if you find any mistakes or have any comments.
+
 - [Yet another introduction to backpropagation]({{site.url}}/notes/kamper_backprop17.pdf)
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models]({{site.url}}/notes/kamper_bayesgmm15.pdf)
   [[code](https://github.com/kamperh/bayes_gmm)]
