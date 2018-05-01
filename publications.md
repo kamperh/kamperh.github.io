@@ -7,35 +7,12 @@ order: 3
 
 # Publications
 
-<!--
-### arXiv preprints
-
-[Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
-H. Kamper, G. Shakhnarovich, and K. Livescu, *arXiv preprint arXiv:1710.01949*, 2017.  
-<a href="{{ include.paper.latex }}" style="color:white" class="label label-info">data</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-primary">code</a>
-
-[Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
-H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, *Proc. Interspeech*, 2017.  
-[[arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
-
-[An embedded segmental k-means model for unsupervised segmentation and clustering of speech](https://arxiv.org/abs/1703.08135)  
-H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
-
-### Journal publications
-
-- H. Kamper, A. Jansen, and S. J. Goldwater, "A segmental framework for fully-unsupervised large-vocabulary speech recognition," *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.  
-<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-info">code</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>
-- H. Kamper, A. Jansen, and S. J. Goldwater, "Unsupervised word segmentation and lexicon discovery using acoustic word embeddings," *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.  
-<a href="{{ include.paper.latex }}" style="color:white" class="label label-default">data</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-success">link</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>
-- H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system," *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.  
-<a href="{{ include.paper.latex }}" style="color:white" class="label label-primary">code</a> <a href="{{ include.paper.latex }}" style="color:white" class="label label-danger">slides</a>-->
-
 
 ### arXiv preprints
 
 - H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
   [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
-- H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," accepted for *Proc. ASRU*, 2017.
+- H. Kamper, K. Livescu, and S. J. Goldwater, "An embedded segmental k-means model for unsupervised segmentation and clustering of speech," accepted for *Proc. ASRU*, 2017. [**best paper nominee**]
   [[arXiv](https://arxiv.org/abs/1703.08135)]
 
 
@@ -73,7 +50,7 @@ H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
   [[pdf]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf), [flash slides]({{site.url}}/slides/renshaw+kamper+jansen+goldwater_interspeech2015_talk.pdf)]
 - H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater, "Unsupervised neural network based feature extraction using weak top-down constraints," in *Proc. ICASSP*, 2015.
   [[pdf]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf), [slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
-- H. Kamper, A. Jansen, S. King, and S. J. Goldwater, "Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings," in *Proc. SLT*, 2014. [best poster presentation award]
+- H. Kamper, A. Jansen, S. King, and S. J. Goldwater, "Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings," in *Proc. SLT*, 2014. [**best poster presentation award**]
   [[pdf]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf), [poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
 - H. Kamper, F. de Wet, T. Hain, and T. R. Niesler, "Resource development and experiments in automatic South African broadcast news transcription," in *Proc. SLTU*, 2012.
   [[pdf]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf), [slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
@@ -84,7 +61,7 @@ H. Kamper, K. Livescu, and S. J. Goldwater, *Proc. ASRU*, 2017.
 
 ### National conference proceedings
 
-- H. Kamper and T. R. Niesler, "Optimisation of acoustic models for a target accent using decision-tree state clustering," in *Proc. PRASA*, 2012. [best paper award]
+- H. Kamper and T. R. Niesler, "Optimisation of acoustic models for a target accent using decision-tree state clustering," in *Proc. PRASA*, 2012. [**best paper award**]
   [[pdf]({{site.url}}/papers/kamper+niesler_prasa2012.pdf), [slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
 - H. Kamper and T. R. Niesler, "Accent reclassification and speech recognition of Afrikaans, Black and White South African English," in *Proc. PRASA*, 2011.
   [[pdf]({{site.url}}/papers/kamper+niesler_prasa2011.pdf), [slides]({{site.url}}/slides/kamper+niesler_prasa2011_talk.pdf)]
