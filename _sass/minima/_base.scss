@@ -73,8 +73,8 @@ li {
   > ul,
   > ol {
     margin-bottom: 0;
-    line-height: 1.4;  /*Herman*/
   }
+  margin-bottom: $spacing-unit*0.15; // Herman
 }
 
 
