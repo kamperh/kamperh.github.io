@@ -39,7 +39,7 @@ order: 3
 - S. Settle, K. Levin, H. Kamper, and K. Livescu, "Query-by-example search with discriminative neural acoustic word embeddings," in *Proc. Interspeech*, 2017.
   [[pdf]({{site.url}}/papers/settle+levin+kamper+livescu_interspeech2017.pdf), [arXiv](https://arxiv.org/abs/1706.03818)]
 - S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater, "Towards speech-to-text translation without speech recognition," in *Proc. EACL*, 2017.
-  [[arXiv](https://arxiv.org/abs/1702.03856)]
+  [[pdf]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf), [arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
 - S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez, "Weakly supervised spoken term discovery using cross-lingual side information," in *Proc. ICASSP*, 2017.
   [[pdf]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2016.pdf), [arXiv](https://arxiv.org/abs/1609.06530)]
 - H. Kamper, W. Wang, and K. Livescu, "Deep convolutional acoustic word embeddings using word-pair side information," in *Proc. ICASSP*, 2016.
