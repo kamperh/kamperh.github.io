@@ -31,10 +31,11 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
   Workshop on Machine Learning in Speech and Language Processing, Spotlight Speaker, 2016.
 
 
-### Code
+### Code and data
 
 Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}), as also noted with each of the [publications]({{site.url}}/publications/). Below is a summary of some of the main repositories.
 
+- **[semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio)**: A dataset of semantic keyword spotting Labels for the Flickr Audio Captions Corpus, as described in [arXiv'17](https://arxiv.org/abs/1710.01949).
 - **[recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr)**: A complete recipe for our visually grounded keyword prediction model described in [Interspeech'17](https://arxiv.org/abs/1703.08136).
 - **[segmentalist](https://github.com/kamperh/segmentalist)**: Unsupervised word segmentation and clustering of speech in Python. We use it in [CSL'17](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge 2015 data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist).
 - **[couscous](https://github.com/kamperh/couscous)**:  Theano code for training Siamese CNNs. We used it in [ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf) for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
