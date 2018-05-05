@@ -41,7 +41,7 @@ order: 3
 - S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater, "Towards speech-to-text translation without speech recognition," in *Proc. EACL*, 2017.
   [[pdf]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf), [arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
 - S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez, "Weakly supervised spoken term discovery using cross-lingual side information," in *Proc. ICASSP*, 2017.
-  [[pdf]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2016.pdf), [arXiv](https://arxiv.org/abs/1609.06530)]
+  [[pdf]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf), [arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
 - H. Kamper, W. Wang, and K. Livescu, "Deep convolutional acoustic word embeddings using word-pair side information," in *Proc. ICASSP*, 2016.
   [[pdf]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf), [arXiv](http://arxiv.org/abs/1510.01032), [slides]({{site.url}}/slides/kamper+wang+livescu_icassp2016_talk.pdf), [code](https://github.com/kamperh/recipe_swbd_wordembeds)]
 - H. Kamper, A. Jansen, and S. J. Goldwater, "Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model," in *Proc. Interspeech*, 2015.
