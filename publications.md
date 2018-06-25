@@ -10,6 +10,14 @@ order: 3
 
 ### arXiv preprints
 
+- H. Kamper and M. Roth, "Visually grounded cross-lingual keyword spotting in speech," *arXiv preprint arXiv:1806.05030*, 2017.
+  [[arXiv](https://arxiv.org/abs/1806.05030)]
+- A. Pretorius, S. Kroon, and H. Kamper, "Learning dynamics of linear denoising autoencoders," *accepted at ICML*, 2018.
+  [[arXiv](https://arxiv.org/abs/1806.05413), [code](https://github.com/arnupretorius/lindaedynamics_icml2018)]
+- S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater, "Low-resource speech-to-text translation," *accepted at Interspeech*, 2018.
+  [[arXiv](https://arxiv.org/abs/1803.09164)]
+- R. Menon, H. Kamper, J. Quinn, and T. R. Niesler, "Fast ASR-free and almost zero-resource keyword spotting using DTW and CNNs for humanitarian monitoring," *accepted at Interspeech*, 2018.
+  [[arXiv](placeholder)]
 - H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
   [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
 
