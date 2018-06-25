@@ -20,7 +20,7 @@ order: 3
   [[arXiv](placeholder)]
 - H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
   [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
-
+<!-- ICASSP 2018 -->
 
 
 ### Journal publications
@@ -83,7 +83,7 @@ order: 3
 ### Other publications
 
 - H. Kamper, "Unsupervised neural and Bayesian models for zero-resource speech processing," *Ph.D. dissertation*, University of Edinburgh, UK, 2016.
-  [[pdf]({{site.url}}/papers/kamper_phd2016.pdf)]
+  [[pdf]({{site.url}}/papers/kamper_phd2016.pdf), [arXiv](https://arxiv.org/abs/1701.00851)]
 - H. Kamper, "Speech recognition of South African English accents," *Master's thesis*, Stellenbosch University, South Africa, 2012.
   [[pdf]({{site.url}}/papers/kamper_msceng2012.pdf)]
 
