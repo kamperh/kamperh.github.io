@@ -16,9 +16,9 @@ order: 3
 - [Low-resource speech-to-text translation](https://arxiv.org/abs/1803.09164)  
   S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. Accepted at *Interspeech*, 2018.
   [[arXiv](https://arxiv.org/abs/1803.09164)]
-- [Fast ASR-free and almost zero-resource keyword spotting using DTW and CNNs for humanitarian monitoring](placeholder)  
+- [Fast ASR-free and almost zero-resource keyword spotting using DTW and CNNs for humanitarian monitoring](https://arxiv.org/abs/1806.09374)  
   R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. Accepted at *Interspeech*, 2018.
-  [[arXiv](placeholder)]
+  [[arXiv](https://arxiv.org/abs/1806.09374)]
 - [Visually grounded cross-lingual keyword spotting in speech](https://arxiv.org/abs/1806.05030)  
   H. Kamper and M. Roth. *arXiv preprint arXiv:1806.05030*, 2018.
   [[arXiv](https://arxiv.org/abs/1806.05030)]
