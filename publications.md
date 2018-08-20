@@ -27,7 +27,9 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
 <!-- Raghav SLTU 2018  -->
 <!-- ICASSP 2018 -->
-<!-- Arnu NIPS -->
+<!-- Arnu ICML -->
+<!-- Phoneme based embedded segmental K-means for unsupervised term discovery
+S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 
 
 ### Journal publications
