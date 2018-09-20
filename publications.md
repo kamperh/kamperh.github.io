@@ -24,7 +24,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1806.05030)]
 - [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *arXiv preprint arXiv:1710.01949*, 2017.
-  [[arXiv](https://arxiv.org/abs/1710.01949), [data](https://github.com/kamperh/semantic_flickraudio)]
+  [[arXiv](https://arxiv.org/abs/1710.01949), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
 <!-- Raghav SLTU 2018  -->
 <!-- ICASSP 2018 -->
 <!-- Arnu ICML -->
