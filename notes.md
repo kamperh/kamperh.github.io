@@ -21,7 +21,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 ### Invited talks
 
 - [Frontiers of natural language processing]({{site.url}}/slides/ruder+kamper_indaba2018_talk.pdf)  
-  With Sebastian Ruder. Indaba, 2018.
+  With Sebastian Ruder. Deep Learning Indaba, Stellenbosch, 2018.
 - [Deep learning for (more than) speech recognition]({{site.url}}/slides/kamper_indabax2018_talk.pdf)  
   IndabaX Western Cape, UCT, 2018. [[video](https://youtu.be/lvQipmlgDFY)]
 - [Learning from unlabelled speech, with and without visual cues]({{site.url}}/slides/kamper_unsup_visionspeech_talk_2017.pdf)  
