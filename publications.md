@@ -52,9 +52,6 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 
 
 ### Conference proceedings
-
-**2017:**
-
 - [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)  
   H. Kamper, K. Livescu, and S. J. Goldwater. In *Proc. IEEE ASRU*, 2017. [**best paper nominee**]
   [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf)]
@@ -70,15 +67,9 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 - [Weakly supervised spoken term discovery using cross-lingual side information]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf)  
   S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. In *Proc. IEEE ICASSP*, 2017.
   [[arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
-
-**2016**
-
 - [Deep convolutional acoustic word embeddings using word-pair side information]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)  
   H. Kamper, W. Wang, and K. Livescu. In *Proc. IEEE ICASSP*, 2016.
   [[arXiv](http://arxiv.org/abs/1510.01032), [slides]({{site.url}}/slides/kamper+wang+livescu_icassp2016_talk.pdf), [code](https://github.com/kamperh/recipe_swbd_wordembeds)]
-
-#### 2015
-
 - [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)  
   H. Kamper, A. Jansen, and S. J. Goldwater. In *Proc. Interspeech*, 2015.
   [[poster]({{site.url}}/posters/kamper+jansen+goldwater_interspeech2015_poster.pdf)]
@@ -88,39 +79,24 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 - [Unsupervised neural network based feature extraction using weak top-down constraints]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)  
   H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. In *Proc. IEEE ICASSP*, 2015.
   [[slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
-
-**2014:**
-
 - [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)  
   H. Kamper, A. Jansen, S. King, and S. J. Goldwater. In *Proc. IEEE SLT*, 2014. [**best poster presentation award**]
   [[poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
-
-**2012:**
-
 - [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)  
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. In *Proc. SLTU*, 2012.
   [[slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
 - [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)  
   H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2012. [**best paper award**]
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
-
-**2011:**
-
 - [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)  
   H. Kamper and T. R. Niesler. In *Proc. Interspeech*, 2011.
   [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
 - [Accent reclassification and speech recognition of Afrikaans, Black and White South African English]({{site.url}}/papers/kamper+niesler_prasa2011.pdf)  
   H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2011.
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2011_talk.pdf)]
-
-**2010:**
-
 - [Acoustic modelling of English-accented and Afrikaans-accented South African English]({{site.url}}/papers/kamper+muambamukanya+niesler_prasa2010.pdf)  
   H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. In *Proc. PRASA*, 2010.
   [[slides]({{site.url}}/slides/kamper+muambamukanya+niesler_prasa2010_talk.pdf)]
-
-**2009:**
-
 - [Characterisation and simulation of telephone channels using the TIMIT and NTIMIT databases]({{site.url}}/papers/kamper+niesler_prasa2009.pdf)  
   H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2009.
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2009_talk.pdf)]
