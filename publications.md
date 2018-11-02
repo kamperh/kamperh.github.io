@@ -52,6 +52,9 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 
 
 ### Conference proceedings
+
+**2017**
+
 - [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)  
   H. Kamper, K. Livescu, and S. J. Goldwater. In *Proceedings of the IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)*, 2017. [**best paper nominee**]
   [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf)]
@@ -62,32 +65,47 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
   S. Settle, K. Levin, H. Kamper, and K. Livescu. In *Proceedings of Interspeech*, 2017.
   [[arXiv](https://arxiv.org/abs/1706.03818)]
 - [Towards speech-to-text translation without speech recognition]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf)  
-  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics*, 2017.
+  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2017.
   [[arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
 - [Weakly supervised spoken term discovery using cross-lingual side information]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf)  
   S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2017.
   [[arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
+
+**2016**
+
 - [Deep convolutional acoustic word embeddings using word-pair side information]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)  
   H. Kamper, W. Wang, and K. Livescu. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2016.
   [[arXiv](http://arxiv.org/abs/1510.01032), [slides]({{site.url}}/slides/kamper+wang+livescu_icassp2016_talk.pdf), [code](https://github.com/kamperh/recipe_swbd_wordembeds)]
+
+**2015**
+
 - [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)  
   H. Kamper, A. Jansen, and S. J. Goldwater. In *Proceedings of Interspeech*, 2015.
   [[poster]({{site.url}}/posters/kamper+jansen+goldwater_interspeech2015_poster.pdf)]
-- [A  comparison of neural network methods for unsupervised representation learning on the Zero Resource Speech Challenge]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf)  
+- [A comparison of neural network methods for unsupervised representation learning on the Zero Resource Speech Challenge]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf)  
   D. Renshaw, H. Kamper, A. Jansen, and S. J. Goldwater. In *Proceedings of Interspeech*, 2015.
   [[slides]({{site.url}}/slides/renshaw+kamper+jansen+goldwater_interspeech2015_talk.pdf)]
 - [Unsupervised neural network based feature extraction using weak top-down constraints]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)  
   H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015.
   [[slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
+
+**2014**
+
 - [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)  
   H. Kamper, A. Jansen, S. King, and S. J. Goldwater. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2014. [**best poster presentation award**]
   [[poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
+
+**2012**
+
 - [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)  
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2012.
   [[slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
 - [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2012. [**best paper award**]
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
+
+**Pre-2012**
+
 - [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of Interspeech*, 2011.
   [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
