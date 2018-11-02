@@ -71,13 +71,13 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
   S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. In *Proc. IEEE ICASSP*, 2017.
   [[arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
 
-**2016:**
+**2016**
 
 - [Deep convolutional acoustic word embeddings using word-pair side information]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)  
   H. Kamper, W. Wang, and K. Livescu. In *Proc. IEEE ICASSP*, 2016.
   [[arXiv](http://arxiv.org/abs/1510.01032), [slides]({{site.url}}/slides/kamper+wang+livescu_icassp2016_talk.pdf), [code](https://github.com/kamperh/recipe_swbd_wordembeds)]
 
-**2015:**
+#### 2015
 
 - [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)  
   H. Kamper, A. Jansen, and S. J. Goldwater. In *Proc. Interspeech*, 2015.
