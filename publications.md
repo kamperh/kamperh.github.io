@@ -34,80 +34,96 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 
 ### Journal publications
 
-- [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
+- [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)
   H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.
-  [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf)]
-- [Unsupervised word segmentation and lexicon discovery using acoustic word embeddings](http://dx.doi.org/10.1109/TASLP.2016.2517567)  
+  [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
+- [Unsupervised word segmentation and lexicon discovery using acoustic word embeddings](http://dx.doi.org/10.1109/TASLP.2016.2517567)
   H. Kamper, A. Jansen, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
   [[arXiv](http://arxiv.org/abs/1603.02845), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_taslp2016.pdf)]
-- [Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system](https://doi.org/10.1016/j.csl.2014.04.005)  
+- [Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system](https://doi.org/10.1016/j.csl.2014.04.005)
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.
   [[preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
-- [The impact of accent identification errors on speech recognition of South African English](http://dx.doi.org/10.1590/sajs.2014/20120049)  
+- [The impact of accent identification errors on speech recognition of South African English](http://dx.doi.org/10.1590/sajs.2014/20120049)
   H. Kamper and T. R. Niesler. *South African Journal of Science*, vol. 110, no. 1, 6 pages, 2014.
   [[preprint]({{site.url}}/papers/kamper+niesler_sajs2014.pdf)]
-- [Multi-accent acoustic modelling of South African English](https://doi.org/10.1016/j.specom.2012.01.008)  
+- [Multi-accent acoustic modelling of South African English](https://doi.org/10.1016/j.specom.2012.01.008)
   H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. *Speech Communication*, vol. 54, no. 6, pp. 801-813, 2012.
   [[preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
 
 
+### Conference proceedings
 
-### International conference proceedings
+**2017:**
 
-- [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)  
-  H. Kamper, K. Livescu, and S. J. Goldwater. *Proc. ASRU*, 2017. [**best paper nominee**]
+- [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)
+  H. Kamper, K. Livescu, and S. J. Goldwater. In *Proc. IEEE ASRU*, 2017. [**best paper nominee**]
   [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf)]
-- [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
-  H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu. *Proc. Interspeech*, 2017.
+- [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)
+  H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu. In *Proc. Interspeech*, 2017.
   [[arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
-- [Query-by-example search with discriminative neural acoustic word embeddings]({{site.url}}/papers/settle+levin+kamper+livescu_interspeech2017.pdf)  
-  S. Settle, K. Levin, H. Kamper, and K. Livescu. *Proc. Interspeech*, 2017.
+- [Query-by-example search with discriminative neural acoustic word embeddings]({{site.url}}/papers/settle+levin+kamper+livescu_interspeech2017.pdf)
+  S. Settle, K. Levin, H. Kamper, and K. Livescu. In *Proc. Interspeech*, 2017.
   [[arXiv](https://arxiv.org/abs/1706.03818)]
-- [Towards speech-to-text translation without speech recognition]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf)  
-  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *Proc. EACL*, 2017.
+- [Towards speech-to-text translation without speech recognition]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf)
+  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proc. EACL*, 2017.
   [[arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
-- [Weakly supervised spoken term discovery using cross-lingual side information]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf)  
-  S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. *Proc. ICASSP*, 2017.
+- [Weakly supervised spoken term discovery using cross-lingual side information]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf)
+  S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. In *Proc. IEEE ICASSP*, 2017.
   [[arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
-- [Deep convolutional acoustic word embeddings using word-pair side information]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)  
-  H. Kamper, W. Wang, and K. Livescu. *Proc. ICASSP*, 2016.
+
+**2016:**
+
+- [Deep convolutional acoustic word embeddings using word-pair side information]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf)
+  H. Kamper, W. Wang, and K. Livescu. In *Proc. IEEE ICASSP*, 2016.
   [[arXiv](http://arxiv.org/abs/1510.01032), [slides]({{site.url}}/slides/kamper+wang+livescu_icassp2016_talk.pdf), [code](https://github.com/kamperh/recipe_swbd_wordembeds)]
-- [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *Proc. Interspeech*, 2015.
+
+**2015:**
+
+- [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)
+  H. Kamper, A. Jansen, and S. J. Goldwater. In *Proc. Interspeech*, 2015.
   [[poster]({{site.url}}/posters/kamper+jansen+goldwater_interspeech2015_poster.pdf)]
-- [A  comparison of neural network methods for unsupervised representation learning on the Zero Resource Speech Challenge]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf)  
-  D. Renshaw, H. Kamper, A. Jansen, and S. J. Goldwater. *Proc. Interspeech*, 2015.
-  [[flash slides]({{site.url}}/slides/renshaw+kamper+jansen+goldwater_interspeech2015_talk.pdf)]
-- [Unsupervised neural network based feature extraction using weak top-down constraints]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)  
-  H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. *Proc. ICASSP*, 2015.
+- [A  comparison of neural network methods for unsupervised representation learning on the Zero Resource Speech Challenge]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf)
+  D. Renshaw, H. Kamper, A. Jansen, and S. J. Goldwater. In *Proc. Interspeech*, 2015.
+  [[slides]({{site.url}}/slides/renshaw+kamper+jansen+goldwater_interspeech2015_talk.pdf)]
+- [Unsupervised neural network based feature extraction using weak top-down constraints]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)
+  H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. In *Proc. IEEE ICASSP*, 2015.
   [[slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
-- [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)  
-  H. Kamper, A. Jansen, S. King, and S. J. Goldwater. *Proc. SLT*, 2014. [**best poster presentation award**]
+
+**2014:**
+
+- [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)
+  H. Kamper, A. Jansen, S. King, and S. J. Goldwater. In *Proc. IEEE SLT*, 2014. [**best poster presentation award**]
   [[poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
-- [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)  
-  H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. *Proc. SLTU*, 2012.
+
+**2012:**
+
+- [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)
+  H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. In *Proc. SLTU*, 2012.
   [[slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
-- [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)  
-  H. Kamper and T. R. Niesler. *Proc. Interspeech*, 2011.
-  [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
-
-
-
-### National conference proceedings
-
-- [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)  
-  H. Kamper and T. R. Niesler. *Proc. PRASA*, 2012. [**best paper award**]
+- [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)
+  H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2012. [**best paper award**]
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
-- [Accent reclassification and speech recognition of Afrikaans, Black and White South African English]({{site.url}}/papers/kamper+niesler_prasa2011.pdf)  
-  H. Kamper and T. R. Niesler. *Proc. PRASA*, 2011.
-  [[slides]({{site.url}}/slides/kamper+niesler_prasa2011_talk.pdf)]
-- [Acoustic modelling of English-accented and Afrikaans-accented South African English]({{site.url}}/papers/kamper+muambamukanya+niesler_prasa2010.pdf)  
-  H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. *Proc. PRASA*, 2010.
-  [[slides]({{site.url}}/slides/kamper+muambamukanya+niesler_prasa2010_talk.pdf)]
-- [Characterisation and simulation of telephone channels using the TIMIT and NTIMIT databases]({{site.url}}/papers/kamper+niesler_prasa2009.pdf)  
-  H. Kamper and T. R. Niesler. *Proc. PRASA*, 2009.
-  [[slides]({{site.url}}/slides/kamper+niesler_prasa2009_talk.pdf)]
 
+**2011:**
+
+- [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)
+  H. Kamper and T. R. Niesler. In *Proc. Interspeech*, 2011.
+  [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
+- [Accent reclassification and speech recognition of Afrikaans, Black and White South African English]({{site.url}}/papers/kamper+niesler_prasa2011.pdf)
+  H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2011.
+  [[slides]({{site.url}}/slides/kamper+niesler_prasa2011_talk.pdf)]
+
+**2010:**
+
+- [Acoustic modelling of English-accented and Afrikaans-accented South African English]({{site.url}}/papers/kamper+muambamukanya+niesler_prasa2010.pdf)
+  H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. In *Proc. PRASA*, 2010.
+  [[slides]({{site.url}}/slides/kamper+muambamukanya+niesler_prasa2010_talk.pdf)]
+
+**2009:**
+
+- [Characterisation and simulation of telephone channels using the TIMIT and NTIMIT databases]({{site.url}}/papers/kamper+niesler_prasa2009.pdf)
+  H. Kamper and T. R. Niesler. In *Proc. PRASA*, 2009.
+  [[slides]({{site.url}}/slides/kamper+niesler_prasa2009_talk.pdf)]
 
 
 ### Other publications
