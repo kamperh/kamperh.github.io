@@ -57,7 +57,7 @@ order: 3
   S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. In *Proceedings of Interspeech*, 2018.
   [[arXiv](https://arxiv.org/abs/1803.09164), [poster]({{site.url}}/posters/bansal+kamper+livescu+lopez+goldwater_interspeech2018_poster.pdf)]
 - [Learning dynamics of linear denoising autoencoders]({{site.url}}/papers/pretorius+kroon+kamper_icml2018.pdf)  
-  A. Pretorius, S. Kroon, and H. Kamper. In *Proceedings of the International Conference on Machine Learning*, 2018.
+  A. Pretorius, S. Kroon, and H. Kamper. In *Proceedings of the International Conference on Machine Learning (ICML)*, 2018.
   [[arXiv](https://arxiv.org/abs/1806.05413), [slides]({{site.url}}/slides/pretorius+kroon+kamper_icml2018_talk.pdf), [poster]({{site.url}}/posters/pretorius+kroon+kamper_icml2018_poster.pdf), [code](https://github.com/arnupretorius/lindaedynamics_icml2018)]
 - [Phoneme based embedded segmental K-means for unsupervised term discovery]({{site.url}}/papers/bhati+kamper+murty_icassp2018.pdf)  
   S. Bhati, H. Kamper, and K. S. R. Murty. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018.
