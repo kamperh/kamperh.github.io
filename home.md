@@ -11,15 +11,13 @@ I am a lecturer in [E&E engineering](http://www.ee.sun.ac.za/) at [Stellenbosch 
 
 My main research interests are in machine learning, speech and language processing, and computer vision. I am particularly interested in machine learning methods that can learn from small amounts of labelled data, and in unsupervised methods that can learn directly from raw unlabelled data. Can an algorithm find meaningful units and structures in a corpus of speech audio, with only minimal guidance? How much supervision is required to build a useful speech processing or computer vision system? These questions are central when building language, speech and vision systems in low- and zero-resource settings.
 
-**Recent news:** I am very happy to be one of the Indaba Abuntu (organisers) for the [Deep Learning Indaba 2018](http://www.deeplearningindaba.com/blog/the-drum-beats-on-the-deep-learning-indaba-201819), which will be held from 9 to 14 September 2018 in Stellenbosch.
-
 <!-- <br /> -->
 
-<!-- <div style="text-align:center"> -->
+<div style="text-align:center">
 
 <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp;
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>&ensp;
 <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>&ensp;
 <a href="{{ site.google_scholar }}"><i class="fa fa-google" aria-hidden="true"></i> Scholar</a>
 
-<!-- </div> -->
+</div>

@@ -10,30 +10,19 @@ order: 3
 
 ### arXiv preprints
 
-- [Learning dynamics of linear denoising autoencoders](https://arxiv.org/abs/1806.05413)  
-  A. Pretorius, S. Kroon, and H. Kamper. Accepted at *ICML*, 2018.
-  [[arXiv](https://arxiv.org/abs/1806.05413), [code](https://github.com/arnupretorius/lindaedynamics_icml2018)]
-- [Low-resource speech-to-text translation](https://arxiv.org/abs/1803.09164)  
-  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. Accepted at *Interspeech*, 2018.
-  [[arXiv](https://arxiv.org/abs/1803.09164)]
-- [Fast ASR-free and almost zero-resource keyword spotting using DTW and CNNs for humanitarian monitoring](https://arxiv.org/abs/1806.09374)  
-  R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. Accepted at *Interspeech*, 2018.
-  [[arXiv](https://arxiv.org/abs/1806.09374)]
-- [Visually grounded cross-lingual keyword spotting in speech](https://arxiv.org/abs/1806.05030)  
-  H. Kamper and M. Roth. *arXiv preprint arXiv:1806.05030*, 2018.
-  [[arXiv](https://arxiv.org/abs/1806.05030)]
-- [Semantic keyword spotting by learning from images and speech](https://arxiv.org/abs/1710.01949)  
-  H. Kamper, G. Shakhnarovich, and K. Livescu. *arXiv preprint arXiv:1710.01949*, 2017.
-  [[arXiv](https://arxiv.org/abs/1710.01949), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
-<!-- Raghav SLTU 2018  -->
-<!-- ICASSP 2018 -->
-<!-- Arnu ICML -->
-<!-- Phoneme based embedded segmental K-means for unsupervised term discovery
-S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
+- [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
+  H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
+  [[arXiv](https://arxiv.org/abs/1811.00403)]
+- [Critical initialisation for deep signal propagation in noisy rectifier neural networks](https://arxiv.org/abs/1811.00293)  
+  A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. *arXiv preprint arXiv:1811.00293*, 2018.
+  [[arXiv](https://arxiv.org/abs/1811.00293), [code](https://github.com/ElanVB/noisy_signal_prop)]
 
 
 ### Journal publications
 
+- [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
+  H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
+  [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
 - [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
   H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.
   [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
@@ -52,6 +41,26 @@ S. Bhati, H. Kamper, and K. Sri Rama Murty. *Proc. ICASSP*, 2018. -->
 
 
 ### Conference proceedings
+
+**2018**
+
+- [Visually grounded cross-lingual keyword spotting in speech]({{site.url}}/papers/kamper+roth_sltu2018.pdf)  
+  H. Kamper and M. Roth. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2018.
+  [[arXiv](https://arxiv.org/abs/1806.05030), [slides]({{site.url}}/slides/kamper+roth_sltu2018_talk.pdf)]
+- [ASR-free CNN-DTW keyword spotting using multilingual bottleneck features for almost zero-resource languages]({{site.url}}/papers/menon+kamper+yilmaz+quinn+niesler_sltu18.pdf)  
+  R. Menon, H. Kamper, E. Yilmaz, J. Quinn, and T. R. Niesler. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2018.
+  [[arXiv](https://arxiv.org/abs/1807.08666), [slides]({{site.url}}/slides/menon+kamper+yilmaz+quinn+niesler_sltu18_talk.pdf)]
+- [Fast ASR-free and almost zero-resource keyword spotting using DTW and CNNs for humanitarian monitoring]({{site.url}}/papers/menon+kamper+quinn+niesler_interspeech2018.pdf)  
+  R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. In *Proceedings of Interspeech*, 2018.
+  [[arXiv](https://arxiv.org/abs/1806.09374), [poster]({{site.url}}/posters/menon+kamper+quinn+niesler_interspeech2018_poster.pdf)]
+- [Low-resource speech-to-text translation]({{site.url}}/papers/bansal+kamper+livescu+lopez+goldwater_interspeech2018.pdf)  
+  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. In *Proceedings of Interspeech*, 2018.
+  [[arXiv](https://arxiv.org/abs/1803.09164), [poster]({{site.url}}/posters/bansal+kamper+livescu+lopez+goldwater_interspeech2018_poster.pdf)]
+- [Learning dynamics of linear denoising autoencoders]({{site.url}}/papers/pretorius+kroon+kamper_icml2018.pdf)  
+  A. Pretorius, S. Kroon, and H. Kamper. In *Proceedings of the International Conference on Machine Learning*, 2018.
+  [[arXiv](https://arxiv.org/abs/1806.05413), [slides]({{site.url}}/slides/pretorius+kroon+kamper_icml2018_talk.pdf), [poster]({{site.url}}/posters/pretorius+kroon+kamper_icml2018_poster.pdf), [code](https://github.com/arnupretorius/lindaedynamics_icml2018)]
+- [Phoneme based embedded segmental K-means for unsupervised term discovery]({{site.url}}/papers/bhati+kamper+murty_icassp2018.pdf)  
+  S. Bhati, H. Kamper, and K. S. R. Murty. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018.
 
 **2017**
 
