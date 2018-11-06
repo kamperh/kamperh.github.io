@@ -13,11 +13,11 @@ My main research interests are in machine learning, speech and language processi
 
 <!-- <br /> -->
 
-<!-- <div style="text-align:center"> -->
+<div style="text-align:center">
 
 <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp;
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>&ensp;
 <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>&ensp;
 <a href="{{ site.google_scholar }}"><i class="fa fa-google" aria-hidden="true"></i> Scholar</a>
 
-<!-- </div> -->
+</div>
