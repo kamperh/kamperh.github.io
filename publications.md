@@ -61,6 +61,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1806.05413), [slides]({{site.url}}/slides/pretorius+kroon+kamper_icml2018_talk.pdf), [poster]({{site.url}}/posters/pretorius+kroon+kamper_icml2018_poster.pdf), [code](https://github.com/arnupretorius/lindaedynamics_icml2018)]
 - [Phoneme based embedded segmental K-means for unsupervised term discovery]({{site.url}}/papers/bhati+kamper+murty_icassp2018.pdf)  
   S. Bhati, H. Kamper, and K. S. R. Murty. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018.
+  [[poster]({{site.url}}/papers/bhati+kamper+murty_icassp2018_poster.pdf)]
 
 **2017**
 
@@ -72,7 +73,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
 - [Query-by-example search with discriminative neural acoustic word embeddings]({{site.url}}/papers/settle+levin+kamper+livescu_interspeech2017.pdf)  
   S. Settle, K. Levin, H. Kamper, and K. Livescu. In *Proceedings of Interspeech*, 2017.
-  [[arXiv](https://arxiv.org/abs/1706.03818)]
+  [[arXiv](https://arxiv.org/abs/1706.03818), [poster]({{site.url}}/poster/settle+levin+kamper+livescu_interspeech2017_poster.pdf)]
 - [Towards speech-to-text translation without speech recognition]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2017.
   [[arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
