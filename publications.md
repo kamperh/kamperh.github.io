@@ -10,6 +10,9 @@ order: 3
 
 ### arXiv preprints
 
+- [Multimodal one-shot learning of speech and images](https://arxiv.org/abs/1811.03875)  
+  H. Kamper. *arXiv preprint arXiv:1811.03875*, 2018.
+  [[arXiv](https://arxiv.org/abs/1811.03875), [code](https://github.com/rpeloff/multimodal-one-shot-learning)]
 - [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
   H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00403)]
