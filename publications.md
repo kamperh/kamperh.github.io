@@ -13,6 +13,9 @@ order: 3
 - [Multimodal one-shot learning of speech and images](https://arxiv.org/abs/1811.03875)  
   R. P. Eloff, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1811.03875*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.03875), [code](https://github.com/rpeloff/multimodal-one-shot-learning)]
+- [Multilingual and unsupervised subword modeling for zero-resource languages](https://arxiv.org/abs/1811.04791)  
+  E. Hermann, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:1811.04791*, 2018.
+  [[arXiv](https://arxiv.org/abs/1811.04791)]
 - [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
   H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00403)]
