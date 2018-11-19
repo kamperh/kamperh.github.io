@@ -18,7 +18,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1811.04791)]
 - [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
   H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.00403)]
+  [[arXiv](https://arxiv.org/abs/1811.00403), [code](https://github.com/kamperh/recipe_bucktsong_awe)]
 - [Critical initialisation for deep signal propagation in noisy rectifier neural networks](https://arxiv.org/abs/1811.00293)  
   A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. *arXiv preprint arXiv:1811.00293*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00293), [code](https://github.com/ElanVB/noisy_signal_prop)]
