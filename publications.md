@@ -22,6 +22,9 @@ order: 3
 - [Critical initialisation for deep signal propagation in noisy rectifier neural networks](https://arxiv.org/abs/1811.00293)  
   A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. *arXiv preprint arXiv:1811.00293*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00293), [code](https://github.com/ElanVB/noisy_signal_prop)]
+- [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/abs/1809.01431)  
+  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1811.00403*, 2018.
+  [[arXiv](https://arxiv.org/abs/1809.01431)]
 <!-- Raghav ICASSP submission -->
 <!-- Ari+Karen ICASSP submission -->
 
