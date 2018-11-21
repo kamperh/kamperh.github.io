@@ -28,8 +28,8 @@ order: 3
 - [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/abs/1809.01431)  
   S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1811.00403*, 2018.
   [[arXiv](https://arxiv.org/abs/1809.01431)]
-<!-- Raghav ICASSP submission -->
 <!-- Ari+Karen ICASSP submission -->
+<!-- Andre+Herman+Herman submission -->
 
 
 ### Journal publications
