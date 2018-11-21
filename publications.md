@@ -20,7 +20,7 @@ order: 3
   H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00403), [code](https://github.com/kamperh/recipe_bucktsong_awe)]
 - [Almost zero-resource ASR-free keyword spotting using multilingual bottleneck features and correspondence autoencoders](https://arxiv.org/abs/1811.08284)  
-  R. Menon, H. Kamper, J. Quinn, and T. R. Niesler.
+  R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. *arXiv preprint arXiv:1811.08284*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.08284)]
 - [Critical initialisation for deep signal propagation in noisy rectifier neural networks](https://arxiv.org/abs/1811.00293)  
   A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. *arXiv preprint arXiv:1811.00293*, 2018.
