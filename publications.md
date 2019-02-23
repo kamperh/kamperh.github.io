@@ -55,8 +55,6 @@ order: 3
 
 **2018**
 
-**2018**
-
 - [Critical initialisation for deep signal propagation in noisy rectifier neural networks]({{site.url}}/papers/pretorius+etal_neurips18.pdf)  
   A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. In *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.00293), [poster]({{site.url}}/posters/pretorius+etal_neurips18_poster.pdf), [video](https://www.youtube.com/watch?v=QEZLB4A1mbA)]
