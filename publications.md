@@ -22,9 +22,6 @@ order: 3
 - [Almost zero-resource ASR-free keyword spotting using multilingual bottleneck features and correspondence autoencoders](https://arxiv.org/abs/1811.08284)  
   R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. *arXiv preprint arXiv:1811.08284*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.08284)]
-- [Critical initialisation for deep signal propagation in noisy rectifier neural networks](https://arxiv.org/abs/1811.00293)  
-  A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. *arXiv preprint arXiv:1811.00293*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.00293), [code](https://github.com/ElanVB/noisy_signal_prop), [video](https://www.youtube.com/watch?v=QEZLB4A1mbA)]
 - [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/abs/1809.01431)  
   S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1811.00403*, 2018.
   [[arXiv](https://arxiv.org/abs/1809.01431)]
@@ -58,6 +55,11 @@ order: 3
 
 **2018**
 
+**2018**
+
+- [Critical initialisation for deep signal propagation in noisy rectifier neural networks]({{site.url}}/papers/pretorius+etal_neurips18.pdf)  
+  A. Pretorius, E. Van Biljon, S. Kroon, and H. Kamper. In *Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*, 2018.
+  [[arXiv](https://arxiv.org/abs/1811.00293), [poster]({{site.url}}/posters/pretorius+etal_neurips18_poster.pdf), [video](https://www.youtube.com/watch?v=QEZLB4A1mbA)]
 - [Visually grounded cross-lingual keyword spotting in speech]({{site.url}}/papers/kamper+roth_sltu2018.pdf)  
   H. Kamper and M. Roth. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2018.
   [[arXiv](https://arxiv.org/abs/1806.05030), [slides]({{site.url}}/slides/kamper+roth_sltu2018_talk.pdf)]
