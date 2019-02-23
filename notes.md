@@ -20,6 +20,9 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Invited talks
 
+- [Multimodal learning from
+images and speech]({{site.url}}/slides/kamper_leuvenupf_talk_2019.pdf)  
+  KU Leuven & UPF Barcelona, 2019.
 - [Acoustic word embeddings for low resource speech processing](https://twimlai.com/twiml-talk-191-acoustic-word-embeddings-for-low-resource-speech-processing-with-herman-kamper/)  
   TWiML&AI Podcast, 2018.
 - [Frontiers of natural language processing]({{site.url}}/slides/ruder+kamper_indaba2018_talk.pdf)  
