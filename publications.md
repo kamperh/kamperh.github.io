@@ -13,7 +13,7 @@ order: 3
 - [Semantic query-by-example speech search using visual grounding](https://arxiv.org/abs/1904.07078)  
   H. Kamper, A. Anastassiou, and K. Livescu. *arXiv preprint arXiv:1904.07078*, 2019.
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks ](https://arxiv.org/abs/1904.07556)  
-  R. P. Eloff, A. Nortje, B. L. van Niekerk, A. Govender, L. Nortje, A. Pretorius, E. van Biljon, E. van der Westhuizen, L. van Staden, and H. Kamper. *arxXiv preprint arXiv:1904.07556*, 2019.
+  R. P. Eloff, A. Nortje, B. L. van Niekerk, A. Govender, L. Nortje, A. Pretorius, E. van Biljon, E. van der Westhuizen, L. van Staden, and H. Kamper. *arXiv preprint arXiv:1904.07556*, 2019.
 - [On the contributions of visual and textual supervision in low-resource semantic speech retrieval](https://arxiv.org/abs/1904.10947)  
   A. Pasad, B. Shi, H. Kamper, and K. Livescu. *arXiv preprint arXiv:1904.10947*, 2019.
 - [Multimodal one-shot learning of speech and images](https://arxiv.org/abs/1811.03875)  
