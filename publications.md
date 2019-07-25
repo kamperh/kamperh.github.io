@@ -24,7 +24,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1811.04791)]
 - [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
   H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.00403), [code](https://github.com/kamperh/recipe_bucktsong_awe)]
+  [[arXiv](https://arxiv.org/abs/1811.00403), [code](https://github.com/kamperh/recipe_bucktsong_awe_py3)]
 - [Almost zero-resource ASR-free keyword spotting using multilingual bottleneck features and correspondence autoencoders](https://arxiv.org/abs/1811.08284)  
   R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. *arXiv preprint arXiv:1811.08284*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.08284)]
