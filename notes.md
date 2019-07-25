@@ -41,7 +41,7 @@ images and speech]({{site.url}}/slides/kamper_leuvenupf_talk_2019.pdf)
 
 ### Code and data
 
-Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[codez]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give summary of some of the main repositories.
+Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give summary of some of the main repositories.
 
 - **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe)**: A complete recipe for the unsupervised acoustic word embedding methods described in [ICASSP'19](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets.
 - **[recipe_semantic_flickraudio](https://github.com/kamperh/recipe_semantic_flickraudio)**: A complete recipe for our visually grounded semantic speech retrieval model described in [TASLP'18](https://arxiv.org/abs/1710.01949). This recipe uses the [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio) dataset below, and is an updated version of the [recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr) recipe (also below).
