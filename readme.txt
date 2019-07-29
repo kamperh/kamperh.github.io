@@ -1,1 +1,1 @@
-Copied theme directories from https://github.com/jekyll/minima.
+Theme based on https://github.com/jekyll/minima.
