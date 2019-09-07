@@ -10,6 +10,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Classifying topics in speech when all you have is crummy translations](https://arxiv.org/abs/1908.11425)  
+  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1908.11425*, 2019.
 - [Semantic query-by-example speech search using visual grounding](https://arxiv.org/abs/1904.07078)  
   H. Kamper, A. Anastassiou, and K. Livescu. *arXiv preprint arXiv:1904.07078*, 2019.
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks ](https://arxiv.org/abs/1904.07556)  
