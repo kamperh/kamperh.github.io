@@ -21,7 +21,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 ### Invited talks
 
 - [(Outrageously) low-resource speech processing]({{site.url}}/slides/kamper_indaba2019_talk.pdf)  
-  NLP @ Deep Learning Indaba, Nairobi, 2019.
+  Deep Learning Indaba, Nairobi, 2019.
 - [Multimodal learning from images and speech]({{site.url}}/slides/kamper_leuvenupf_talk_2019.pdf)  
   Aalto University & Tampere University, 2019.  
   KU Leuven & UPF Barcelona, 2019.
