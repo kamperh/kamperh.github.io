@@ -12,28 +12,9 @@ order: 3
 
 - [Classifying topics in speech when all you have is crummy translations](https://arxiv.org/abs/1908.11425)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1908.11425*, 2019.
-- [Semantic query-by-example speech search using visual grounding](https://arxiv.org/abs/1904.07078)  
-  H. Kamper, A. Anastassiou, and K. Livescu. *arXiv preprint arXiv:1904.07078*, 2019.
-- [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks ](https://arxiv.org/abs/1904.07556)  
-  R. Eloff, A. Nortje, B. L. van Niekerk, A. Govender, L. Nortje, A. Pretorius, E. van Biljon, E. van der Westhuizen, L. van Staden, and H. Kamper. *arXiv preprint arXiv:1904.07556*, 2019.
-- [On the contributions of visual and textual supervision in low-resource semantic speech retrieval](https://arxiv.org/abs/1904.10947)  
-  A. Pasad, B. Shi, H. Kamper, and K. Livescu. *arXiv preprint arXiv:1904.10947*, 2019.
-- [Multimodal one-shot learning of speech and images](https://arxiv.org/abs/1811.03875)  
-  R. Eloff, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1811.03875*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.03875), [code](https://github.com/rpeloff/multimodal-one-shot-learning)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://arxiv.org/abs/1811.04791)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:1811.04791*, 2018.
   [[arXiv](https://arxiv.org/abs/1811.04791)]
-- [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models](https://arxiv.org/abs/1811.00403)  
-  H. Kamper. *arXiv preprint arXiv:1811.00403*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.00403), [code](https://github.com/kamperh/recipe_bucktsong_awe_py3)]
-- [Almost zero-resource ASR-free keyword spotting using multilingual bottleneck features and correspondence autoencoders](https://arxiv.org/abs/1811.08284)  
-  R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. *arXiv preprint arXiv:1811.08284*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.08284)]
-- [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/abs/1809.01431)  
-  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1811.00403*, 2018.
-  [[arXiv](https://arxiv.org/abs/1809.01431)]
-<!-- Ari+Karen ICASSP submission -->
 <!-- Andre+Herman+Herman submission -->
 
 
