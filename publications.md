@@ -52,7 +52,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1904.10947)]
 - [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders](https://arxiv.org/abs/1811.08284)  
   R. Menon, H. Kamper, E. van der Westhuizen, J. Quinn, and T. R. Niesler. In *Proceedings of Interspeech*, 2019.
-  [[arXiv](https://arxiv.org/abs/1811.08284), [poster]({{site.url}}/poster/menon+etal_interspeech2019_poster.pdf)]
+  [[arXiv](https://arxiv.org/abs/1811.08284), [poster]({{site.url}}/posters/menon+etal_interspeech2019_poster.pdf)]
 - [Truly unsupervised acoustic word embeddings using weak top-down constraints in encoder-decoder models]({{site.url}}/papers/kamper_icassp2019.pdf)  
   H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2019.
   [[arXiv](https://arxiv.org/abs/1811.00403), [poster]({{site.url}}/posters/kamper_icassp2019_poster.pdf), [code](https://github.com/kamperh/recipe_bucktsong_awe_py3)]
@@ -64,7 +64,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1811.03875), [poster]({{site.url}}/posters/eloff+etal_icassp2019_poster.pdf), [code](https://github.com/rpeloff/multimodal-one-shot-learning)]
 - [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation]({{site.url}}/papers/bansal+etal_naacl2019.pdf)  
   S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. In *Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2019.
-  [[arXiv](https://arxiv.org/abs/1809.01431), [slides]({{site.url}}/slides/bansal+etal_naacl2019_talk.pdf), [code](github.com/0xSameer/ast)]
+  [[arXiv](https://arxiv.org/abs/1809.01431), [slides]({{site.url}}/slides/bansal+etal_naacl2019_talk.pdf), [code](https://github.com/0xSameer/ast)]
 
 **2018**
 
