@@ -1,0 +1,5 @@
+The data in `siyavula_en_af.3.tmx` was compiled by [Herman
+Kamper](https://www.kamperh.com) from content on the [Siyavula
+website](https://www.siyavula.com/read). It is released under the
+[CC BY](https://creativecommons.org/licenses/by/3.0/) license, with credit to
+Siyavula for the content and Herman Kamper for the compilation.
