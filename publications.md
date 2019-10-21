@@ -10,6 +10,11 @@ order: 3
 
 ### arXiv preprints
 
+- [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://arxiv.org/abs/1910.05563)  
+  A. Pretorius, H. Kamper, S. Kroon
+- [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks
+](https://arxiv.org/abs/1910.05725)  
+  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, S. Kroon
 - [Classifying topics in speech when all you have is crummy translations](https://arxiv.org/abs/1908.11425)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1908.11425*, 2019.
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://arxiv.org/abs/1811.04791)  
