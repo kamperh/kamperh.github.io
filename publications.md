@@ -54,7 +54,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1904.07556), [slides]({{site.url}}/slides/eloff+etal_interspeech2019_talk.pdf)]
 - [On the contributions of visual and textual supervision in low-resource semantic speech retrieval]({{site.url}}/papers/pasad+etal_interspeech2019.pdf)  
   A. Pasad, B. Shi, H. Kamper, and K. Livescu. In *Proceedings of Interspeech*, 2019.
-  [[arXiv](https://arxiv.org/abs/1904.10947), [poster]({{site.url}}/posters/pasad+etal_interspeech2019_poster .pdf)]
+  [[arXiv](https://arxiv.org/abs/1904.10947), [poster]({{site.url}}/posters/pasad+etal_interspeech2019_poster.pdf)]
 - [Feature exploration for almost zero-resource ASR-free keyword spotting using a multilingual bottleneck extractor and correspondence autoencoders]({{site.url}}/papers/menon+etal_interspeech2019.pdf)  
   R. Menon, H. Kamper, E. van der Westhuizen, J. Quinn, and T. R. Niesler. In *Proceedings of Interspeech*, 2019.
   [[arXiv](https://arxiv.org/abs/1811.08284), [poster]({{site.url}}/posters/menon+etal_interspeech2019_poster.pdf)]
