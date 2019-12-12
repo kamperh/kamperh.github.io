@@ -10,6 +10,10 @@ order: 3
 
 ### arXiv preprints
 
+- [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
+  A. Nortje, H. A. Engelbrecht, H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
+- [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
+  A. Nortje, W. Brink, H. A. Engelbrecht, H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
 - [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://arxiv.org/abs/1910.05563)  
   A. Pretorius, H. Kamper, S. Kroon. *arXiv preprint arXiv:1910.05563*, 2019.
 - [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks
