@@ -5,20 +5,28 @@ permalink: /people/
 order: 2
 ---
 
-# Low-resource Speech & Language (LSL) group
+# Low-resource Speech & Language (LSL)
 
-LSL is a small research group working on building speech and language processing models with as little supervision as possible.
+LSL is a small research group at Stellenbosch University working on building speech and language processing models with as little supervision as possible.
 
 ### Current students
 
-- Ryan Eloff (MEng, co-supervisor: Herman Engelbrecht)
+- Kayode Olaleye (PhD)
+- Benjamin van Niekerk (PhD)
+- Laura Martinus (MEng)
+- Christiaan Jacobs (MEng)
+- Lisa van Staden (MEng)
 - Leanne Nortje (MEng)
+- Henry Kotze (MEng, main supervisor: Willem Jordaan)
+- André Nortje (MEng, co-supervisor: Herman Engelbrecht)
+- Ryan Eloff (MEng, co-supervisor: Herman Engelbrecht)
 - Petri-John Last (MEng, co-supervisor: Herman Engelbrecht)
+- Matthew Reynard (MEng, main supervisor: Herman Engelbrecht)
 
 ### Past students
 
-- [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: Steve Kroon)
-- Sameer Bansal (PhD, 2019, main supervisors: Sharon Goldwater and Adam Lopez)
+- [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: [Steve Kroon](http://www.cs.sun.ac.za/~kroon/))
+- Sameer Bansal (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
 
 <!--
 
