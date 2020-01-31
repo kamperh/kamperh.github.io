@@ -18,10 +18,10 @@ LSL is a small research group at Stellenbosch University working on building spe
 - Lisa van Staden (MEng)
 - Leanne Nortje (MEng)
 - Henry Kotze (MEng, main supervisor: [Willem Jordaan](https://www.esl.sun.ac.za/willem-jordaan/))
-- André Nortje (MEng, co-supervisor: Herman Engelbrecht)
-- Ryan Eloff (MEng, co-supervisor: Herman Engelbrecht)
-- Petri-John Last (MEng, co-supervisor: Herman Engelbrecht)
-- Matthew Reynard (MEng, main supervisor: Herman Engelbrecht)
+- André Nortje (MEng, co-supervisor: Herman A. Engelbrecht)
+- Ryan Eloff (MEng, co-supervisor: Herman A. Engelbrecht)
+- Petri-John Last (MEng, co-supervisor: Herman A. Engelbrecht)
+- Matthew Reynard (MEng, main supervisor: Herman A. Engelbrecht)
 
 ### Past students
 
