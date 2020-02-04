@@ -13,7 +13,7 @@ The *Low-resource Speech & Language (LSL)* group is a small research group at St
 
 - Kayode Olaleye (PhD)
 - Benjamin van Niekerk (PhD)
-- Laura Martinus (MEng)
+- Laura Martinus (MEng, co-supervisor: [Jan Buys](http://www.janmbuys.com/))
 - Christiaan Jacobs (MEng)
 - Lisa van Staden (MEng)
 - Leanne Nortje (MEng)
