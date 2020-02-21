@@ -10,6 +10,9 @@ order: 3
 
 ### arXiv preprints
 
+- [Multilingual acoustic word embedding models for processing zero-resource languages ](https://arxiv.org/abs/2002.02109)  
+  H. Kamper, Y. Matusevych, S. J. Goldwater. *arXiv preprint arXiv:2002.02109*, 2020.
+  [[code](https://github.com/kamperh/globalphone_awe)]
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
