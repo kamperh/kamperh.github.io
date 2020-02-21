@@ -42,7 +42,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 
 ### Code and data
 
-Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give summary of some of the main repositories.
+Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
 
 - **[globalphone_awe](https://github.com/kamperh/globalphone_awe)**: A complete recipe for the multilingual acoustic word embedding approach described in [ICASSP'20](https://arxiv.org/abs/2002.02109). Embeddings are trained on one set of GlobalPhone languages and evaluated on another.
 - **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe_py3)**: A complete recipe for the unsupervised acoustic word embedding methods described in [ICASSP'19](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets.
