@@ -32,8 +32,8 @@ order: 3
 
 ### Journal publications
 
-- [Unsupervised feature Learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
-  H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
+- [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
+  P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
   [[preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
