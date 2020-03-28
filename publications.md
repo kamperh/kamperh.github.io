@@ -61,7 +61,7 @@ order: 3
 
 - [Improving unsupervised acoustic word embeddings using speaker and gender information]({{site.url}}/papers/vanstaden+kamper_prasa2020.pdf)  
   L. van Staden and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
-  [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk_talk.pdf)]
+  [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk.pdf)]
 - [Towards improving human arithmetic learning using machine learning]({{site.url}}/papers/hall+kamper_prasa2020.pdf)  
   T. Hall and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
   [[poster]({{site.url}}/poster/hall+kamper_prasa2020_poster.pdf)]
