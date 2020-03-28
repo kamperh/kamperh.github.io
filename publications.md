@@ -64,7 +64,7 @@ order: 3
   [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk.pdf)]
 - [Towards improving human arithmetic learning using machine learning]({{site.url}}/papers/hall+kamper_prasa2020.pdf)  
   T. Hall and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
-  [[poster]({{site.url}}/poster/hall+kamper_prasa2020_poster.pdf)]
+  [[poster]({{site.url}}/posters/hall+kamper_prasa2020_poster.pdf)]
 - [Combining primitive DQNs for improved reinforcement learning in Minecraft]({{site.url}}/papers/reynard+kamper+rosman+engelbrecht_prasa2020.pdf)  
    M. Reynard, H. Kamper, B. Rosman, and H. A. Engelbrecht. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
 
