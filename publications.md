@@ -32,6 +32,9 @@ order: 3
 
 ### Journal publications
 
+- [Unsupervised feature Learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
+  H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
+  [[preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
   [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
@@ -53,6 +56,17 @@ order: 3
 
 
 ### Conference proceedings
+
+**2020**
+
+- [Improving unsupervised acoustic word embeddings using speaker and gender information]({{site.url}}/papers/vanstaden+kamper_prasa2020.pdf)  
+  L. van Staden and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
+  [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk_talk.pdf)]
+- [Towards improving human arithmetic learning using machine learning]({{site.url}}/papers/hall+kamper_prasa2020.pdf)  
+  T. Hall and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
+  [[poster]({{site.url}}/poster/hall+kamper_prasa2020_poster.pdf)]
+- [Combining primitive DQNs for improved reinforcement learning in Minecraft]({{site.url}}/papers/reynard+kamper+rosman+engelbrecht_prasa2020.pdf)  
+   M. Reynard, H. Kamper, B. Rosman, and H. A. Engelbrecht. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
 
 **2019**
 
