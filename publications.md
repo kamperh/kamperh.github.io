@@ -10,18 +10,20 @@ order: 3
 
 ### arXiv preprints
 
+- [Analyzing autoencoder-based acoustic word embeddings](https://arxiv.org/abs/2004.01647)  
+  Y. Matusevych, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:2004.01647*, 2020.
 - [Multilingual acoustic word embedding models for processing zero-resource languages ](https://arxiv.org/abs/2002.02109)  
-  H. Kamper, Y. Matusevych, S. J. Goldwater. *arXiv preprint arXiv:2002.02109*, 2020.
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2002.02109*, 2020.
   [[code](https://github.com/kamperh/globalphone_awe)]
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
-  A. Nortje, H. A. Engelbrecht, H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
+  A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
-  A. Nortje, W. Brink, H. A. Engelbrecht, H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
+  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
 - [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://arxiv.org/abs/1910.05563)  
-  A. Pretorius, H. Kamper, S. Kroon. *arXiv preprint arXiv:1910.05563*, 2019.
+  A. Pretorius, H. Kamper, and S. Kroon. *arXiv preprint arXiv:1910.05563*, 2019.
 - [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks
 ](https://arxiv.org/abs/1910.05725)  
-  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, S. Kroon. *arXiv preprint arXiv:1910.05725*, 2019.
+  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *arXiv preprint arXiv:1910.05725*, 2019.
 - [Classifying topics in speech when all you have is crummy translations](https://arxiv.org/abs/1908.11425)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1908.11425*, 2019.
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://arxiv.org/abs/1811.04791)  
