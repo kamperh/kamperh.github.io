@@ -10,6 +10,10 @@ order: 3
 
 ### arXiv preprints
 
+- [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020.
+- [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge](https://arxiv.org/abs/2005.09409)  
+  B. van Niekerk, L. Nortje, and H. Kamper. *arXiv preprint arXiv:2005.09409*, 2020.
 - [Analyzing autoencoder-based acoustic word embeddings](https://arxiv.org/abs/2004.01647)  
   Y. Matusevych, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:2004.01647*, 2020.
 - [Multilingual acoustic word embedding models for processing zero-resource languages ](https://arxiv.org/abs/2002.02109)  
@@ -74,7 +78,7 @@ order: 3
 **2019**
 
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks]({{site.url}}/papers/eloff+etal_interspeech2019.pdf)  
-  R. Eloff, A. Nortje, B. L. van Niekerk, A. Govender, L. Nortje, A. Pretorius, E. van Biljon, E. van der Westhuizen, L. van Staden, and H. Kamper. In *Proceedings of Interspeech*, 2019.
+  R. Eloff, A. Nortje, B. van Niekerk, A. Govender, L. Nortje, A. Pretorius, E. van Biljon, E. van der Westhuizen, L. van Staden, and H. Kamper. In *Proceedings of Interspeech*, 2019.
   [[arXiv](https://arxiv.org/abs/1904.07556), [slides]({{site.url}}/slides/eloff+etal_interspeech2019_talk.pdf)]
 - [On the contributions of visual and textual supervision in low-resource semantic speech retrieval]({{site.url}}/papers/pasad+etal_interspeech2019.pdf)  
   A. Pasad, B. Shi, H. Kamper, and K. Livescu. In *Proceedings of Interspeech*, 2019.
