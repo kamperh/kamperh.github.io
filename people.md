@@ -5,9 +5,9 @@ permalink: /people/
 order: 2
 ---
 
-# Low-resource Speech & Language (LSL)
+# Low-Resource Speech & Language (LSL)
 
-The *Low-resource Speech & Language (LSL)* group is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP and MediaLabs at Stellenbosch.
+The *Low-Resource Speech & Language (LSL)* group is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP and MediaLabs at Stellenbosch.
 
 ### Current students
 
@@ -21,12 +21,12 @@ The *Low-resource Speech & Language (LSL)* group is a small research group at St
 
 ### Past students
 
-- André Nortje (MEng, co-supervisor: Herman A. Engelbrecht)
-- Ryan Eloff (MEng, co-supervisor: Herman A. Engelbrecht)
-- Petri-John Last (MEng, co-supervisor: Herman A. Engelbrecht)
-- Matthew Reynard (MEng, main supervisor: Herman A. Engelbrecht)
+- André Nortje (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
+- Ryan Eloff (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
+- Petri-John Last (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
+- [Matthew Reynard](https://www.matthewreynard.com/) (MEng, 2020, main supervisor: Herman A. Engelbrecht)
 - [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: [Steve Kroon](http://www.cs.sun.ac.za/~kroon/))
-- Sameer Bansal (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
+- [Sameer Bansal](https://0xsameer.github.io/) (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
 
 <!--
 
