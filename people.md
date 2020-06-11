@@ -7,7 +7,7 @@ order: 2
 
 # Low-Resource Speech & Language (LSL)
 
-The *Low-Resource Speech & Language (LSL)* group is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP and MediaLabs at Stellenbosch.
+The *Low-Resource Speech & Language (LSL)* group is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and MediaLab at Stellenbosch.
 
 ### Current students
 
