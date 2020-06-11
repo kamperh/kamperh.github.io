@@ -32,7 +32,7 @@ order: 3
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
   [[arXiv](http://arxiv.org/abs/2003.12799), [preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
-  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. ?, pp. ?, 2020.
+  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2020.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
