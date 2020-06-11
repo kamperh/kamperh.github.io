@@ -14,11 +14,6 @@ order: 3
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020. [[code](https://github.com/kamperh/globalphone_awe)]
 - [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge](https://arxiv.org/abs/2005.09409)  
   B. van Niekerk, L. Nortje, and H. Kamper. *arXiv preprint arXiv:2005.09409*, 2020.
-- [Analyzing autoencoder-based acoustic word embeddings](https://arxiv.org/abs/2004.01647)  
-  Y. Matusevych, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:2004.01647*, 2020.
-- [Multilingual acoustic word embedding models for processing zero-resource languages ](https://arxiv.org/abs/2002.02109)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2002.02109*, 2020.
-  [[code](https://github.com/kamperh/globalphone_awe)]
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
@@ -28,11 +23,6 @@ order: 3
 - [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks
 ](https://arxiv.org/abs/1910.05725)  
   A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *arXiv preprint arXiv:1910.05725*, 2019.
-- [Classifying topics in speech when all you have is crummy translations](https://arxiv.org/abs/1908.11425)  
-  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. *arXiv preprint arXiv:1908.11425*, 2019.
-- [Multilingual and unsupervised subword modeling for zero-resource languages](https://arxiv.org/abs/1811.04791)  
-  E. Hermann, H. Kamper, and S. J. Goldwater. *arXiv preprint arXiv:1811.04791*, 2018.
-  [[arXiv](https://arxiv.org/abs/1811.04791)]
 <!-- Andre+Herman+Herman submission -->
 
 
