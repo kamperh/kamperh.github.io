@@ -31,6 +31,9 @@ order: 3
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
   [[arXiv](http://arxiv.org/abs/2003.12799), [preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
+- [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
+  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. ?, pp. ?, 2020.
+  [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
   [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
@@ -55,6 +58,15 @@ order: 3
 
 **2020**
 
+- [Multilingual acoustic word embedding models for processing zero-resource languages]({{site.url}}/papers/kamper+matusevych+goldwater_icassp2020.pdf)  
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
+  [[arXiv](https://arxiv.org/abs/2002.02109), [slides]({{site.url}}/slides/kamper+matusevych+goldwater_icassp2020_talk.pdf), [code](https://github.com/kamperh/globalphone_awe), [video](https://youtu.be/J2QJKguiULQ)]
+- [Cross-lingual topic prediction for speech using translations]({{site.url}}/papers/bansal+kamper+lopez+goldwater_icassp2020.pdf)  
+  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
+  [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
+- [Analyzing autoencoder-based acoustic word embeddings]({{site.url}}/papers/matusevych+kamper+goldwater_baics2020.pdf)  
+  Y. Matusevych, H. Kamper, and S. J. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
+  [[arXiv](https://arxiv.org/abs/2004.01647), [slides]({{site.url}}/slides/matusevych+kamper+goldwater_baics2020_talk.pdf)]
 - [Improving unsupervised acoustic word embeddings using speaker and gender information]({{site.url}}/papers/vanstaden+kamper_prasa2020.pdf)  
   L. van Staden and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
   [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk.pdf)]
