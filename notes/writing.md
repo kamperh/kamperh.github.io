@@ -1,9 +1,9 @@
 ---
-title: Academic Writing
+title: Writing Papers and Theses
 layout: page
 exclude: true
 ---
 
-# Academic Writing
+# Writing Papers and Theses
 
 This is a test 3.
