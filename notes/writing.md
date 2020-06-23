@@ -1,8 +1,7 @@
 ---
 title: Writing Papers and Theses
-layout: post
+layout: page
 exclude: true
-date: 2020-06-23
 ---
 
 # Writing Papers and Theses
