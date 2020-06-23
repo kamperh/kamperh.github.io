@@ -18,6 +18,20 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 
 
+### Code and data
+
+Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
+
+- **[globalphone_awe](https://github.com/kamperh/globalphone_awe)**: A complete recipe for the multilingual acoustic word embedding approach described in [ICASSP'20](https://arxiv.org/abs/2002.02109). Embeddings are trained on one set of GlobalPhone languages and evaluated on another.
+- **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe_py3)**: A complete recipe for the unsupervised acoustic word embedding methods described in [ICASSP'19](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets.
+- **[recipe_semantic_flickraudio](https://github.com/kamperh/recipe_semantic_flickraudio)**: A complete recipe for our visually grounded semantic speech retrieval model described in [TASLP'19](https://arxiv.org/abs/1710.01949). This recipe uses the [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio) dataset below, and is an updated version of the [recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr) recipe.
+- **[semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio)**: A dataset of labels for semantic speech retrieval, as described in [TASLP'19](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
+- **[segmentalist](https://github.com/kamperh/segmentalist)**: Unsupervised word segmentation and clustering of speech in Python. We use it in [CSL'17](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge 2015 data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist).
+- **[couscous](https://github.com/kamperh/couscous)**:  Theano code for training Siamese CNNs. We used it in [ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf) for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
+- **[speech_correspondence](https://github.com/kamperh/speech_correspondence)**: Pylearn2 implementation of the correspondence autoencoder, as described in [ICASSP'15]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf).
+- **[bayes_gmm](https://github.com/kamperh/bayes_gmm)**: Bayesian Gaussian mixture models in Python, as described in [SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf).
+
+
 ### Invited talks
 
 - [(Outrageously) low-resource speech processing]({{site.url}}/slides/kamper_indaba2019_talk.pdf)  
@@ -38,17 +52,3 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
   Computer Science and Artificial Intelligence Laboratory, MIT, 2016.
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   Spotlight Speaker, Workshop on Machine Learning in Speech and Language Processing, 2016.
-
-
-### Code and data
-
-Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
-
-- **[globalphone_awe](https://github.com/kamperh/globalphone_awe)**: A complete recipe for the multilingual acoustic word embedding approach described in [ICASSP'20](https://arxiv.org/abs/2002.02109). Embeddings are trained on one set of GlobalPhone languages and evaluated on another.
-- **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe_py3)**: A complete recipe for the unsupervised acoustic word embedding methods described in [ICASSP'19](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets.
-- **[recipe_semantic_flickraudio](https://github.com/kamperh/recipe_semantic_flickraudio)**: A complete recipe for our visually grounded semantic speech retrieval model described in [TASLP'19](https://arxiv.org/abs/1710.01949). This recipe uses the [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio) dataset below, and is an updated version of the [recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr) recipe.
-- **[semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio)**: A dataset of labels for semantic speech retrieval, as described in [TASLP'19](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
-- **[segmentalist](https://github.com/kamperh/segmentalist)**: Unsupervised word segmentation and clustering of speech in Python. We use it in [CSL'17](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge 2015 data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist).
-- **[couscous](https://github.com/kamperh/couscous)**:  Theano code for training Siamese CNNs. We used it in [ICASSP'16]({{site.url}}/papers/kamper+wang+livescu_icassp2016.pdf) for training acoustic word embeddings from speech, as shown in this [complete recipe](https://github.com/kamperh/recipe_swbd_wordembeds).
-- **[speech_correspondence](https://github.com/kamperh/speech_correspondence)**: Pylearn2 implementation of the correspondence autoencoder, as described in [ICASSP'15]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf).
-- **[bayes_gmm](https://github.com/kamperh/bayes_gmm)**: Bayesian Gaussian mixture models in Python, as described in [SLT'14]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf).
