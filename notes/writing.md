@@ -4,6 +4,6 @@ layout: page
 exclude: true
 ---
 
-# Writing papers and theses (and drafts)
+# Writing Papers and Theses
 
 This is a test 3.
