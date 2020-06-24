@@ -24,6 +24,8 @@ order: 3
 ](https://arxiv.org/abs/1910.05725)  
   A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *arXiv preprint arXiv:1910.05725*, 2019.
 <!-- Andre+Herman+Herman submission -->
+<!-- Matusevych et al., CogSci 2020 -->
+<!-- Kotze et al., IFAC 2020 -->
 
 
 ### Journal publications
