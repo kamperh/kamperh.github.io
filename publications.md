@@ -36,6 +36,12 @@ order: 3
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2020.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
+- [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://doi.org/10.1016/j.patrec.2020.06.027)  
+  A. Pretorius, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, in press, 2020.
+  [[arXiv](https://arxiv.org/abs/1910.05563), [preprint](https://arxiv.org/pdf/1910.05563)]
+- [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks](https://doi.org/10.1016/j.patrec.2020.06.025)  
+  https://doi.org/10.1016/j.patrec.2020.06.025. *Pattern Recognition Letters*, in press, 2020.
+  [[arXiv](https://arxiv.org/abs/1910.05725), [preprint](https://arxiv.org/pdf/1910.05725)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
   [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
