@@ -1,6 +1,8 @@
 ---
 title: Writing Papers and Theses
-layout: page
+layout: post
+date: 2020-07-13
+author: Herman Kamper
 exclude: true
 ---
 
