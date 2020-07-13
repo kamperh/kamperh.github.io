@@ -6,11 +6,8 @@ author: Herman Kamper
 exclude: true
 ---
 
-Writing Papers and Theses
-=========================
+### Overview
 
-Overview
---------
 There are many good resources on the structure and philosophy behind academic
 writing. I mention some of these in the first section below. But this note is
 different: it is simply a (growing) list of things that I keep on telling
