@@ -309,4 +309,5 @@ I changed the way I format tables after I received an email from Iain Murray; I
 had given a talk with some nasty looking tables on some of the slides, and he
 sent a kind email with some great recommendations.
 
-Leanne Nortje edited and made suggestions for parts of the template above.
+Leanne Nortje edited and made suggestions for parts of the above LaTeX
+template.
