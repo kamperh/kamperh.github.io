@@ -42,8 +42,8 @@ We don't clap hands for basics
 We all make mistakes and try to learn from them. But some mistakes make me
 really sad. Here are some basics that I expect when a student gives me a draft:
 
-- Spelling mistakes. With today's word processors, editors and tools, there is
-  no excuse for spelling mistakes.
+- **Spelling mistakes.** With today's word processors, editors and tools, there
+  is no excuse for spelling mistakes.
 - If you have a figure or table, you need to refer to it and describe it
   somewhere in the text.
 - If I gave feedback on a previous draft, I expect that you work the
@@ -68,8 +68,8 @@ General comments
 
 Mathematics
 -----------
-- *Consistent mathematical notation.* If $x$ is used to represent something in
-  Section 1, then $x$ shouldn't be used for something else in Section 3.
+- **Consistent mathematical notation.** If $x$ is used to represent something
+  in Section 1, then $x$ shouldn't be used for something else in Section 3.
   Sometimes it is difficult to be entirely consistent (this is often the case
   in bigger documents like a thesis). But then you need to tell the reader
   clearly that you are being sloppy with your notation (and why).
@@ -89,11 +89,11 @@ Mathematics
 
 Figures and tables
 ------------------
-- Figure and table captions are always full sentences. The caption should be
-  self-contained, i.e. it should be possible for the reader to get a fairly
-  good understanding of the figure or table by just reading the caption. This
-  means that "Model diagram" or "Illustration of the AwsmeCat approach" are not
-  good captions.
+- Figure and table captions are always full sentences (ending with a full
+  stop). The caption should be self-contained, i.e. it should be possible for
+  the reader to get a fairly good understanding of the figure or table by just
+  reading the caption. This means that "Model diagram" or "Illustration of the
+  AwsmeCat approach" are not good captions.
 - If you did not make a figure yourself, it requires a citation in the figure
   caption otherwise it is plagiarism. You can also ask the author directly
   whether it is okay to use their figure; then you should not only cite them,
@@ -114,7 +114,7 @@ Figures and tables
   (especially when using a LaTeX editor with autocomplete that gives you a list
   of defined labels after typing `\ref`).
 
-*A bit more on table layout.* If you use LaTeX, make sure to learn how to use
+**A bit more on table layout.** If you use LaTeX, make sure to learn how to use
 the `tabularx` and `booktabs` packages. The `tabularx` package allows you to
 stretch your table to (a fraction of) the text or column width. The `booktabs`
 packages helps with layout and making tables pretty, but more importantly, the
@@ -252,12 +252,12 @@ Conventions
 These are some personal conventions I follow (and might also recommend/force
 onto students).
 
-- *Abbreviations.* In a paper, I write out abbreviations---such as hidden
+- **Abbreviations.** In a paper, I write out abbreviations---such as hidden
   Markov model (HMM)---in the abstract, at first use in the body, and also in
   the conclusion. I do his since I think these sections should be
   self-contained. I also (normally) write out abbreviations in section
   headings.
-- *Tenses.* It is often tricky to know what tense (past, present, future) to
+- **Tenses.** It is often tricky to know what tense (past, present, future) to
   use for different sections. My own convention is always to write in the
   present tense, except for the Conclusion, which I write in the past tense.
   Many students tend to write the Abstract in the future tense, e.g. "we will
@@ -299,7 +299,7 @@ Stellenbosch University can be downloaded
 By (un)commenting the appropriate lines in the root LaTeX file, the front page
 can follow the format for:
 
-- Skripsies (i.e. final year projects)
+- Skripsie (i.e. final year project) reports
 - MEng theses
 
 
@@ -310,5 +310,3 @@ had given a talk with some nasty looking tables on some of the slides, and he
 sent a kind email with some great recommendations.
 
 Leanne Nortje edited and made suggestions for parts of the template above.
-
-
