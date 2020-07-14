@@ -290,9 +290,17 @@ General writing strategies
   first place: I need to go back and rewrite it.
 
 
-Stellenbosch University template
---------------------------------
+Stellenbosch University templates
+---------------------------------
+A LaTeX template for reports following the guidelines of the E&E department at
+Stellenbosch University can be downloaded
+[here](https://www.kamperh.com/data/stellenbosch_ee_report.zip).
 
+By (un)commenting the appropriate lines in the root LaTeX file, the front page
+can follow the format for:
+
+- Skripsies (i.e. final year projects)
+- MEng
 
 
 Acknowledgements
@@ -302,4 +310,5 @@ had given a talk with some nasty looking tables on some of the slides, and he
 sent a kind email with some great recommendations.
 
 Leanne Nortje edited and made suggestions for parts of the template above.
+
 
