@@ -278,7 +278,7 @@ onto students).
 
 General writing strategies
 --------------------------
-- *Struggling to write.* Like everyone, I sometimes get writer's block. One
+- **Struggling to write.** Like everyone, I sometimes get writer's block. One
   thing I sometimes do which helps, is to write using pen and paper, away from
   my computer. There is something about this analogue process that helps with
   the struggle of starting to write. I realise this might not work for
@@ -300,7 +300,7 @@ By (un)commenting the appropriate lines in the root LaTeX file, the front page
 can follow the format for:
 
 - Skripsies (i.e. final year projects)
-- MEng
+- MEng theses
 
 
 Acknowledgements
