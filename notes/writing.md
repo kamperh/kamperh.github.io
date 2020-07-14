@@ -3,6 +3,7 @@ title: Writing Papers and Theses
 layout: post
 date: 2020-07-13
 author: Herman Kamper
+exclude: True
 ---
 
 There are many good resources on the structure and philosophy behind academic
