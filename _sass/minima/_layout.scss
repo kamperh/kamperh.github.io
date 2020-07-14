@@ -230,12 +230,18 @@
     margin-bottom: $spacing-unit;
   }
 
+  // Currently h2 and h3 are identical
   h2 {
-    font-size: 32px;
+    font-size: 26px;
 
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 22px;
     }
+//     font-size: 32px;
+
+//     @include media-query($on-laptop) {
+//       font-size: 28px;
+//     }
   }
 
   h3 {
