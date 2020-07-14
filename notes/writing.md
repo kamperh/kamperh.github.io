@@ -68,7 +68,7 @@ General comments
 
 Mathematics
 -----------
-- *Consistent mathematical notation.* If $x$ is used to represent something in
+- *Consistent mathematical notation.* If \[x\] is used to represent something in
   Section 1, then $x$ shouldn't be used for something else in Section 3.
   Sometimes it is difficult to be entirely consistent (this is often the case
   in bigger documents like a thesis). But then you need to tell the reader
