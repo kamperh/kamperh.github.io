@@ -127,9 +127,9 @@ two rules given there:
 1. Never use vertical rules.
 2. Never use double rules.
 
-This means tha tables would typically look something like this:
+This means that tables would typically look something like this:
 
-![](fig/table_example-crop.png)\ \
+![](fig/table_example-crop.png){width=40%}\ \
 
 This is somewhat of a personal choice, but I do think that removing vertical
 rules makes tables look a lot better and improves readability.
