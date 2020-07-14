@@ -3,7 +3,6 @@ title: Writing Papers and Theses
 layout: post
 date: 2020-07-13
 author: Herman Kamper
-exclude: true
 ---
 
 There are many good resources on the structure and philosophy behind academic
@@ -20,3 +19,7 @@ really follow. Second, I wrote parts of the note in anger, normally after
 reviewing many paper and thesis drafts in a short space of time. So sorry if I
 sometimes sound a bit blunt!
 
+This is a test
+--------------
+
+### This is a test
