@@ -294,7 +294,7 @@ Stellenbosch University templates
 ---------------------------------
 A LaTeX template for reports following the guidelines of the E&E department at
 Stellenbosch University can be downloaded
-[here](https://www.kamperh.com/data/stellenbosch_ee_report.zip).
+[here](https://github.com/kamperh/stellenbosch_ee_report_template/archive/master.zip).
 
 By (un)commenting the appropriate lines in the root LaTeX file, the front page
 can follow the format for:
