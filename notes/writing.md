@@ -129,7 +129,7 @@ two rules given there:
 
 This means that tables would typically look something like this:
 
-![An example table without vertical rules.](fig/table_example-crop.png)
+![](fig/table_example-crop.png)
 
 This is somewhat of a personal choice, but I do think that removing vertical
 rules makes tables look a lot better and improves readability.
