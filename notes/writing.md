@@ -150,7 +150,7 @@ Make sure that that the references in your bibliography are consistent:
   (since this saves space and is easier to keep consistent), but the important
   thing is to be consistent.
 - If you include the page numbers and the location for a conference, you need
-  to do this for all the conference papers you cite. I prefer not too include
+  to do this for all the conference papers you cite. I prefer not to include
   these details for conference papers (again, since this then makes it easier
   to maintain a consistent bibliography).
 - Similarly, if you add page numbers, the volume and the number for a journal
@@ -254,7 +254,7 @@ onto students).
 
 - **Abbreviations.** In a paper, I write out abbreviations---such as hidden
   Markov model (HMM)---in the abstract, at first use in the body, and also in
-  the conclusion. I do his since I think these sections should be
+  the conclusion. I do this since I think these sections should be
   self-contained. I also (normally) write out abbreviations in section
   headings.
 - **Tenses.** It is often tricky to know what tense (past, present, future) to
@@ -272,8 +272,8 @@ onto students).
 - In a thesis, book, or longer report, I often start a chapter with a paragraph
   explaining what the reader should expect in that chapter.  I also often
   finish with a final section like "Chapter summary", explaining what the
-  reader should take away from that chapter and how it links with happens next
-  and in the rest of the document.
+  reader should take away from that chapter and how it links with what happens
+  next and in the rest of the document.
 
 
 General writing strategies
