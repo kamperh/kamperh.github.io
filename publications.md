@@ -33,10 +33,10 @@ order: 3
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2020.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://doi.org/10.1016/j.patrec.2020.06.027)  
-  A. Pretorius, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, in press, 2020.
+  A. Pretorius, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 75-81, 2020.
   [[arXiv](https://arxiv.org/abs/1910.05563), [preprint](https://arxiv.org/pdf/1910.05563)]
 - [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks](https://doi.org/10.1016/j.patrec.2020.06.025)  
-  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, in press, 2020.
+  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 95-105, 2020.
   [[arXiv](https://arxiv.org/abs/1910.05725), [preprint](https://arxiv.org/pdf/1910.05725)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
