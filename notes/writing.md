@@ -227,10 +227,10 @@ LaTeX-specific recommendations
       authors through git, making it easier to isolate where changes have
       happened.
     - It also really helps with larger documents like theses.
-    - But **I do not do this when using Overleaf**, since separate files
-      sometimes break the forward and backward search functionality. (This is
-      maybe one more reason why I am not a huge Overleaf fan, but I think it's
-      just me.)
+    - Sometimes when using Overleaf, I have seen that it might be better to use
+      a single file, since separate files sometimes break the forward and
+      backward search functionality. (This is maybe one more reason why I am
+      not a huge Overleaf fan, but I think it's just me.)
 - More on version control with LaTeX:
     - Make sure that `.pdf`, `.aux`, `.bbl` and other file types produced as
       part of the document build process are not included or tracked in your
