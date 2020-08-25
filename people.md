@@ -18,6 +18,7 @@ The *Low-Resource Speech & Language (LSL)* group is a small research group at St
 - Lisa van Staden (MEng)
 - Leanne Nortje (MEng)
 - Henry Kotze (MEng, main supervisor: [Willem Jordaan](https://www.esl.sun.ac.za/willem-jordaan/))
+- [Salomon Kabenamualu](https://skabongo.github.io/) (MSc, main supervisor: [Vukosi Marivate](http://www.vima.co.za/))
 
 ### Past students
 
