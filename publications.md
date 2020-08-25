@@ -64,6 +64,9 @@ order: 3
 
 **2020**
 
+- [Evaluating computational models of infant phonetic learning across languages]({{site.url}}/papers/matusevych+schatz+kamper+feldman+goldwater_cogsci2020.pdf)  
+  Y. Matusevych, T. Schatz, H. Kamper, N. H. Feldman, and S. J. Goldwater. In *Proceeedings of CogSci*, 2020.
+  [[arXiv](http://arxiv.org/abs/2008.02888), [video](https://youtu.be/LG4vuZLpCMw)]
 - [Multilingual acoustic word embedding models for processing zero-resource languages]({{site.url}}/papers/kamper+matusevych+goldwater_icassp2020.pdf)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/2002.02109), [slides]({{site.url}}/slides/kamper+matusevych+goldwater_icassp2020_talk.pdf), [code](https://github.com/kamperh/globalphone_awe), [video](https://youtu.be/J2QJKguiULQ)]
