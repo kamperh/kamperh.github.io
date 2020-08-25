@@ -12,6 +12,8 @@ order: 3
 
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020. [[code](https://github.com/kamperh/globalphone_awe)]
+- [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images](http://arxiv.org/abs/2008.06258)  
+  L. Nortje and H. Kamper. *arXiv preprint arXiv:2008.06258*, 2020.
 - [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge](https://arxiv.org/abs/2005.09409)  
   B. van Niekerk, L. Nortje, and H. Kamper. *arXiv preprint arXiv:2005.09409*, 2020.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
