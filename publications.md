@@ -21,9 +21,8 @@ order: 3
 - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
 <!-- Andre+Herman+Herman submission -->
-<!-- Matusevych et al., CogSci 2020 -->
 <!-- Kotze et al., IFAC 2020 -->
-<!-- Masakhane -->
+<!-- Masakhane https://arxiv.org/abs/2003.11529 -->
 
 
 ### Journal publications
