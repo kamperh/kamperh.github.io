@@ -36,7 +36,7 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 ### Invited talks
 
 - [Learning acoustic units and words from unlabelled speech (with a bit of vision)]({{site.url}}/slides/kamper_jhuclsp2020_talk.pdf)  
-  Center for Language and Speech Processing, Johns Hopkins University, 2020.
+  Center for Language and Speech Processing seminar, Johns Hopkins University, 2020.
 - [(Outrageously) low-resource speech processing]({{site.url}}/slides/kamper_indaba2019_talk.pdf)  
   Deep Learning Indaba, Nairobi, 2019. [[video](https://youtu.be/dTV4mbMJ9yM)]
 - [Multimodal learning from images and speech]({{site.url}}/slides/kamper_leuvenupf_talk_2019.pdf)  
