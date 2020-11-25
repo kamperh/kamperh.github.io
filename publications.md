@@ -12,10 +12,6 @@ order: 3
 
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020. [[code](https://github.com/kamperh/globalphone_awe)]
-- [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images](http://arxiv.org/abs/2008.06258)  
-  L. Nortje and H. Kamper. *arXiv preprint arXiv:2008.06258*, 2020.
-- [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge](https://arxiv.org/abs/2005.09409)  
-  B. van Niekerk, L. Nortje, and H. Kamper. *arXiv preprint arXiv:2005.09409*, 2020.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
@@ -65,6 +61,12 @@ order: 3
 
 **2020**
 
+- [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge]({{site.url}}/papers/vanniekerk+nortje+kamper_interspeech2020.pdf)  
+  B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020.
+  [[arXiv](https://arxiv.org/abs/2005.09409), [slides]({{site.url}}/slides/???.pdf)]
+- [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2020.pdf)  
+  L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2020.
+  [[arXiv](http://arxiv.org/abs/2008.06258), [slides]({{site.url}}/slides/nortje+kamper_interspeech2020_talk.pdf)]
 - [Evaluating computational models of infant phonetic learning across languages]({{site.url}}/papers/matusevych+schatz+kamper+feldman+goldwater_cogsci2020.pdf)  
   Y. Matusevych, T. Schatz, H. Kamper, N. H. Feldman, and S. J. Goldwater. In *Proceeedings of CogSci*, 2020.
   [[arXiv](http://arxiv.org/abs/2008.02888), [video](https://youtu.be/LG4vuZLpCMw)]
@@ -77,6 +79,9 @@ order: 3
 - [Analyzing autoencoder-based acoustic word embeddings]({{site.url}}/papers/matusevych+kamper+goldwater_baics2020.pdf)  
   Y. Matusevych, H. Kamper, and S. J. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2004.01647), [slides]({{site.url}}/slides/matusevych+kamper+goldwater_baics2020_talk.pdf)]
+- [Masakhane -- Machine translation for Africa](https://arxiv.org/pdf/2003.11529)  
+  I. Orife and many others. In *ICLR AfricaNLP Workshop*, 2020.
+  [[arXiv](https://arxiv.org/abs/2003.11529), [video](https://slideslive.com/38926605)]
 - [Improving unsupervised acoustic word embeddings using speaker and gender information]({{site.url}}/papers/vanstaden+kamper_prasa2020.pdf)  
   L. van Staden and H. Kamper. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2020.
   [[slides]({{site.url}}/slides/vanstaden+kamper_prasa2020_talk.pdf)]
