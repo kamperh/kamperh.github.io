@@ -22,7 +22,9 @@ order: 3
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
 <!-- Andre+Herman+Herman submission -->
 <!-- Kotze et al., IFAC 2020 -->
-<!-- Masakhane https://arxiv.org/abs/2003.11529 -->
+<!-- Masakhane https://arxiv.org/abs/2010.02353 -->
+<!-- Jason SAS paper -->
+<!-- Kayode SAS paper -->
 
 
 ### Journal publications
