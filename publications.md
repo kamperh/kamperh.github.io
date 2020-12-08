@@ -21,6 +21,7 @@ order: 3
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
 <!-- Jason SAS paper -->
 <!-- Kayode SAS paper -->
+<!-- SACAIR journal paper -->
 
 
 ### Journal publications
