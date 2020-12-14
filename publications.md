@@ -10,6 +10,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
+  L. Nortje and H. Kamper. *arXiv preprint arXiv:2012.05680*, 2020. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020. [[code](https://github.com/kamperh/globalphone_awe)]
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
