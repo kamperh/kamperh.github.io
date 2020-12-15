@@ -10,6 +10,10 @@ order: 3
 
 ### arXiv preprints
 
+- [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
+  H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2012.07551*, 2020.
+- [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
+  L. van Staden and H. Kamper. Accepted at *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
   L. Nortje and H. Kamper. *arXiv preprint arXiv:2012.05680*, 2020. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
