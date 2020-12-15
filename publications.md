@@ -83,6 +83,12 @@ order: 3
 - [Cross-lingual topic prediction for speech using translations]({{site.url}}/papers/bansal+kamper+lopez+goldwater_icassp2020.pdf)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
+- [Towards localisation of keywords in speech using weak supervision]({{site.url}}/papers/olaleye+vanniekerk+kamper_sas2020.pdf)  
+  K. Olaleye, B. van Niekerk, H. Kamper. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
+  [[arXiv](https://arxiv.org/abs/2012.07396), [slides]({{site.url}}/slides/???.pdf)]
+- [A correspondence variational autoencoder for unsupervised acoustic word embeddings]({{site.url}}/papers/peng+kamper+livescu_sas2020.pdf)  
+  P. Peng, H. Kamper, K. Livescu. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
+  [[arXiv](https://arxiv.org/abs/2012.02221), [slides]({{site.url}}/slides/???.pdf)]
 - [Analyzing autoencoder-based acoustic word embeddings]({{site.url}}/papers/matusevych+kamper+goldwater_baics2020.pdf)  
   Y. Matusevych, H. Kamper, and S. J. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2004.01647), [slides]({{site.url}}/slides/matusevych+kamper+goldwater_baics2020_talk.pdf)]
