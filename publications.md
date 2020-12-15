@@ -25,8 +25,7 @@ order: 3
 <!-- Andre+Herman+Herman submission -->
 <!-- Kotze et al., IFAC 2020 -->
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
-<!-- Jason SAS paper -->
-<!-- Kayode SAS paper -->
+<!-- Missing slides from Benji, Kayode, Jason -->
 <!-- SACAIR journal paper -->
 
 
