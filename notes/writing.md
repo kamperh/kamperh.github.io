@@ -137,7 +137,7 @@ rules makes tables look a lot better and improves readability.
 
 Bibliography
 ------------
-Make sure that that the references in your bibliography are consistent:
+Make sure that the references in your bibliography are consistent:
 
 - I generally make sure that the referencing format for all conferences papers
   are exactly the same and that the format for all journal articles are the
