@@ -69,7 +69,7 @@ order: 3
 
 - [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge]({{site.url}}/papers/vanniekerk+nortje+kamper_interspeech2020.pdf)  
   B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020.
-  [[arXiv](https://arxiv.org/abs/2005.09409), [slides]({{site.url}}/slides/???.pdf)]
+  [[arXiv](https://arxiv.org/abs/2005.09409), [slides]({{site.url}}/slides/vanniekerk+nortje+kamper_interspeech2020_talk.pdf)]
 - [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2020.pdf)  
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2020.
   [[arXiv](http://arxiv.org/abs/2008.06258), [slides]({{site.url}}/slides/nortje+kamper_interspeech2020_talk.pdf)]
@@ -84,10 +84,10 @@ order: 3
   [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
 - [Towards localisation of keywords in speech using weak supervision]({{site.url}}/papers/olaleye+vanniekerk+kamper_sas2020.pdf)  
   K. Olaleye, B. van Niekerk, H. Kamper. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
-  [[arXiv](https://arxiv.org/abs/2012.07396), [slides]({{site.url}}/slides/???.pdf)]
+  [[arXiv](https://arxiv.org/abs/2012.07396), [slides]({{site.url}}/slides/olaleye+vanniekerk+kamper_sas2020.pdf)]
 - [A correspondence variational autoencoder for unsupervised acoustic word embeddings]({{site.url}}/papers/peng+kamper+livescu_sas2020.pdf)  
   P. Peng, H. Kamper, K. Livescu. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
-  [[arXiv](https://arxiv.org/abs/2012.02221), [slides]({{site.url}}/slides/???.pdf)]
+  [[arXiv](https://arxiv.org/abs/2012.02221), [slides]({{site.url}}/slides/peng+kamper+livescu_sas2020_talk.pdf)]
 - [Analyzing autoencoder-based acoustic word embeddings]({{site.url}}/papers/matusevych+kamper+goldwater_baics2020.pdf)  
   Y. Matusevych, H. Kamper, and S. J. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2004.01647), [slides]({{site.url}}/slides/matusevych+kamper+goldwater_baics2020_talk.pdf)]
