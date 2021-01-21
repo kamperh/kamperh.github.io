@@ -32,7 +32,7 @@ order: 3
 ### Journal publications
 
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
-  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2020.
+  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
