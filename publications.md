@@ -10,6 +10,8 @@ order: 3
 
 ### arXiv preprints
 
+- [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted at the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2012.07551*, 2020.
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
