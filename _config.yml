@@ -21,7 +21,7 @@ email: "&#x6B;&#97;&#x6D;&#112;&#x65;&#x72;h [at] &#x67;&#109;&#97;i&#x6C; [dot]
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kamperh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.kamperh.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  kamperh
 # linkedin_username: kamperh
