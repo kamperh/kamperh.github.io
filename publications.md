@@ -158,7 +158,7 @@ order: 3
 
 - [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)  
   H. Kamper, K. Livescu, and S. J. Goldwater. In *Proceedings of the IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)*, 2017. [**best paper nominee**]
-  [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf)]
+  [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf), [code](https://github.com/kamperh/eskmeans)]
 - [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
   H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu. In *Proceedings of Interspeech*, 2017.
   [[arXiv](https://arxiv.org/abs/1703.08136), [slides]({{site.url}}/slides/kamper+settle+shakhnarovich+livescu_interspeech2017_talk.pdf), [code](https://github.com/kamperh/recipe_vision_speech_flickr)]
