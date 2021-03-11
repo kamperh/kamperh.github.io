@@ -48,6 +48,8 @@ order: 3
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
   H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
   [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
+- [Teaching for the future](https://issuu.com/aimediasynapse/docs/synapse_-_issue_3_-_opt)  
+  W. Brink, H. Kamper, S. Kroon, U. Paquet, and H. Touchette. *Synapse*, vol. 3, pp. 41-42, 2019.
 - [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
   H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.
   [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
