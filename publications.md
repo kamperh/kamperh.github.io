@@ -28,7 +28,6 @@ order: 3
 <!-- Kotze et al., IFAC 2020 -->
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
 <!-- Missing slides from Benji, Kayode, Jason -->
-<!-- SACAIR journal paper -->
 <!-- Christiaan SLT -->
 
 
@@ -37,6 +36,9 @@ order: 3
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
+- [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
+  M. Baas and H. Kamper. *Communications in Computer and Information Science, Artificial Intelligence Research (SACAIR 2021)*, vol. 1342, pp. 69-84, 2020.
+  [[preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf)]
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
   [[arXiv](http://arxiv.org/abs/2003.12799), [preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
