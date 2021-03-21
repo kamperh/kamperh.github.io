@@ -15,19 +15,19 @@ The *Low-Resource Speech & Language (LSL)* group is a small research group at St
 - Kayode Olaleye (PhD)
 - Benjamin van Niekerk (PhD)
 - Matthew Baas (MEng)
+- Christiaan Jacobs (MEng)
+- Lisa van Staden (MEng)
 - Kevin Eloff (MEng, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
 - Werner van der Merwe (MEng, main supervisor: Johan du Preez)
-- Christiaan Jacobs (MEng)
 - [Salomon Kabenamualu](https://skabongo.github.io/) (MSc, main supervisor: [Vukosi Marivate](http://www.vima.co.za/))
-- Lisa van Staden (MEng)
 
 ### Past students
 
 - Henry Kotze (MEng, 2021, main supervisor: [Willem Jordaan](https://www.esl.sun.ac.za/willem-jordaan/))
+- Leanne Nortje (MEng, 2020)
 - Ryan Eloff (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
 - Petri-John Last (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
 - André Nortje (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
-- Leanne Nortje (MEng, 2020)
 - [Matthew Reynard](https://www.matthewreynard.com/) (MEng, 2020, main supervisor: Herman A. Engelbrecht)
 - [Sameer Bansal](https://0xsameer.github.io/) (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
 - [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: [Steve Kroon](http://www.cs.sun.ac.za/~kroon/))
