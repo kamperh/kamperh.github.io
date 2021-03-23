@@ -14,6 +14,8 @@ order: 3
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted at the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2012.07551*, 2020.
+- [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
+  C. Jacobs, Y. Matusevych, and H. Kamper. Accepted at *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
   L. van Staden and H. Kamper. Accepted at *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
