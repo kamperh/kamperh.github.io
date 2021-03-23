@@ -30,7 +30,6 @@ order: 3
 <!-- Kotze et al., IFAC 2020 -->
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
 <!-- Missing slides from Benji, Kayode, Jason -->
-<!-- Christiaan SLT -->
 
 
 ### Journal publications
