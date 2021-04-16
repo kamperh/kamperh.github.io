@@ -7,7 +7,7 @@ order: 1
 
 # Resources
 
-### Notes and notebooks
+### Notes, videos and notebooks
 
 Hopefully someone else might also find these notes useful. Let me know if you find any mistakes or have any comments.
 
@@ -17,6 +17,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Notes on writing]({{site.url}}/notes/writing)
+- [Videos: Introduction to machine learning](https://www.kamperh.com/data414/)
 
 
 ### Code and data
