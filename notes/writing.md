@@ -129,7 +129,7 @@ two rules given there:
 
 This means that tables would typically look something like this:
 
-![](fig/table_example-crop.png)  
+![An example table with very few vertical and horisontal lines.](fig/table_example-crop.png)  
 *An example table with very few vertical and horisontal lines.*
 
 This is somewhat of a personal choice, but I do think that removing vertical
