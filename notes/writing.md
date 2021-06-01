@@ -266,6 +266,9 @@ onto students).
   exception in the body and write in the past tense instead of the present
   tense; this is normally when I refer back to something that has happened in a
   previous section or chapter, e.g. "In Section 3.1 we found that ...".
+- **Bulleted lists.** I try to follow
+  [this](https://www.instructionalsolutions.com/blog/bulleted-list-punctuation)
+  guideline on how to punctuate bullet point lists.
 - "3" vs. "three": I write out the words for numbers up to twelve, and from
   then on write out the number. E.g. I would write "13 layers", but would write
   "five captions".
