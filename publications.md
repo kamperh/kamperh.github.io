@@ -10,16 +10,20 @@ order: 3
 
 ### arXiv preprints
 
-- [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted at the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
-  H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2012.07551*, 2020.
-- [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
-  C. Jacobs, Y. Matusevych, and H. Kamper. Accepted at *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
-- [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
-  L. van Staden and H. Kamper. Accepted at *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
+  H. Kamper and B. van Niekerk. Accepted to *Interspeech*, 2021.
 - [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
-  L. Nortje and H. Kamper. *arXiv preprint arXiv:2012.05680*, 2020. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
+  L. Nortje and H. Kamper. Accepted to *Interspeech*, 2021. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
+- [Attention-based keyword localisation in speech using visual Grounding](https://arxiv.org/abs/2106.08859)  
+  K. Olaleye and H. Kamper. Accepted to *Interspeech*, 2021.
+- [Multilingual transfer of acoustic word embeddings improves when training on languages related to the target zero-resource language](https://arxiv.org/abs/2106.12834)  
+  C. Jacobs and H. Kamper. Accepted to *Interspeech*, 2021.
+- [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted to the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
+- [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
+  C. Jacobs, Y. Matusevych, and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
+- [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
+  L. van Staden and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *arXiv preprint arXiv:2006.02295*, 2020. [[code](https://github.com/kamperh/globalphone_awe)]
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
