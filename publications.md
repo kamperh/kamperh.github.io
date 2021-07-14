@@ -14,7 +14,7 @@ order: 3
   H. Kamper and B. van Niekerk. Accepted to *Interspeech*, 2021.
 - [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
   L. Nortje and H. Kamper. Accepted to *Interspeech*, 2021. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
-- [Attention-based keyword localisation in speech using visual Grounding](https://arxiv.org/abs/2106.08859)  
+- [Attention-based keyword localisation in speech using visual grounding](https://arxiv.org/abs/2106.08859)  
   K. Olaleye and H. Kamper. Accepted to *Interspeech*, 2021.
 - [Multilingual transfer of acoustic word embeddings improves when training on languages related to the target zero-resource language](https://arxiv.org/abs/2106.12834)  
   C. Jacobs and H. Kamper. Accepted to *Interspeech*, 2021.
