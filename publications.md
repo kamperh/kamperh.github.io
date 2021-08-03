@@ -12,6 +12,8 @@ order: 3
 
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
   H. Kamper and B. van Niekerk. Accepted to *Interspeech*, 2021.
+- [Analyzing speaker information in self-supervised models to improve zero-resource speech processing](https://arxiv.org/abs/2108.00917)  
+  B. van Niekerk, Leanne Nortje, M. Baas, and Herman Kamper. Accepted to *Interspeech*, 2021.
 - [Direct multimodal few-shot learning of speech and images](http://arxiv.org/abs/2012.05680)  
   L. Nortje and H. Kamper. Accepted to *Interspeech*, 2021. [[code](https://github.com/LeanneNortje/direct_multimodal_few-shot_learning)]
 - [Attention-based keyword localisation in speech using visual grounding](https://arxiv.org/abs/2106.08859)  
