@@ -20,6 +20,8 @@ order: 3
   K. Olaleye and H. Kamper. Accepted to *Interspeech*, 2021.
 - [Multilingual transfer of acoustic word embeddings improves when training on languages related to the target zero-resource language](https://arxiv.org/abs/2106.12834)  
   C. Jacobs and H. Kamper. Accepted to *Interspeech*, 2021.
+- [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://arxiv.org/abs/2108.06174)  
+  E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. Accepted to *Computer Speech and Language*, 2021.
 - [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted to the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
 - [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
