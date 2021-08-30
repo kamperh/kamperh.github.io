@@ -90,7 +90,7 @@ order: 3
 **2020**
 
 - [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge]({{site.url}}/papers/vanniekerk+nortje+kamper_interspeech2020.pdf)  
-  B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020. [**co-winners of challenge**]
+  B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020. [**co-winners of Interspeech challenge**]
   [[arXiv](https://arxiv.org/abs/2005.09409), [slides]({{site.url}}/slides/vanniekerk+nortje+kamper_interspeech2020_talk.pdf)]
 - [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2020.pdf)  
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2020.
