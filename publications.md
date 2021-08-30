@@ -22,21 +22,14 @@ order: 3
   C. Jacobs and H. Kamper. Accepted to *Interspeech*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
-<!-- - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://arxiv.org/abs/2108.06174)  
-  E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. Accepted to *Computer Speech and Language*, 2021. -->
-<!-- - [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted to the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021. -->
 - [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
   C. Jacobs, Y. Matusevych, and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
   L. van Staden and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
-<!-- - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. Accepted to the *IEEE Transactions on Audio, Speech and Language Processing,* 2021. [[code](https://github.com/kamperh/globalphone_awe)] -->
-<!-- - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
-  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019. -->
 <!-- Kotze et al., IFAC 2020 -->
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
 <!-- Christiaan best paper nomination - Interspeech -->
+<!-- CSL best paper -->
 
 
 ### Journal publications
@@ -44,15 +37,15 @@ order: 3
 - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
   E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
   [[arXiv](https://arxiv.org/abs/2108.06174)]
-- [BINet: a binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
-  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
-  [[arXiv](https://arxiv.org/abs/1912.05189)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://doi.org/10.1109/TASLP.2021.3060805)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
   [[arXiv](https://arxiv.org/abs/2006.02295), [code](https://github.com/kamperh/globalphone_awe)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
+- [BINet: a binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
+  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
+  [[arXiv](https://arxiv.org/abs/1912.05189)]
 - [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
   M. Baas and H. Kamper. *Springer Communications in Computer and Information Science, Artificial Intelligence Research (SACAIR 2021)*, vol. 1342, pp. 69-84, 2020.
   [[arXiv](https://arxiv.org/abs/2106.00043), [preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf), [code](https://rf5.github.io/sacair2020/)]
@@ -98,7 +91,7 @@ order: 3
 **2020**
 
 - [Vector-quantized neural networks for acoustic unit discovery in the ZeroSpeech 2020 challenge]({{site.url}}/papers/vanniekerk+nortje+kamper_interspeech2020.pdf)  
-  B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020.
+  B. van Niekerk, L. Nortje, and H. Kamper. In *Proceedings of Interspeech*, 2020. [**co-winners of challenge**]
   [[arXiv](https://arxiv.org/abs/2005.09409), [slides]({{site.url}}/slides/vanniekerk+nortje+kamper_interspeech2020_talk.pdf)]
 - [Unsupervised vs. transfer learning for multimodal one-shot matching of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2020.pdf)  
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2020.
@@ -112,6 +105,11 @@ order: 3
 - [Cross-lingual topic prediction for speech using translations]({{site.url}}/papers/bansal+kamper+lopez+goldwater_icassp2020.pdf)  
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
+- [Training neural networks for plant estimation, control and disturbance rejection]({{site.url}}/papers/kotze+kamper+jordaan_ifac2020.pdf)  
+  H. Kotzé, H. Kamper, and H. W. Jordaan. In *Proceedings of the International Federation of Automatic Control*, 2020.
+- [Participatory research for low-resourced machine translation: A case study in African languages]({{site.url}}/papers/nekoto+etal_emnlpfindings2020.pdf)  
+  W. Nekoto and many others. In *Findings of the Association for Computational Linguistics: EMNLP*, 2020.
+  [[arXiv](https://arxiv.org/abs/2010.02353)]
 - [Towards localisation of keywords in speech using weak supervision]({{site.url}}/papers/olaleye+vanniekerk+kamper_sas2020.pdf)  
   K. Olaleye, B. van Niekerk, H. Kamper. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2012.07396), [slides]({{site.url}}/slides/olaleye+vanniekerk+kamper_sas2020.pdf)]
