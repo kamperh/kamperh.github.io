@@ -106,9 +106,9 @@ order: 3
   S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
 - [Training neural networks for plant estimation, control and disturbance rejection]({{site.url}}/papers/kotze+kamper+jordaan_ifac2020.pdf)  
-  H. Kotzé, H. Kamper, and H. W. Jordaan. In *Proceedings of the International Federation of Automatic Control*, 2020.
+  H. Kotzé, H. Kamper, and H. W. Jordaan. In *Proceedings of the International Federation of Automatic Control (IFAC)*, 2020.
 - [Participatory research for low-resourced machine translation: A case study in African languages]({{site.url}}/papers/nekoto+etal_emnlpfindings2020.pdf)  
-  W. Nekoto and many others. In *Findings of the Association for Computational Linguistics: EMNLP*, 2020.
+  W. Nekoto and many others. In *Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)*, 2020.
   [[arXiv](https://arxiv.org/abs/2010.02353)]
 - [Towards localisation of keywords in speech using weak supervision]({{site.url}}/papers/olaleye+vanniekerk+kamper_sas2020.pdf)  
   K. Olaleye, B. van Niekerk, H. Kamper. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
