@@ -20,36 +20,42 @@ order: 3
   K. Olaleye and H. Kamper. Accepted to *Interspeech*, 2021.
 - [Multilingual transfer of acoustic word embeddings improves when training on languages related to the target zero-resource language](https://arxiv.org/abs/2106.12834)  
   C. Jacobs and H. Kamper. Accepted to *Interspeech*, 2021.
-- [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://arxiv.org/abs/2108.06174)  
-  E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. Accepted to *Computer Speech and Language*, 2021.
-- [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted to the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021.
+- [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
+  A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
+<!-- - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://arxiv.org/abs/2108.06174)  
+  E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. Accepted to *Computer Speech and Language*, 2021. -->
+<!-- - [A phonetic model of non-native spoken word processing](https://arxiv.org/abs/2101.11332)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater.  Accepted to the *European Chapter of the Association for Computational Linguistics (EACL)*, 2021. -->
 - [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation](https://arxiv.org/abs/2103.10731)  
   C. Jacobs, Y. Matusevych, and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
   L. van Staden and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
-- [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. Accepted to the *IEEE Transactions on Audio, Speech and Language Processing,* 2021. [[code](https://github.com/kamperh/globalphone_awe)]
-- [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
-  A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
-- [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
-  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019.
-<!-- Andre+Herman+Herman submission -->
+<!-- - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://arxiv.org/abs/2006.02295)  
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. Accepted to the *IEEE Transactions on Audio, Speech and Language Processing,* 2021. [[code](https://github.com/kamperh/globalphone_awe)] -->
+<!-- - [BINet: a binary inpainting network for deep patch-based image compression](https://arxiv.org/abs/1912.05189)  
+  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper.  *arXiv preprint arXiv:1912.05189*, 2019. -->
 <!-- Kotze et al., IFAC 2020 -->
 <!-- Masakhane https://arxiv.org/abs/2010.02353 -->
-<!-- Missing slides from Benji, Kayode, Jason -->
-<!-- Link Baas SACAIR code: https://rf5.github.io/sacair2020/ -->
 <!-- Christiaan best paper nomination - Interspeech -->
 
 
 ### Journal publications
 
+- [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
+  E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
+  [[arXiv](https://arxiv.org/abs/2108.06174)]
+- [BINet: a binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
+  A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
+  [[arXiv](https://arxiv.org/abs/1912.05189)]
+- [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://doi.org/10.1109/TASLP.2021.3060805)  
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
+  [[arXiv](https://arxiv.org/abs/2006.02295), [code](https://github.com/kamperh/globalphone_awe)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
-  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, 2021.
+  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
   M. Baas and H. Kamper. *Springer Communications in Computer and Information Science, Artificial Intelligence Research (SACAIR 2021)*, vol. 1342, pp. 69-84, 2020.
-  [[preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf)]
+  [[arXiv](https://arxiv.org/abs/2106.00043), [preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf), [code](https://rf5.github.io/sacair2020/)]
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
   [[arXiv](http://arxiv.org/abs/2003.12799), [preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
@@ -82,6 +88,12 @@ order: 3
 
 
 ### Conference proceedings
+
+**2021**
+
+- [A phonetic model of non-native spoken word processing]({{site.url}}/papers/matusevych+kamper+schatz+feldman+goldwater_eacl2021.pdf)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021. [**honourable mention**]
+  [[arXiv](https://arxiv.org/abs/2101.11332)]
 
 **2020**
 
