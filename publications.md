@@ -5,6 +5,7 @@ permalink: /publications/
 order: 3
 ---
 
+
 # Publications
 
 
@@ -26,8 +27,6 @@ order: 3
   C. Jacobs, Y. Matusevych, and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings](http://arxiv.org/abs/2012.07387)  
   L. van Staden and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2021.
-<!-- Kotze et al., IFAC 2020 -->
-<!-- Masakhane https://arxiv.org/abs/2010.02353 -->
 <!-- Christiaan best paper nomination - Interspeech -->
 <!-- CSL best paper -->
 
@@ -43,7 +42,7 @@ order: 3
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
-- [BINet: a binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
+- [BINet: A binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
   [[arXiv](https://arxiv.org/abs/1912.05189)]
 - [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
