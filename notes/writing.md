@@ -245,11 +245,10 @@ LaTeX-specific recommendations
       updates), continue to edit, and then my changes were lost the moment he
       saved. I guess this is an edge case with a particular way of
       collaborating and editing, but it caused a lot of sadness.
-- List of figures / list of tables:
-    - Use shortened versions of the full figure/table caption, no more than 1
-      or 2 lines. A good choice for a short version would typically be the
-      first sentence of the caption. You can do this do this in LaTeX using the
-      command `\caption[short version]{long version}`.
+- List of figures / list of tables: Use shortened versions of the full
+  figure/table caption, no more than 1 or 2 lines. A good choice for a short
+  version would typically be the first sentence of the caption. You can do this
+  do this in LaTeX using the command `\caption[short version]{long version}`.
 
 
 Conventions
