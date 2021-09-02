@@ -245,6 +245,11 @@ LaTeX-specific recommendations
       updates), continue to edit, and then my changes were lost the moment he
       saved. I guess this is an edge case with a particular way of
       collaborating and editing, but it caused a lot of sadness.
+- List of figures / list of tables:
+    - Use shortened versions of the full figure/table caption, no more than
+      1 or 2 lines. A good choice for a short version would typically be the
+      first sentence of the caption. You can do this do this in the
+      figure caption using the command `\caption[short version]{long version}`.         
 
 
 Conventions
@@ -312,5 +317,6 @@ I changed the way I format tables after I received an email from Iain Murray; I
 had given a talk with some nasty looking tables on some of the slides, and he
 sent a kind email with some great recommendations.
 
-Leanne Nortje edited and made suggestions for parts of the above LaTeX
-template.
+Leanne Nortje edited and made suggestions for parts of the LaTeX template
+above. I also received good recommendations from Ludwig Schwardt.
+
