@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [A comparison of discrete and soft speech units for improved voice conversion](https://arxiv.org/abs/2111.02392)  
+  B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. *arXiv preprint arXiv:2111.02392*, 2021.
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
   H. Kamper and B. van Niekerk. Accepted to *Interspeech*, 2021.
 - [Analyzing speaker information in self-supervised models to improve zero-resource speech processing](https://arxiv.org/abs/2108.00917)  
