@@ -11,6 +11,10 @@ order: 3
 
 ### arXiv preprints
 
+- [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
+  K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and Herman Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
+- [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
+  M. Baas and H. Kamper. *arXiv preprint arXiv:2111.02674*, 2021.
 - [A comparison of discrete and soft speech units for improved voice conversion](https://arxiv.org/abs/2111.02392)  
   B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. *arXiv preprint arXiv:2111.02392*, 2021.
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks](http://arxiv.org/abs/2012.07551)  
