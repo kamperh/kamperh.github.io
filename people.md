@@ -22,7 +22,7 @@ The *Low-Resource Speech & Language (LSL)* group is a small research group at St
 ### Past students
 
 - Lisa van Staden (MEng, 2021)
-- Henry Kotze (MEng, 2021, main supervisor: [Willem Jordaan](https://www.esl.sun.ac.za/willem-jordaan/))
+- Henry Kotze (MEng, 2021, main supervisor: [Willem Jordaan](https://www0.sun.ac.za/willem-jordaan/))
 - [Salomon Kabenamualu](https://skabongo.github.io/) (MSc, 2021, main supervisor: [Vukosi Marivate](http://www.vima.co.za/))
 - Leanne Nortje (MEng, 2020)
 - Ryan Eloff (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
