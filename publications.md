@@ -87,6 +87,7 @@ order: 3
 
 ### Conference proceedings
 
+
 **2021**
 
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks]({{site.url}}/papers/kamper+vanniekerk_interspeech2021.pdf)  
@@ -103,7 +104,7 @@ order: 3
   [[arXiv](https://arxiv.org/abs/2106.12834), [code](https://github.com/christiaanjacobs/nchlt_awe)]
 - [Direct multimodal few-shot learning of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2021.pdf)  
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2021.
-  [[arXiv](http://arxiv.org/abs/2012.05680)]
+  [[arXiv](http://arxiv.org/abs/2012.05680), [code](https://github.com/LeanneNortje/DirectMultimodalFew-ShotLearning)]
 - [A phonetic model of non-native spoken word processing]({{site.url}}/papers/matusevych+kamper+schatz+feldman+goldwater_eacl2021.pdf)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021. [**honourable mention**]
   [[arXiv](https://arxiv.org/abs/2101.11332)]
