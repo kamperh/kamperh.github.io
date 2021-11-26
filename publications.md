@@ -89,9 +89,30 @@ order: 3
 
 **2021**
 
+- [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks]({{site.url}}/papers/kamper+vanniekerk_interspeech2021.pdf)  
+  H. Kamper and B. van Niekerk. In *Proceedings of Interspeech*, 2021.
+  [[arXiv](http://arxiv.org/abs/2012.07551)]
+- [Analyzing speaker information in self-supervised models to improve zero-resource speech processing]({{site.url}}/papers/vanniekerk+nortje+baas+kamper_interspeech2021.pdf)  
+  B. van Niekerk, Leanne Nortje, M. Baas, and Herman Kamper. In *Proceedings of Interspeech*, 2021.
+  [[arXiv](http://arxiv.org/abs/2012.05680)]
+- [Attention-based keyword localisation in speech using visual grounding]({{site.url}}/papers/olaleye+kamper_interspeech2021.pdf)  
+  K. Olaleye and H. Kamper. In *Proceedings of Interspeech*, 2021.
+  [[arXiv](https://arxiv.org/abs/2106.08859)]
+- [Multilingual transfer of acoustic word embeddings improves when training on languages related to the target zero-resource language]({{site.url}}/papers/jacobs+kamper_interspeech2021.pdf)  
+  C. Jacobs and H. Kamper. In *Proceedings of Interspeech*, 2021. [**best student paper nominee**]
+  [[arXiv](https://arxiv.org/abs/2106.12834), [code](https://github.com/christiaanjacobs/nchlt_awe)]
+- [Direct multimodal few-shot learning of speech and images]({{site.url}}/papers/nortje+kamper_interspeech2021.pdf)  
+  L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2021.
+  [[arXiv](http://arxiv.org/abs/2012.05680)]
 - [A phonetic model of non-native spoken word processing]({{site.url}}/papers/matusevych+kamper+schatz+feldman+goldwater_eacl2021.pdf)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021. [**honourable mention**]
   [[arXiv](https://arxiv.org/abs/2101.11332)]
+- [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation]({{site.url}}/papers/jacobs+matusevych+kamper_slt2021.pdf)  
+  C. Jacobs, Y. Matusevych, and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2021.
+  [[arXiv](https://arxiv.org/abs/2103.10731), [code](https://github.com/christiaanjacobs/globalphone_awe_pytorch)]
+- [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings]({{site.url}}/papers/vanstaden+kamper_slt2021.pdf)  
+  L. van Staden and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2021.
+  [[arXiv](http://arxiv.org/abs/2012.07387)]
 
 **2020**
 
