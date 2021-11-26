@@ -54,7 +54,7 @@ order: 3
 - [Teaching for the future](https://issuu.com/aimediasynapse/docs/synapse_-_issue_3_-_opt)  
   W. Brink, H. Kamper, S. Kroon, U. Paquet, and H. Touchette. *Synapse*, vol. 3, pp. 41-42, 2019.
 - [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017.
+  H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017. [**ISCA best paper published in CSL 2016--2020**]
   [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
 - [Unsupervised word segmentation and lexicon discovery using acoustic word embeddings](http://dx.doi.org/10.1109/TASLP.2016.2517567)  
   H. Kamper, A. Jansen, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
