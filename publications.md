@@ -12,7 +12,7 @@ order: 3
 ### arXiv preprints
 
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
-  K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and Herman Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
+  K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
   M. Baas and H. Kamper. *arXiv preprint arXiv:2111.02674*, 2021.
 - [A comparison of discrete and soft speech units for improved voice conversion](https://arxiv.org/abs/2111.02392)  
@@ -79,7 +79,7 @@ order: 3
   H. Kamper and B. van Niekerk. In *Proceedings of Interspeech*, 2021.
   [[arXiv](http://arxiv.org/abs/2012.07551)]
 - [Analyzing speaker information in self-supervised models to improve zero-resource speech processing]({{site.url}}/papers/vanniekerk+nortje+baas+kamper_interspeech2021.pdf)  
-  B. van Niekerk, Leanne Nortje, M. Baas, and Herman Kamper. In *Proceedings of Interspeech*, 2021.
+  B. van Niekerk, Leanne Nortje, M. Baas, and H. Kamper. In *Proceedings of Interspeech*, 2021.
   [[arXiv](https://arxiv.org/abs/2108.00917)]
 - [Attention-based keyword localisation in speech using visual grounding]({{site.url}}/papers/olaleye+kamper_interspeech2021.pdf)  
   K. Olaleye and H. Kamper. In *Proceedings of Interspeech*, 2021.
