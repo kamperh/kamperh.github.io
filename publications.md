@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Keyword localisation in untranscribed speech using visually grounded speech models ](https://arxiv.org/abs/2202.01107)  
+  K. Olaleye, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2202.01107*, 2022.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
