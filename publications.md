@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://arxiv.org/abs/2202.11929)  
+  H. Kamper. *arXiv preprint arXiv:2202.11929*, 2022.
 - [Keyword localisation in untranscribed speech using visually grounded speech models ](https://arxiv.org/abs/2202.01107)  
   K. Olaleye, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2202.01107*, 2022.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
