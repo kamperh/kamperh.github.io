@@ -81,7 +81,7 @@ order: 3
 
 - [Towards unsupervised phone and word segmentation using self-supervised vector-quantized neural networks]({{site.url}}/papers/kamper+vanniekerk_interspeech2021.pdf)  
   H. Kamper and B. van Niekerk. In *Proceedings of Interspeech*, 2021.
-  [[arXiv](http://arxiv.org/abs/2012.07551)]
+  [[arXiv](http://arxiv.org/abs/2012.07551), [code](https://github.com/kamperh/vqwordseg), [video](https://youtu.be/UXlTH8VkjQY)]
 - [Analyzing speaker information in self-supervised models to improve zero-resource speech processing]({{site.url}}/papers/vanniekerk+nortje+baas+kamper_interspeech2021.pdf)  
   B. van Niekerk, Leanne Nortje, M. Baas, and H. Kamper. In *Proceedings of Interspeech*, 2021.
   [[arXiv](https://arxiv.org/abs/2108.00917)]
