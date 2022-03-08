@@ -35,7 +35,7 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 ### Invited talks
 
-- [Unsupervised word segmentation using dynamic programming on self-supervised speech representations]({{site.url}}/slides/kamper_aaaisas2022_talk)  
+- [Unsupervised word segmentation using dynamic programming on self-supervised speech representations]({{site.url}}/slides/kamper_aaaisas2022_talk.pdf)  
   AAAI SAS Workshop, Invited Talk, 2022. [[video](https://youtu.be/oA0EMR_cMQY)]
 - [Learning acoustic units and words from unlabelled speech (with a bit of vision)]({{site.url}}/slides/kamper_jhuclsp2020_talk.pdf)  
   Center for Language and Speech Processing seminar, Johns Hopkins University, 2020.
