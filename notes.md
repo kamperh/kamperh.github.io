@@ -35,6 +35,8 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 ### Invited talks
 
+- [Unsupervised word segmentation using dynamic programming on self-supervised speech representations]({{site.url}}/slides/kamper_aaaisas2022_talk)  
+  AAAI SAS Workshop, Invited Talk, 2022. [[video](https://youtu.be/oA0EMR_cMQY)]
 - [Learning acoustic units and words from unlabelled speech (with a bit of vision)]({{site.url}}/slides/kamper_jhuclsp2020_talk.pdf)  
   Center for Language and Speech Processing seminar, Johns Hopkins University, 2020.
 - [(Outrageously) low-resource speech processing]({{site.url}}/slides/kamper_indaba2019_talk.pdf)  
@@ -54,4 +56,4 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 - [Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/slides/kamper_mit2016_talk.pdf)  
   Computer Science and Artificial Intelligence Laboratory, MIT, 2016.
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
-  Spotlight Speaker, Workshop on Machine Learning in Speech and Language Processing, 2016.
+  MLSLP Workshop, Spotlight Speaker, 2016.
