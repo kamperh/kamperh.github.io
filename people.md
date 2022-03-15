@@ -11,11 +11,11 @@ The *Low-Resource Speech & Language (LSL)* group is a small research group at St
 
 ### Current students
 
+- Ruan van der Merwe (PhD)
 - Leanne Nortje (PhD)
 - Benjamin van Niekerk (PhD)
 - Kayode Olaleye (PhD)
 - Christiaan Jacobs (PhD)
-- Ruan van der Merwe (PhD)
 - Urs de Swart (MEng)
 - Matthew Baas (MEng)
 - Kevin Eloff (MEng, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
