@@ -54,6 +54,6 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
   Ohio State University, 2017.  
   CLIP Colloquium Speaker, University of Maryland, 2017.
 - [Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/slides/kamper_mit2016_talk.pdf)  
-  Computer Science and Artificial Intelligence Laboratory, MIT, 2016.
+  CSAIL, MIT, 2016.
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   MLSLP Workshop, Spotlight Speaker, 2016.
