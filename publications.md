@@ -83,7 +83,7 @@ order: 3
   H. Kamper and B. van Niekerk. In *Proceedings of Interspeech*, 2021.
   [[arXiv](http://arxiv.org/abs/2012.07551), [code](https://github.com/kamperh/vqwordseg), [video](https://youtu.be/UXlTH8VkjQY)]
 - [Analyzing speaker information in self-supervised models to improve zero-resource speech processing]({{site.url}}/papers/vanniekerk+nortje+baas+kamper_interspeech2021.pdf)  
-  B. van Niekerk, Leanne Nortje, M. Baas, and H. Kamper. In *Proceedings of Interspeech*, 2021.
+  B. van Niekerk, L. Nortje, M. Baas, and H. Kamper. In *Proceedings of Interspeech*, 2021.
   [[arXiv](https://arxiv.org/abs/2108.00917)]
 - [Attention-based keyword localisation in speech using visual grounding]({{site.url}}/papers/olaleye+kamper_interspeech2021.pdf)  
   K. Olaleye and H. Kamper. In *Proceedings of Interspeech*, 2021.
