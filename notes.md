@@ -17,6 +17,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Notes on writing]({{site.url}}/notes/writing)
+- [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22)
 - [Videos: Yet another introduction to machine learning (for engineers)](https://www.kamperh.com/data414/)
 
 
