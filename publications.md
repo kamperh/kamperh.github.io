@@ -13,12 +13,14 @@ order: 3
 
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://arxiv.org/abs/2202.11929)  
   H. Kamper. *arXiv preprint arXiv:2202.11929*, 2022. [[code](https://github.com/kamperh/vqwordseg)]
+- [A temporal extension of latent Dirichlet allocation for unsupervised acoustic unit discovery](https://arxiv.org/abs/2206.11706)  
+  W. van der Merwe, H. Kamper, and J. A. du Preez. *Accepted to Interspeech*, 2022.
+- [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
+  M. Baas and H. Kamper. *Accepted to Interspeech*, 2021.
 - [Keyword localisation in untranscribed speech using visually grounded speech models ](https://arxiv.org/abs/2202.01107)  
   K. Olaleye, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2202.01107*, 2022.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
-- [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
-  M. Baas and H. Kamper. *arXiv preprint arXiv:2111.02674*, 2021.
 - [A comparison of discrete and soft speech units for improved voice conversion](https://arxiv.org/abs/2111.02392)  
   B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. *arXiv preprint arXiv:2111.02392*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
