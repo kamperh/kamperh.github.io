@@ -18,7 +18,8 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Notes on writing]({{site.url}}/notes/writing)
 - [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22.pdf)
-- [Videos: Yet another introduction to machine learning](https://www.kamperh.com/data414/)
+- [DatA414: Yet another introduction to machine learning](https://www.kamperh.com/data414/)
+- [NLP817: Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
 
 
 ### Code and data
