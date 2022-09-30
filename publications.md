@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *PsyArXiv*, 2022.
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://arxiv.org/abs/2202.11929)  
   H. Kamper. *arXiv preprint arXiv:2202.11929*, 2022. [[code](https://github.com/kamperh/vqwordseg)]
 - [A temporal extension of latent Dirichlet allocation for unsupervised acoustic unit discovery](https://arxiv.org/abs/2206.11706)  
