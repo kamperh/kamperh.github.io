@@ -18,7 +18,7 @@ order: 3
 - [A temporal extension of latent Dirichlet allocation for unsupervised acoustic unit discovery](https://arxiv.org/abs/2206.11706)  
   W. van der Merwe, H. Kamper, and J. A. du Preez. *Accepted to Interspeech*, 2022.
 - [Voice conversion can improve ASR in very low-resource settings](https://arxiv.org/abs/2111.02674)  
-  M. Baas and H. Kamper. *Accepted to Interspeech*, 2021.
+  M. Baas and H. Kamper. *Accepted to Interspeech*, 2022.
 - [A comparison of discrete and soft speech units for improved voice conversion](https://arxiv.org/abs/2111.02392)  
   B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. *Accepted to ICASSP*, 2021.
 - [Keyword localisation in untranscribed speech using visually grounded speech models ](https://arxiv.org/abs/2202.01107)  
