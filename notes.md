@@ -18,7 +18,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22.pdf)
 - [Notes on writing]({{site.url}}/notes/writing)
 - [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
-- [Playlist: Dynamic time warping (DTW)](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
+- [Playlist: Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Course: DatA414 -- Yet another introduction to machine learning](https://www.kamperh.com/data414/)
