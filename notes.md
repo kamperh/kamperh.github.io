@@ -7,7 +7,7 @@ order: 1
 
 # Resources
 
-### Notes, videos and notebooks
+### Notes, videos, notebooks and teaching
 
 Hopefully someone else might also find these notes useful. Let me know if you find any mistakes or have any comments.
 
