@@ -15,17 +15,20 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models]({{site.url}}/notes/kamper_bayesgmm15.pdf)
   [[code](https://github.com/kamperh/bayes_gmm)]
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
-- [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
-- [Notes on writing]({{site.url}}/notes/writing)
 - [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22.pdf)
-- [DatA414: Yet another introduction to machine learning](https://www.kamperh.com/data414/)
-- [NLP817: Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
+- [Notes on writing]({{site.url}}/notes/writing)
+- [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
+- [Playlist: Dynamic time warping (DTW)](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
+- [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
+- [Course: DatA414 -- Yet another introduction to machine learning](https://www.kamperh.com/data414/)
+- [Course: NLP817 -- Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
 
 
 ### Code and data
 
 Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
 
+- **[YFACC](https://www.kamperh.com/yfacc)**: Yorùbá Flickr Audio Caption Corpus. The dataset is described in [SLT'22](https://arxiv.org/abs/2210.04600).
 - **[globalphone_awe](https://github.com/kamperh/globalphone_awe)**: A complete recipe for the multilingual acoustic word embedding approach described in [ICASSP'20](https://arxiv.org/abs/2002.02109). Embeddings are trained on one set of GlobalPhone languages and evaluated on another.
 - **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe_py3)**: A complete recipe for the unsupervised acoustic word embedding methods described in [ICASSP'19](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets.
 - **[recipe_semantic_flickraudio](https://github.com/kamperh/recipe_semantic_flickraudio)**: A complete recipe for our visually grounded semantic speech retrieval model described in [TASLP'19](https://arxiv.org/abs/1710.01949). This recipe uses the [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio) dataset below, and is an updated version of the [recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr) recipe.
