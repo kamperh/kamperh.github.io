@@ -15,6 +15,8 @@ order: 3
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *PsyArXiv*, 2022.
 - [YFACC: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding](https://arxiv.org/abs/2210.04600)  
   K. Olaleye, D. Oneață, and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[data](https://www.kamperh.com/yfacc)]
+- [Towards visually prompted keyword localisation for zero-resource spoken languages](https://arxiv.org/abs/2210.06229)  
+  L. Nortje and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models](https://arxiv.org/abs/2210.05271)  
   M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://arxiv.org/abs/2202.11929)  
