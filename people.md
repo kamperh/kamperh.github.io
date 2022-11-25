@@ -15,8 +15,8 @@ The *Low-Resource Speech & Language (LSL)* group is a small research group at St
 - Benjamin van Niekerk (PhD)
 - Kayode Olaleye (PhD)
 - Christiaan Jacobs (PhD)
-- Urs de Swart (MEng)
 - [Matthew Baas](https://rf5.github.io/) (PhD)
+- Urs de Swart (MEng)
 - Kevin Eloff (MEng, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
 - Werner van der Merwe (MEng, main supervisor: Johan du Preez)
 
