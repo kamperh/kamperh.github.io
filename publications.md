@@ -35,11 +35,15 @@ order: 3
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
-<!-- CSL best paper -->
+
+<!-- Urs SACAIR paper update with proceedings -->
 
 
 ### Journal publications
 
+- [Keyword localisation in untranscribed speech using visually grounded speech models](https://doi.org/10.1109/JSTSP.2022.3180220)  
+  K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454-1466, 2022.
+  [[arXiv](https://arxiv.org/abs/2202.01107)]
 - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
   E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
   [[arXiv](https://arxiv.org/abs/2108.06174)]
@@ -88,6 +92,19 @@ order: 3
 
 ### Conference proceedings
 
+**2022**
+
+- [A temporal extension of latent Dirichlet allocation for unsupervised acoustic unit discovery]({{site.url}}/papers/vandermerwe+kamper+dupreez_interspeech2022.pdf)  
+  W. van der Merwe, H. Kamper, and J. A. du Preez. In *Proceedings of Interspeech*, 2022.
+  [[arXiv](https://arxiv.org/abs/2206.11706)]
+- [Voice conversion can improve ASR in very low-resource settings]({{site.url}}/papers/baas+kamper_interspeech2022.pdf)  
+  M. Baas and H. Kamper. In *Proceedings of Interspeech*, 2022.
+  [[arXiv](https://arxiv.org/abs/2111.02674)]
+- [A comparison of discrete and soft speech units for improved voice conversion]({{site.url}}/papers/vanniekerk+carbonneua+zaidi+baas+seute+kamper_icassp2022.pdf)  
+  B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
+  [[arXiv](https://arxiv.org/abs/2111.02392)]
+- [How machine learning can aid South African farmers' security: Unsupervised livestock trajectory embeddings]({{site.url}}/papers/deswardt+kamper_sacair2022.pdf)  
+  U. de Swardt and H. Kamper. In *Proceedings of the Southern African Conference on AI Research (SACAIR)*, 2022.
 
 **2021**
 
