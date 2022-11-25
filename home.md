@@ -14,7 +14,7 @@ I work on methods that would allow machines to acquire speech and language proce
 
 <!-- My main research interests are in machine learning, speech and language processing, and computer vision. I am particularly interested in machine learning methods that can learn from small amounts of labelled data, and in unsupervised methods that can learn directly from raw unlabelled data. Can an algorithm find meaningful units and structures in a corpus of speech audio, with only minimal guidance? How much supervision is required to build a useful speech processing or computer vision system? These questions are central when building language, speech and vision systems in low- and zero-resource settings. -->
 
-<!-- <br /> -->
+<br />
 
 <div style="text-align:center">
 
