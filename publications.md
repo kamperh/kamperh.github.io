@@ -14,11 +14,11 @@ order: 3
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *PsyArXiv*, 2022.
 - [YFACC: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding](https://arxiv.org/abs/2210.04600)  
-  K. Olaleye, D. Oneață, and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[data](https://www.kamperh.com/yfacc)]
+  K. Olaleye, D. Oneață, and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2022. [[data](https://www.kamperh.com/yfacc)]
 - [Towards visually prompted keyword localisation for zero-resource spoken languages](https://arxiv.org/abs/2210.06229)  
-  L. Nortje and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
+  L. Nortje and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2022.
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models](https://arxiv.org/abs/2210.05271)  
-  M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
+  M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2022. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
 - [TransFusion: Transcribing speech with multinomial diffusion](https://arxiv.org/abs/2210.07677)  
   M. Baas, K. Eloff, and H. Kamper. *Accepted to Springer Communications in Computer and Information Science*, 2022. [[code](https://github.com/RF5/transfusion-asr/)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://arxiv.org/abs/2202.11929)  
