@@ -17,6 +17,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
 - [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22.pdf)
 - [Notes on writing]({{site.url}}/notes/writing)
+- [My teaching philosophy](https://www.kamperh.com/teaching_portfolio/)
 - [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
 - [Playlist: Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
