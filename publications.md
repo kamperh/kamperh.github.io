@@ -33,9 +33,12 @@ order: 3
 
 ### Journal publications
 
+- [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
+  H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
+  [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
 - [Keyword localisation in untranscribed speech using visually grounded speech models](https://doi.org/10.1109/JSTSP.2022.3180220)  
   K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454-1466, 2022.
-  [[arXiv](https://arxiv.org/abs/2202.01107)]
+  [[arXiv](https://arxiv.org/abs/2202.01107), [code](https://github.com/kayodeolaleye/keyword_localisation_speech)]
 - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
   E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
   [[arXiv](https://arxiv.org/abs/2108.06174)]
