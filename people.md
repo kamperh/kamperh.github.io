@@ -5,18 +5,19 @@ permalink: /people/
 order: 2
 ---
 
-# Low-Resource Speech & Language (LSL)
+# Language and Speech Lab (LSL)
 
-The *Low-Resource Speech & Language (LSL)* group is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and MediaLab at Stellenbosch.
+The *Language and Speech Lab (LSL)* is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and MediaLab at Stellenbosch.
 
 ### Current students
 
 - Leanne Nortje (PhD)
 - Benjamin van Niekerk (PhD)
-- Kayode Olaleye (PhD)
 - Christiaan Jacobs (PhD)
 - [Matthew Baas](https://rf5.github.io/) (PhD)
+- Nicol Visser (MEng)
 - Urs de Swart (MEng)
+- Kayode Olaleye (PhD)
 - Kevin Eloff (MEng, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
 - Werner van der Merwe (MEng, main supervisor: Johan du Preez)
 
