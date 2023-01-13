@@ -31,7 +31,7 @@ The *Language and Speech Lab (LSL)* is a small research group at Stellenbosch Un
 - Petri-John Last (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
 - André Nortje (MEng, 2020, co-supervisor: Herman A. Engelbrecht)
 - [Matthew Reynard](https://www.matthewreynard.com/) (MEng, 2020, main supervisor: Herman A. Engelbrecht)
-- [Sameer Bansal](https://0xsameer.github.io/) (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
+- Sameer Bansal (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
 - [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: [Steve Kroon](http://www.cs.sun.ac.za/~kroon/))
 
 <!--
