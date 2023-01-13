@@ -5,9 +5,9 @@ permalink: /people/
 order: 2
 ---
 
-# Language and Speech Lab (LSL)
+# Language & Speech Lab (LSL)
 
-The *Language and Speech Lab (LSL)* is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and MediaLab at Stellenbosch.
+The *Language & Speech Lab (LSL)* is a small research group at Stellenbosch University working on methods that would allow speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and MediaLab at Stellenbosch.
 
 ### Current students
 
