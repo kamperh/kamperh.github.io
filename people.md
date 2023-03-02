@@ -16,7 +16,7 @@ The *Language & Speech Lab (LSL)* is a small research group at Stellenbosch Univ
 - Christiaan Jacobs (PhD)
 - [Matthew Baas](https://rf5.github.io/) (PhD)
 - Nicol Visser (MEng)
-- Urs de Swart (MEng)
+- Urs de Swardt (MEng)
 - [Kayode Olaleye](https://kayodeolaleye.github.io/cv/) (PhD)
 - Kevin Eloff (MEng, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
 - Werner van der Merwe (MEng, main supervisor: Johan du Preez)
