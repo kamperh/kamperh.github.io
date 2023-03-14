@@ -19,8 +19,6 @@ order: 3
   L. Nortje and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models](https://arxiv.org/abs/2210.05271)  
   M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
-- [TransFusion: Transcribing speech with multinomial diffusion](https://arxiv.org/abs/2210.07677)  
-  M. Baas, K. Eloff, and H. Kamper. *Accepted to Springer Communications in Computer and Information Science*, 2022. [[code](https://github.com/RF5/transfusion-asr/)]
 - [Mava: a research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
   A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
@@ -33,6 +31,9 @@ order: 3
 
 ### Journal publications
 
+- [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
+  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
+  [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
   H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
