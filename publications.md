@@ -52,8 +52,8 @@ order: 3
 - [BINet: A binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
   [[arXiv](https://arxiv.org/abs/1912.05189)]
-- [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
-  M. Baas and H. Kamper. *Springer Communications in Computer and Information Science*, vol. 1342, pp. 69-84, 2020.
+ - [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
+  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1342, pp. 69-84, 2020.
   [[arXiv](https://arxiv.org/abs/2106.00043), [preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf), [code](https://rf5.github.io/sacair2020/)]
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
   P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
