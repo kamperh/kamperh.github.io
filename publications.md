@@ -31,12 +31,12 @@ order: 3
 
 ### Journal publications
 
-- [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
-  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
-  [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
   H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
+- [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
+  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
+  [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Keyword localisation in untranscribed speech using visually grounded speech models](https://doi.org/10.1109/JSTSP.2022.3180220)  
   K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454-1466, 2022.
   [[arXiv](https://arxiv.org/abs/2202.01107), [code](https://github.com/kayodeolaleye/keyword_localisation_speech)]
