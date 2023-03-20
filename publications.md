@@ -26,7 +26,7 @@ order: 3
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 
-<!-- Urs SACAIR paper update with proceedings -->
+<!-- https://doi.org/10.1109/ACCESS.2023.3258621 -->
 
 
 ### Journal publications
