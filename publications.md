@@ -34,6 +34,8 @@ order: 3
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
   H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
+- [Semi-supervised machine learning for livestock threat classification using GPS data](https://doi.org/10.1109/ACCESS.2023.3258621)  
+  U. J. de Swardt and H. Kamper. *IEEE Access*, vol. 11, pp. 27749-27758, 2023.
 - [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
   M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
   [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
