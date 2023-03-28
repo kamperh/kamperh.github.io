@@ -102,7 +102,7 @@ order: 3
   B. van Niekerk, M-A. Carbonneau, J. Zaïdi, M. Baas, H. Seuté, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
   [[arXiv](https://arxiv.org/abs/2111.02392)]
 - [How machine learning can aid South African farmers' security: Unsupervised livestock trajectory embeddings]({{site.url}}/papers/deswardt+kamper_sacair2022.pdf)  
-  U. de Swardt and H. Kamper. In *Proceedings of the Southern African Conference on AI Research (SACAIR)*, 2022.
+  U. J. de Swardt and H. Kamper. In *Proceedings of the Southern African Conference on AI Research (SACAIR)*, 2022.
 
 **2021**
 
