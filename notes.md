@@ -20,8 +20,9 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Notes on writing]({{site.url}}/notes/writing)
 - [My teaching philosophy](https://www.kamperh.com/teaching_portfolio/)
 - [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
+  [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
 - [Playlist: Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
-  [[notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
+  [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Course: DatA414 -- Yet another introduction to machine learning](https://www.kamperh.com/data414/)
 - [Course: NLP817 -- Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
