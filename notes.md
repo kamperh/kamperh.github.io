@@ -23,6 +23,8 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
   [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
 - [Playlist: Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
+- [Playlist: Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
+  [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes](https://www.kamperh.com/nlp817/notes/08_nn_notes.pdf)]
 - [Notebook: Autoencoder, variational AE, vector-quantised VAE, and categorical VAE on MNIST](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Course: DatA414 -- Yet another introduction to machine learning](https://www.kamperh.com/data414/)
 - [Course: NLP817 -- Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
