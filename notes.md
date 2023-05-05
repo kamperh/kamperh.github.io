@@ -12,11 +12,12 @@ order: 1
 Hopefully someone else might also find these notes useful. Let me know if you find any mistakes or have any comments.
 
 - [Yet another introduction to backpropagation]({{site.url}}/notes/kamper_backprop22.pdf)
+- [Yet another introduction to probabilistic graphical models]({{site.url}}/notes/kamper_pgm_notes23.pdf)
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models]({{site.url}}/notes/kamper_bayesgmm15.pdf)
   [[code](https://github.com/kamperh/bayes_gmm)]
 - [Vector and matrix calculus]({{site.url}}/notes/kamper_matrixcalculus13.pdf)
 - [Dynamic programming]({{site.url}}/notes/kamper_dynamic_programming22.pdf)
-- [Principal components analysis]({{site.url}}/notes/pca.pdf)
+- [Principal components analysis]({{site.url}}/notes/kamper_pca23.pdf)
 - [Notes on writing]({{site.url}}/notes/writing)
 - [My teaching philosophy](https://www.kamperh.com/teaching_portfolio/)
 - [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
