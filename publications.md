@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning](https://arxiv.org/abs/2305.13080)  
+  R. van der Merwe and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *PsyArXiv*, 2022.
 - [YFACC: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding](https://arxiv.org/abs/2210.04600)  
