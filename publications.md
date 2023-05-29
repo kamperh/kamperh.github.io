@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Visually grounded few-shot word acquisition with fewer shots](https://arxiv.org/abs/2305.15937)  
+  L. Nortje, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning](https://arxiv.org/abs/2305.13080)  
   R. van der Merwe and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
