@@ -11,6 +11,8 @@ order: 3
 
 ### arXiv preprints
 
+- [Voice conversion with just nearest neighbors](https://arxiv.org/abs/2305.18975)  
+  M. Baas, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Visually grounded few-shot word acquisition with fewer shots](https://arxiv.org/abs/2305.15937)  
   L. Nortje, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning](https://arxiv.org/abs/2305.13080)  
