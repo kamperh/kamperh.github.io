@@ -28,7 +28,7 @@ order: 3
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models](https://arxiv.org/abs/2210.05271)  
   M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
 - [Mava: A research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
-  A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021.
+  A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)]
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
