@@ -16,7 +16,7 @@ order: 3
 - [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili](https://arxiv.org/abs/2306.00410)  
   C. Jacobs, N. C. Rakotonirina, E. A. Chimoto, B. A. Bassett, and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Visually grounded few-shot word acquisition with fewer shots](https://arxiv.org/abs/2305.15937)  
-  L. Nortje, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023.
+  L. Nortje, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning](https://arxiv.org/abs/2305.13080)  
   R. van der Merwe and H. Kamper. *Accepted to Interspeech*, 2023.
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
