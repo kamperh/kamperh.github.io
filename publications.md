@@ -13,21 +13,21 @@ order: 3
 
 <!-- [[code](https://sites.google.com/view/few-shotwordacquisition/home)] -->
 - [Voice conversion with just nearest neighbors](https://arxiv.org/abs/2305.18975)  
-  M. Baas, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023. [[code](https://github.com/bshall/knn-vc)]
+  M. Baas, B. van Niekerk, and H. Kamper. Accepted to *Interspeech*, 2023. [[code](https://github.com/bshall/knn-vc)]
 - [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili](https://arxiv.org/abs/2306.00410)  
-  C. Jacobs, N. C. Rakotonirina, E. A. Chimoto, B. A. Bassett, and H. Kamper. *Accepted to Interspeech*, 2023.
+  C. Jacobs, N. C. Rakotonirina, E. A. Chimoto, B. A. Bassett, and H. Kamper. Accepted to *Interspeech*, 2023.
 - [Visually grounded few-shot word acquisition with fewer shots](https://arxiv.org/abs/2305.15937)  
-  L. Nortje, B. van Niekerk, and H. Kamper. *Accepted to Interspeech*, 2023. 
+  L. Nortje, B. van Niekerk, and H. Kamper. Accepted to *Interspeech*, 2023. 
 - [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning](https://arxiv.org/abs/2305.13080)  
-  R. van der Merwe and H. Kamper. *Accepted to Interspeech*, 2023.
+  R. van der Merwe and H. Kamper. Accepted to *Interspeech*, 2023.
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://psyarxiv.com/jmqtn/)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Accepted to Cognitive Science*, 2023.
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. Accepted to *Cognitive Science*, 2023.
 - [YFACC: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding](https://arxiv.org/abs/2210.04600)  
-  K. Olaleye, D. Oneață, and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[data](https://www.kamperh.com/yfacc)]
+  K. Olaleye, D. Oneață, and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[data](https://www.kamperh.com/yfacc)]
 - [Towards visually prompted keyword localisation for zero-resource spoken languages](https://arxiv.org/abs/2210.06229)  
-  L. Nortje and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
+  L. Nortje and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2023.
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models](https://arxiv.org/abs/2210.05271)  
-  M. Baas and H. Kamper. *Accepted to the IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
+  M. Baas and H. Kamper. Accepted to the *IEEE Spoken Language Technology Workshop (SLT)*, 2023. [[code](https://github.com/RF5/simple-asgan), [samples](https://rf5.github.io/slt2022-asgan-demo/)]
 - [Mava: A research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
   A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)]
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
