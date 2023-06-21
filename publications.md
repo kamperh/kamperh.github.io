@@ -11,7 +11,8 @@ order: 3
 
 ### arXiv preprints
 
-<!-- [[code](https://sites.google.com/view/few-shotwordacquisition/home)] -->
+- [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)
+  L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Voice conversion with just nearest neighbors](https://arxiv.org/abs/2305.18975)  
   M. Baas, B. van Niekerk, and H. Kamper. Accepted to *Interspeech*, 2023. [[code](https://github.com/bshall/knn-vc)]
 - [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili](https://arxiv.org/abs/2306.00410)  
