@@ -12,7 +12,10 @@ order: 3
 ### arXiv preprints
 
 <!-- https://ubisoft-laforge.github.io/speech/urhythmic/ -->
-
+- [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
+  M. Baas and H. Kamper. *arXiv preprint arXiv:2307.01673*, 2023. [[code](https://github.com/RF5/simple-asgan/)]
+- [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://arxiv.org/abs/2307.02083)  
+  C. Jacobs and H. Kamper. *arXiv preprint arXiv:2307.02083*, 2023. 
 - [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Voice conversion with just nearest neighbors](https://arxiv.org/abs/2305.18975)  
