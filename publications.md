@@ -12,6 +12,8 @@ order: 3
 ### arXiv preprints
 
 <!-- https://ubisoft-laforge.github.io/speech/urhythmic/ -->
+- [Rhythm modeling for voice conversion](https://arxiv.org/abs/2307.06040)
+  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *arXiv preprint arXiv:2307.06040*, 2023. [[code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic/)]
 - [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
   M. Baas and H. Kamper. *arXiv preprint arXiv:2307.01673*, 2023. [[code](https://github.com/RF5/simple-asgan/)]
 - [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://arxiv.org/abs/2307.02083)  
