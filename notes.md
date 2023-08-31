@@ -47,6 +47,8 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 ### Invited talks
 
+- [What can large spoken language models tell us about speech?]({{site.url}}/slides/kamper_indabax2023_talk.pdf)  
+  IndabaX South Africa, University of Cape Town, 2023.
 - [Unsupervised word segmentation using dynamic programming on self-supervised speech representations]({{site.url}}/slides/kamper_aaaisas2022_talk.pdf)  
   AAAI SAS Workshop, Invited Talk, 2022. [[video](https://youtu.be/oA0EMR_cMQY)]
 - [Learning acoustic units and words from unlabelled speech (with a bit of vision)]({{site.url}}/slides/kamper_jhuclsp2020_talk.pdf)  
