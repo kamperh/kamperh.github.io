@@ -31,6 +31,11 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 - [Course: NLP817 -- Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
 
 
+### For Stellenbosch University students
+
+- [Getting started with the Stellenbosch HPC (by Matthew Baas)](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1)
+
+
 ### Code and data
 
 Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
