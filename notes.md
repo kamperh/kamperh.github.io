@@ -34,6 +34,7 @@ Hopefully someone else might also find these notes useful. Let me know if you fi
 ### For Stellenbosch University students
 
 - [Getting started with the Stellenbosch HPC (by Matthew Baas)](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1)
+- [E&E LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
 
 
 ### Code and data
