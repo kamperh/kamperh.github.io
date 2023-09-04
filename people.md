@@ -16,10 +16,10 @@ order: 2
 - Christiaan Jacobs (PhD)
 - [Matthew Baas](https://rf5.github.io/) (PhD)
 - Nicol Visser (MEng)
-- Urs de Swardt (MEng)
 
 ### Past students
 
+- Urs de Swardt (MEng, 2023)
 - [Kayode Olaleye](https://kayodeolaleye.github.io/cv/) (PhD, 2023)
 - Kevin Eloff (MEng, 2023, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
 - Werner van der Merwe (MEng, 2023, main supervisor: Johan du Preez)
