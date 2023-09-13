@@ -11,7 +11,6 @@ order: 3
 
 ### arXiv preprints
 
-<!-- https://ubisoft-laforge.github.io/speech/urhythmic/ -->
 - [Rhythm modeling for voice conversion](https://arxiv.org/abs/2307.06040)  
   B. van Niekerk, M-A. Carbonneau, and H. Kamper. *arXiv preprint arXiv:2307.06040*, 2023. [[code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic/)]
 - [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
@@ -43,11 +42,18 @@ order: 3
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 
-<!-- https://doi.org/10.1109/ACCESS.2023.3258621 -->
+<!-- Check all ?? in publications.py -->
+<!-- Add WEEF paper -->
 
 
 ### Journal publications
 
+- [Rhythm modeling for voice conversion](https://doi.org/10.1109/LSP.2023.3313515)  
+  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, 2023.
+  [[arXiv](https://arxiv.org/abs/2307.06040), [code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic)]
+- [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://doi.org/10.1111/cogs.13314)  
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Cognitive Science*, vol. 47, 2023.
+  [[arXiv](https://psyarxiv.com/jmqtn)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
   H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
@@ -106,6 +112,30 @@ order: 3
 
 
 ### Conference proceedings
+
+**2023**
+
+- [Voice conversion with just nearest neighbors]({{site.url}}/papers/baas+vanniekerk+kamper_interspeech2023.pdf)  
+  M. Baas, B. van Niekerk, and H. Kamper. In *Proceedings of Interspeech*, 2023.
+  [[arXiv](https://arxiv.org/abs/2305.18975)]
+- [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili]({{site.url}}/papers/jacobs+rakotonirina+chimoto+bassett+kamper_interspeech2023.pdf)  
+  C. Jacobs, N. C. Rakotonirina, E. A. Chimoto, B. A. Bassett, and H. Kamper. In *Proceedings of Interspeech*, 2023.
+  [[arXiv](https://arxiv.org/abs/2306.00410)]
+- [Visually grounded few-shot word acquisition with fewer shots]({{site.url}}/papers/nortje+vanniekerk+kamper_interspeech2023.pdf)  
+  L. Nortje, B. van Niekerk, and H. Kamper. In *Proceedings of Interspeech*, 2023.
+  [[arXiv](https://arxiv.org/abs/2305.15937)]
+- [Mitigating catastrophic forgetting for few-shot spoken word classification through meta-learning]({{site.url}}/papers/vandermerwe+kamper_interspeech2023.pdf)  
+  R. van der Merwe and H. Kamper. In *Proceedings of Interspeech*, 2023.
+  [[arXiv](https://arxiv.org/abs/2305.13080)]
+- [YFACC: A Yorùbá speech-image dataset for cross-lingual keyword localisation through visual grounding]({{site.url}}/papers/olaleye+oneata+kamper_slt2023.pdf)  
+  K. Olaleye, D. Oneață, and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
+  [[arXiv](https://arxiv.org/abs/2210.04600), [data](https://www.kamperh.com/yfacc)]
+- [Towards visually prompted keyword localisation for zero-resource spoken languages]({{site.url}}/papers/nortje+kamper_slt2023.pdf)  
+  L. Nortje and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
+  [[arXiv](https://arxiv.org/abs/2210.06229)]
+- [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models]({{site.url}}/papers/baas+kamper_slt2023.pdf)  
+  M. Baas and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
+  [[arXiv](https://arxiv.org/abs/2210.05271), [code](https://github.com/RF5/simple-asgan)]
 
 **2022**
 
