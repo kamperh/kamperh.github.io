@@ -20,36 +20,17 @@ I am a researcher in machine learning with a specific focus on speech processing
 <br />
 
 <div style="text-align:center">
-<a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i>&nbsp;Email</a>&ensp;
-<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i>&nbsp;GitHub</a>&ensp; 
-<a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i>&nbsp;YouTube</a>&ensp; 
+<a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i> Email</a>&ensp;
+<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>&ensp;
+<a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i> YouTube</a>  
 <a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i>&nbsp;Scholar</a>
 </div>
 
-<div style="text-align:center">
-
-<a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i> Email</a>&ensp;
-<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>&ensp; 
-<a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>&ensp; 
-<a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i><span style="padding-left: 10px;">Scholar</span></a>
-
-<!-- <a href="{{ site.google_scholar }}"><i class="fab fa-google" aria-hidden="true"></i> Scholar</a> -->
-<!-- <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp; -->
-<!-- <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>&ensp; -->
-<!-- <a href="{{ site.google_scholar }}"><i class="fa fa-google" aria-hidden="true"></i> Scholar</a> -->
-
-</div>
-
 
 <div style="text-align:center">
-<a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope fa-2xl" aria-hidden="true" ></i></a>&ensp;
-<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github fa-2xl" aria-hidden="true" ></i></a>&ensp; 
-<a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-solid fa-youtube fa-2xl" aria-hidden="true" fa-2xl></i></a>&ensp; 
-<a href="{{ site.google_scholar }}"><i class="fa-solid fa-2xl fa-coffee"></i></a>
 
-<p><i class="fa-solid fa-coffee fa-xl"></i> When my six o’clock alarm buzzes, I require a pot of good java.</p>
-<p><i class="fa-solid fa-coffee fa-2xl"></i> When my six o’clock alarm buzzes, I require a pot of good java.</p>
+<p><i class="fas fa-coffee fa-xl"></i> When my six o’clock alarm buzzes, I require a pot of good java.</p>
+<p><i class="fas fa-coffee fa-2xl"></i> When my six o’clock alarm buzzes, I require a pot of good java.</p>
 
-<p>This is a test<i class="fa fa-globe"></i><span style="padding-left: 10px;">Hello World</span></p>
 </div>
 
