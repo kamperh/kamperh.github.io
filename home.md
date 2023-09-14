@@ -46,4 +46,10 @@ I am a researcher in machine learning with a specific focus on speech processing
 <a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github fa-2xl" aria-hidden="true" ></i></a>&ensp; 
 <a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-solid fa-youtube fa-2xl" aria-hidden="true" fa-2xl></i></a>&ensp; 
 <a href="{{ site.google_scholar }}"><i class="fa-solid fa-coffee fa-2xl"></i></a>
+
+  <h1><i class="fa fa-globe"></i>&nbsp;Hello World</h1>
+
+  <h1><i class="fa fa-globe"></i><span style="padding-left: 10px;">Hello World</span></h1>
+
+  <p><i class="fa fa-globe"></i><span style="padding-left: 10px;">Hello World</span></p>
 </div>
