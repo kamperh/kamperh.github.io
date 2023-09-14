@@ -24,7 +24,7 @@ I am a researcher in machine learning with a specific focus on speech processing
 <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i> Email</a>&ensp;
 <a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>&ensp; 
 <a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>&ensp; 
-<a href="{{ site.google_scholar }}"><i class="fab fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
+<a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
 <!-- <a href="{{ site.google_scholar }}"><i class="fab fa-google" aria-hidden="true"></i> Scholar</a> -->
 
 <!-- <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>&ensp; -->
