@@ -28,6 +28,7 @@ I am a researcher in machine learning with a specific focus on speech processing
     <a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i></a>
     <a href="{{ site.google_scholar }}" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
     <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+    <a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
   </div>
 </div>
 
