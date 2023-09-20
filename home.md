@@ -21,22 +21,20 @@ I am a researcher in machine learning with a specific focus on speech processing
 
 <div class="social">
   <div class="contact-icons">
-    <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}" title="email"><i class="far fa-envelope" aria-hidden="true"></i></a>
     <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}" title="email"><i class="fas fa-envelope"></i></a>
     <a href="https://github.com/{{ site.github_username }}" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
-    <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
-    <a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.youtube.com/c/HermanKamperML" rel="external nofollow noopener" target="_blank"><i class="fab fa-youtube"></i></a>
     <a href="{{ site.google_scholar }}" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
-    <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
-    <a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
   </div>
 </div>
 
-<div style="text-align:center">
-<span style="white-space: nowrap;"><a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i> Email</a></span>&ensp;
-<span style="white-space: nowrap;"><a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></span>&ensp;
-<span style="white-space: nowrap;"><a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i> YouTube</a></span>&ensp;
-<span style="white-space: nowrap;"><a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i>&nbsp;Scholar</a></span>
-</div>
+<!--
+  <div style="text-align:center">
+  <span style="white-space: nowrap;"><a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}"><i class="far fa-envelope" aria-hidden="true"></i> Email</a></span>&ensp;
+  <span style="white-space: nowrap;"><a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></span>&ensp;
+  <span style="white-space: nowrap;"><a href="https://www.youtube.com/c/HermanKamperML"><i class="fab fa-youtube"></i> YouTube</a></span>&ensp;
+  <span style="white-space: nowrap;"><a href="{{ site.google_scholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i>&nbsp;Scholar</a></span>
+  </div>
+-->
 
 
