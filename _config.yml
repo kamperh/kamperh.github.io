@@ -27,6 +27,10 @@ github_username:  kamperh
 # linkedin_username: kamperh
 google_scholar: http://scholar.google.com/citations?user=F3dhs4kAAAAJ
 
+fontawesome:
+  version: "5.15.4"
+  integrity: "sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4="
+
 # Build settings
 markdown: kramdown
 theme: minima
