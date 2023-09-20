@@ -19,9 +19,9 @@ I am a researcher in machine learning with a specific focus on speech processing
 
 <div class="social">
   <div class="contact-icons">
-    <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}" title="email"><i class="fas fa-envelope"></i></a>
-    <a href="https://github.com/{{ site.github_username }}" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
-    <a href="https://www.youtube.com/c/HermanKamperML" rel="external nofollow noopener" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}" title="email"><i class="fas fa-envelope"></i></a>&ensp;
+    <a href="https://github.com/{{ site.github_username }}" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>&ensp;
+    <a href="https://www.youtube.com/c/HermanKamperML" rel="external nofollow noopener" target="_blank"><i class="fab fa-youtube"></i></a>&ensp;
     <a href="{{ site.google_scholar }}" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
   </div>
 </div>
