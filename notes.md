@@ -53,9 +53,9 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 ### Invited talks
 
-- [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_epfl2023_talk-compressed.pdf)
+- [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_epfl2023_talk-compressed.pdf)  
   SDSC, École Polytechnique Fédérale de Lausanne, 2023.
-- [Multimodal few-shot learning & probing self-supervised speech models]({{site.url}}/slides/kamper_ens2023_talk-compressed.pdf)
+- [Multimodal few-shot learning & probing self-supervised speech models]({{site.url}}/slides/kamper_ens2023_talk-compressed.pdf)  
   SLSCP, Ecole Normale Supérieure, 2023.
 - [What can large spoken language models tell us about speech?]({{site.url}}/slides/kamper_indabax2023_talk-compressed.pdf)  
   IndabaX South Africa, University of Cape Town, 2023.
