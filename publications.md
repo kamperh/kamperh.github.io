@@ -31,7 +31,7 @@ order: 3
 ### Journal publications
 
 - [Rhythm modeling for voice conversion](https://doi.org/10.1109/LSP.2023.3313515)  
-  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, 2023.
+  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, vol. 30, pp. 1297-1301, 2023.
   [[arXiv](https://arxiv.org/abs/2307.06040), [code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic)]
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://doi.org/10.1111/cogs.13314)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Cognitive Science*, vol. 47, 2023.
@@ -99,7 +99,7 @@ order: 3
 
 - [Voice conversion with just nearest neighbors]({{site.url}}/papers/baas+vanniekerk+kamper_interspeech2023.pdf)  
   M. Baas, B. van Niekerk, and H. Kamper. In *Proceedings of Interspeech*, 2023.
-  [[arXiv](https://arxiv.org/abs/2305.18975)]
+  [[arXiv](https://arxiv.org/abs/2305.18975), [code](https://github.com/bshall/knn-vc/), [samples](https://bshall.github.io/knn-vc/)]
 - [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili]({{site.url}}/papers/jacobs+rakotonirina+chimoto+bassett+kamper_interspeech2023.pdf)  
   C. Jacobs, N. C. Rakotonirina, E. A. Chimoto, B. A. Bassett, and H. Kamper. In *Proceedings of Interspeech*, 2023.
   [[arXiv](https://arxiv.org/abs/2306.00410)]
