@@ -13,7 +13,7 @@ order: 3
 
 - [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
   M. Baas and H. Kamper. *arXiv preprint arXiv:2307.01673*, 2023. [[code](https://github.com/RF5/simple-asgan/)]
-- [Voice conversion for stuttered speech, instruments, unseen languages and textually described voices](https://arxiv.org/abs/2310.08104)
+- [Voice conversion for stuttered speech, instruments, unseen languages and textually described voices](https://arxiv.org/abs/2310.08104)  
   M. Baas and H. Kamper. Accepted to *Communications in Computer and Information Science*, 2023. [[code](https://rf5.github.io/sacair2023-knnvc-demo/)]
 - [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://arxiv.org/abs/2307.02083)  
   C. Jacobs and H. Kamper. *arXiv preprint arXiv:2307.02083*, 2023. 
