@@ -290,23 +290,17 @@ order: 3
   H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015.
   [[slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
 
-**2014**
+**Pre-2015**
 
 - [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)  
   H. Kamper, A. Jansen, S. King, and S. J. Goldwater. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2014. [**best poster presentation award**]
   [[poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
-
-**2012**
-
 - [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)  
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2012.
   [[slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
 - [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2012. [**best paper award**]
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
-
-**Pre-2012**
-
 - [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of Interspeech*, 2011.
   [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
