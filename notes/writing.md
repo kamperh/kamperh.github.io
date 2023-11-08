@@ -1,5 +1,5 @@
 ---
-title: Notes on Writing
+title: Notes on writing
 layout: post
 date: 2020-07-14
 author: Herman Kamper
