@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 3
+order: 5
 ---
 
 

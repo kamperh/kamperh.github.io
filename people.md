@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-order: 2
+order: 4
 ---
 
 # Language, Speech and Learning (LSL)
