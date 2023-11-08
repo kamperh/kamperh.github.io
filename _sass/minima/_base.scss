@@ -122,6 +122,20 @@ strong {
 
 
 /**
+ * Horizontal ruler (hr) - Herman
+ */
+hr {
+  border: none;
+  height: 1px;
+  color: $grey-color-light;
+  background-color: $grey-color-light;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+
+
+/**
  * Blockquotes
  */
 blockquote {
