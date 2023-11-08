@@ -60,6 +60,14 @@ figcaption {
   font-size: $small-font-size;
 }
 
+// Herman
+img + em {
+  display: block;
+  text-align: center;
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
 
 
 /**
@@ -117,6 +125,16 @@ strong {
   //font-weight: 500;
   // color: $grey-color;
   color: $grey-color-mydark;
+}
+
+
+
+/**
+ * Superscript - Herman
+ */
+sup {
+  vertical-align: top;
+  font-size: 75%;
 }
 
 
