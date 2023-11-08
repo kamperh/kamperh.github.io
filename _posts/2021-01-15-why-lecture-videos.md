@@ -21,15 +21,12 @@ question that has bothered me throughout 2020 has come up again:
 I put this question to other lecturers, students and friends. I summarise some
 of my favourite responses in this post.
 
-![](/fig/2021-01-15/data414_youtube.png)
-*A screenshot from one of my existing lecture videos.*
-
 
 ### Context and framing the question
 
 First a bit of context. I am teaching an introductory machine learning course
 to final-year undergraduate students in electrical and electronic engineering.
-A screenshot of an existing lecture is shown above. It isn't a rule that
+A screenshot of an existing lecture is shown below. It isn't a rule that
 lecturers should make videos from scratch, but it is generally expected by
 students (and colleagues).
 
@@ -45,6 +42,9 @@ reasons in themselves). How does me making lecture videos benefit the students?
 
 Finally a disclosure: I am writing this mainly to motivate myself to make the
 rest of the videos for my course.
+
+![](/fig/2021-01-15/data414_youtube.png)
+*A screenshot from one of my existing lecture videos.*
 
 
 ### Three goals of teaching
