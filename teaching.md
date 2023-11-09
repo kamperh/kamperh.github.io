@@ -5,5 +5,5 @@ permalink: /teaching/
 order: 2
 ---
 
-# Teaching
+# Teaching and videos
 

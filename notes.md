@@ -7,6 +7,17 @@ order: 1
 
 # Notes
 
+### Machine learning
+
+- [Yet another introduction to backpropagation](/notes/kamper_backprop22.pdf)
+- [Yet another introduction to probabilistic graphical models](/notes/kamper_pgm_notes23.pdf)
+- [Gibbs sampling for fitting finite and infinite Gaussian mixture models](/notes/kamper_bayesgmm15.pdf)
+  [[code](https://github.com/kamperh/bayes_gmm)]
+- [Vector and matrix calculus](/notes/kamper_matrixcalculus13.pdf)
+- [Dynamic programming](/notes/kamper_dynamic_programming22.pdf)
+- [Principal components analysis](/notes/kamper_pca23.pdf)
+- [Autoencoder, variational AE, vector-quantised VAE and categorical VAE](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
+
 
 ### Professional development
 
