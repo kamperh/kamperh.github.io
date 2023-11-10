@@ -25,9 +25,21 @@ order: 2
 
 ## Machine learning
 
+- [Introduction to machine learning](https://www.youtube.com/playlist?list=PLmZlBIcArwhM_7t4ZzxXAs1PWaLqcPusG)
+- [Linear regression](https://www.youtube.com/playlist?list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF)
+- [Gaussians](https://www.youtube.com/playlist?list=PLmZlBIcArwhPnCzcSUU5mF90aU_dMSnZ2)
+- [Classification](https://www.youtube.com/playlist?list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b)
+- [Logistic regression](https://www.youtube.com/playlist?list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4)
+- [Preprocessing](https://www.youtube.com/playlist?list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4)
+- [Decision trees](https://www.youtube.com/playlist?list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
+- [Ensemble methods](https://www.youtube.com/playlist?list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP)
+- [Unsupervised learning](https://www.youtube.com/playlist?list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl)
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
   [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes](https://www.kamperh.com/nlp817/notes/08_nn_notes.pdf)]
 
 
 ## Natural language processing
 
+- [NLP introduction, units, tokenisation and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
+- [Encoder-decoder models, machine translation and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
+- [Self-attention and transformers](https://www.youtube.com/playlist?list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s)
