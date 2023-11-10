@@ -15,14 +15,14 @@ important). But it is still important to get these things right.
 
 Two disclaimers. First, parts of this note convey my personal writing
 preferences (and it might sound quite opinionated, because it is). I try to
-state when something is a stylistic choice rather than a rule which you should
-really follow. Second, I wrote parts of the note in anger, normally after
-reviewing many paper and thesis drafts in a short space of time. So sorry if I
-sometimes sound a bit blunt!
+state when something is a stylistic choice rather than a rule that should be
+followed. Second, I wrote parts of the note in anger, normally after reviewing
+many paper and thesis drafts in a short space of time. So sorry if I sometimes
+sound a bit blunt!
 
 
-Writing structure and philosophy
---------------------------------
+## Writing structure and philosophy
+
 There are many good resources on the structure and bigger picture behind
 academic writing. Here are some of my favourites on specific topics:
 
@@ -30,17 +30,17 @@ academic writing. Here are some of my favourites on specific topics:
   idea told through one story. See points 2 and 3 in [Simon Peyton Jones'
   slides](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/).
 - [How to write an
-  abstract](http://users.ece.cmu.edu/~koopman/essays/abstract.html), by Philip
-  Koopman.
+  abstract](http://users.ece.cmu.edu/~koopman/essays/abstract.html) by Philip
+  Koopman
 - [Paper content and
-  organization](https://homepages.inf.ed.ac.uk/sgwater/writing/content.html),
-  by Sharon Goldwater.
+  organization](https://homepages.inf.ed.ac.uk/sgwater/writing/content.html)
+  by Sharon Goldwater
 
 
-We don't clap hands for basics
-------------------------------
+## We don't clap hands for basics
+
 We all make mistakes and try to learn from them. But some mistakes make me
-really sad. Here are some basics that I expect when a student gives me a draft:
+really sad. Here are some basic expectations:
 
 - **Spelling mistakes.** With today's word processors, editors and tools, there
   is no excuse for spelling mistakes.
@@ -52,8 +52,8 @@ really sad. Here are some basics that I expect when a student gives me a draft:
   mistake throughout the entire draft.
 
 
-General comments
-----------------
+## General comments
+
 - With whatever you do (spelling, figures, table layout, capitalisation,
   section headings), be consistent!
 - Choose either British or American spelling, and stick to it. This means that
@@ -64,10 +64,19 @@ General comments
   Y". Sometimes you can say that something is unexpected or surprising, but
   then you need to unpack why you say so, and help the reader see what you are
   seeing.
+- You don't have to use big words or be overly formal. Short, punchy sentences
+  are often clearer and are easier to write (especially for second-language
+  writers). I think students are now increasingly under the impression that
+  your writing needs to be formal (I don't know if this comes from what is
+  taught in school). Consider this example: "It is imperative to acknowledge
+  that no element within this elucidation possesses novelty; rather, it
+  unequivocally constitutes a particular instantiation of dynamic programming."
+  Here is how I would write it instead: "Note that nothing in this description
+  is new. It is really just a specific version of dynamic programming. "
 
 
-Mathematics
------------
+## Mathematics
+
 - **Consistent mathematical notation.** If $x$ is used to represent something
   in Section 1, then $x$ shouldn't be used for something else in Section 3.
   Sometimes it is difficult to be entirely consistent (this is often the case
@@ -82,25 +91,25 @@ Mathematics
   a sub- or superscript to denote some properties of a variable: for instance,
   you should write $y_\textrm{pair}$ and not $y_{pair}$.
 - There are different ways to refer to an equation in the text. Choose how you
-  will refer to equations and do so consistently. For instance, either write
-  "the loss is shown in (3.3)" or "the loss is shown in Equation 3.3". Do not
-  mix the two!
+  refer to equations and do so consistently. For instance, either write "the
+  loss is shown in (3.3)" or "the loss is shown in Equation 3.3". Do not mix
+  the two!
 
 
-Figures and tables
-------------------
+## Figures and tables
+
 - Figure and table captions are always full sentences (ending with a full
   stop). The caption should be self-contained, i.e. it should be possible for
-  the reader to get a fairly good understanding of the figure or table by just
-  reading the caption. This means that "Model diagram" or "Illustration of the
-  AwsmeCat approach" are not good captions.
+  the reader to get a fairly good understanding of the content by just reading
+  the caption. This means that "Model diagram" or "Illustration of the AwsmeCat
+  approach" are not good captions.
 - If you did not make a figure yourself, it requires a citation in the figure
   caption otherwise it is plagiarism. You can also ask the author directly
   whether it is okay to use their figure; then you should not only cite them,
-  but also thank them in acknowledgements. The best approach is probably to
+  but also thank them in the acknowledgements. The best approach is probably to
   just remake the figure, so that it is consistent with the other figures in
-  your document (but even then, it is good to add a citation to the figure
-  caption).
+  your document (but even then, it is good to add a citation to the original
+  figure).
 - Try to place figures or tables close to where they are first mentioned.
 - Try to put tables and figures at the top or bottom of a page. This is not a
   hard rule (although it might be for some journals or conferences). But a hard
@@ -117,7 +126,7 @@ Figures and tables
 **A bit more on table layout.** If you use LaTeX, make sure to learn how to use
 the `tabularx` and `booktabs` packages. The `tabularx` package allows you to
 stretch your table to (a fraction of) the text or column width. The `booktabs`
-packages helps with layout and making tables pretty, but more importantly, the
+packages helps with layout and making tables pretty. But more importantly, the
 first two sections of the [booktabs
 manual](http://mirrors.ctan.org/macros/latex/contrib/booktabs/booktabs.pdf)
 give an opinionated rant about how to format tables. I recommend that you read
@@ -135,15 +144,15 @@ This is somewhat of a personal choice, but I do think that removing vertical
 rules makes tables look a lot better and improves readability.
 
 
-Bibliography
-------------
+## Bibliography
+
 Make sure that the references in your bibliography are consistent:
 
 - I generally make sure that the referencing format for all conferences papers
   are exactly the same and that the format for all journal articles are the
   same.
 - Decide whether you are going to abbreviate conferences or not, and then do so
-  consistently. E.g., in the same bibliography you should not have "in
+  consistently. E.g. in the same bibliography you should not have "in
   *Proceedings of the IEEE International Conference on Acoustics, Speech and
   Signal Processing (ICASSP)*" and "in *Proc. ICASSP*". Choose one format and
   stick to it. I prefer to use the shortened abbreviation format everywhere
@@ -193,12 +202,12 @@ conference; again this could be okay, but then this should be added for [2] and
 which should be capitalised, i.e. "JHU CLSP".
 
 
-LaTeX-specific recommendations
-------------------------------
-- I recommend using the `microtype` package. It basically moves and spaces
-  letters so that a document looks more beautiful. More importantly, it often
-  reduces the length of a paper since it reduces the number of dangling words
-  (when the last word of a paragraph ends up on a line of its own).
+## LaTeX-specific recommendations
+
+- I recommend using the `microtype` package. It moves and spaces letters so
+  that a document looks more beautiful. More importantly, it often reduces the
+  length of a paper since it reduces the number of dangling words (when the
+  last word of a paragraph ends up on a line of its own).
 - Put each sentence on a new line in your LaTeX code. Alternatively, partial
   sentences can be put on new lines. But don't have a whole paragraph on a
   single line. There are several reasons for this:
@@ -227,10 +236,10 @@ LaTeX-specific recommendations
       authors through git, making it easier to isolate where changes have
       happened.
     - It also really helps with larger documents like theses.
-    - In Overleaf I have seen that it might be better to use a single file,
-      since separate files sometimes break the forward and backward search
-      functionality. (This is maybe one more reason why I am not a huge
-      Overleaf fan, but I think it's just me.)
+    - In Overleaf it is better better to use a single file, since separate
+      files sometimes break the forward and backward search functionality.
+      (This is maybe one more reason why I am not a huge Overleaf fan, but I
+      think it's just me.)
 - More on version control with LaTeX:
     - Make sure that `.pdf`, `.aux`, `.bbl` and other file types produced as
       part of the document build process are not included or tracked in your
@@ -242,9 +251,9 @@ LaTeX-specific recommendations
       collaborating from a common git repository. The collaborator was pulling
       from git using the command line. But his editor wasn't reloading the
       files after a pull. This meant that he would pull (without getting the
-      updates), continue to edit, and then my changes were lost the moment he
-      saved. I guess this is an edge case with a particular way of
-      collaborating and editing, but it caused a lot of sadness.
+      updates in his editor), continue to edit, and then my changes were lost
+      the moment he saved. I guess this is an edge case with a particular way
+      of collaborating and editing, but it caused a lot of sadness.
 - List of figures / list of tables: Use shortened versions of the full
   figure/table caption, no more than one or two lines. A good choice for a
   short version would typically be the first sentence of the caption. You can
@@ -252,8 +261,8 @@ LaTeX-specific recommendations
   version}`.
 
 
-Conventions
------------
+## Conventions
+
 These are some personal conventions I follow (and might also recommend/force
 onto students).
 
@@ -274,49 +283,49 @@ onto students).
 - **Bulleted lists.** I try to follow
   [this](https://www.instructionalsolutions.com/blog/bulleted-list-punctuation)
   guideline on how to punctuate bullet point lists.
-- "3" vs. "three": I write out the words for numbers up to twelve, and from
+- "3" vs. "three": I write out the words for numbers up to ten, and from
   then on write out the number. E.g. I would write "13 layers", but would write
   "five captions".
-- In a thesis, book, or longer report, I often start a chapter with a paragraph
-  explaining what the reader should expect in that chapter.  I also often
-  finish with a final section like "Chapter summary", explaining what the
-  reader should take away from that chapter and how it links with what happens
-  next and in the rest of the document.
+- In a thesis, book or longer report, I often start a chapter with a paragraph
+  explaining what the reader should expect in that chapter. I also often finish
+  with a final section like "Chapter summary", explaining what the reader
+  should take away from that chapter and how it links with what happens next
+  and in the rest of the document.
 
 
-General writing strategies
---------------------------
+## General writing strategies
+
 - **Struggling to write.** Like everyone, I sometimes get writer's block. One
-  thing I sometimes do which helps, is to write using pen and paper, away from
-  my computer. There is something about this analogue process that helps with
-  the struggle of starting to write. I realise this might not work for
-  everyone, but I've written large parts of some papers in my notebook
-  (sometimes on a long flight---I don't like taking out my laptop).
+  thing I do that helps, is to write using pen and paper, away from my
+  computer. There is something about this analogue process that helps with the
+  struggle of starting to write. I realise this might not work for everyone,
+  but I've written large parts of papers in my notebook (sometimes on a long
+  flight---I don't like taking out my laptop).
 - After explaining something once in a paper, I sometimes feel like explaining
   it in a slightly different way in a follow-up sentence or paragraph. This is
   normally a great indication that I didn't explain the concept well in the
-  first place: I need to go back and rewrite it.
+  first place: I need to go back and rewrite the first sentence.
 
 
-Stellenbosch University templates
----------------------------------
-A LaTeX template for reports following the guidelines of the E&E department at
-Stellenbosch University can be downloaded
+## Stellenbosch University templates
+
+A LaTeX template for reports following the guidelines of Electrical and
+Electronic Engineering at Stellenbosch University can be downloaded
 [here](https://github.com/kamperh/stellenbosch_ee_report_template/archive/master.zip).
 
 By (un)commenting the appropriate lines in the root LaTeX file, the front page
 can follow the format for:
 
-- Skripsie (i.e. final year project) reports
+- Final year project reports
 - MEng theses
+- PhD dissertations
 
 
-Acknowledgements
-----------------
+## Acknowledgements
+
 I changed the way I format tables after I received an email from Iain Murray; I
 had given a talk with some nasty looking tables on some of the slides, and he
 sent a kind email with some great recommendations.
 
 Leanne Nortje edited and made suggestions for parts of the LaTeX template
 above. I also received good recommendations from Ludwig Schwardt.
-
