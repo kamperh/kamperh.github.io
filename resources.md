@@ -7,21 +7,9 @@ order: 3
 
 # Resources
 
-### Teaching and videos
-
-- [Playlist: An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
-  [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
-- [Playlist: Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
-  [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
-- [Playlist: Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
-  [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes](https://www.kamperh.com/nlp817/notes/08_nn_notes.pdf)]
-- [Course: DatA414 -- Yet another introduction to machine learning](https://www.kamperh.com/data414/)
-- [Course: NLP817 -- Yet another introduction to natural language processing](https://www.kamperh.com/nlp817/)
-
-
 ### For Stellenbosch University students
 
-- [Getting started with the Stellenbosch HPC (by Matthew Baas)](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1)
+- [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
 - [E&E LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
 
 
