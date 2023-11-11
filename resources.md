@@ -7,12 +7,6 @@ order: 3
 
 # Resources
 
-### For Stellenbosch University students
-
-- [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
-- [E&E LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
-
-
 ### Code and data
 
 Most of my code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, it is probably easier to look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. But below I give a summary of some of the main repositories.
@@ -57,3 +51,9 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
   CSAIL, MIT, 2016.
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   MLSLP Workshop, Spotlight Speaker, 2016.
+
+
+### For Stellenbosch University students
+
+- [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
+- [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
