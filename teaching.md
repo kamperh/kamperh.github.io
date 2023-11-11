@@ -17,7 +17,7 @@ order: 2
 
 ## Speech and signal processing
 
-- [An introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
+- [Introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
   [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
 - [Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
