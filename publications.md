@@ -319,7 +319,7 @@ order: 5
 ### Other publications
 
 - [Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/papers/kamper_phd2016.pdf)  
-  H. Kamper. *Ph.D. dissertation*, University of Edinburgh, UK, 2016.
+  H. Kamper. *PhD dissertation*, University of Edinburgh, UK, 2016.
   [[arXiv](https://arxiv.org/abs/1701.00851)]
 - [Speech recognition of South African English accents]({{site.url}}/papers/kamper_msceng2012.pdf)  
   H. Kamper. *Master's thesis*, Stellenbosch University, South Africa, 2012.
