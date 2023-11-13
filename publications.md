@@ -27,7 +27,7 @@ order: 5
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 
 <!-- Check all ?? in publications.py -->
-<!-- Add WEEF paper -->
+<!-- Add WEEF paper PDF -->
 
 
 ### Journal publications
@@ -120,6 +120,8 @@ order: 5
 - [GAN you hear me? Reclaiming unconditional speech synthesis from diffusion models]({{site.url}}/papers/baas+kamper_slt2023.pdf)  
   M. Baas and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2023.
   [[arXiv](https://arxiv.org/abs/2210.05271), [code](https://github.com/RF5/simple-asgan)]
+- [Using machine learning to understand assessment practices of capstone projects in engineering]({{site.url}}/papers/???.pdf)  
+  H. Kamper, C. Niehaus, and K. Wolff. In *Proceedings of the World Engineering Education Forum (WEEF)*, 2023.
 
 **2022**
 
