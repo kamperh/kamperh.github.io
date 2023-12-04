@@ -33,7 +33,7 @@ order: 5
 ### Journal publications
 
 - [Rhythm modeling for voice conversion](https://doi.org/10.1109/LSP.2023.3313515)  
-  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, vol. 30, pp. 1297-1301, 2023.
+  B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, vol. 30, pp. 1297--1301, 2023.
   [[arXiv](https://arxiv.org/abs/2307.06040), [code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic)]
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://doi.org/10.1111/cogs.13314)  
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Cognitive Science*, vol. 47, 2023.
@@ -43,15 +43,18 @@ order: 5
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
 - [Semi-supervised machine learning for livestock threat classification using GPS data](https://doi.org/10.1109/ACCESS.2023.3258621)  
   U. J. de Swardt and H. Kamper. *IEEE Access*, vol. 11, pp. 27749-27758, 2023.
-- [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
-  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
-  [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
+- [Voice conversion for stuttered speech, instruments, unseen languages and textually described voices](https://doi.org/10.1007/978-3-031-49002-6_10)  
+  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1976, pp. 136-150, 2023.
+  [[arXiv](https://arxiv.org/abs/2310.08104), [code](https://rf5.github.io/sacair2023-knnvc-demo/)]
 - [Keyword localisation in untranscribed speech using visually grounded speech models](https://doi.org/10.1109/JSTSP.2022.3180220)  
   K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454-1466, 2022.
   [[arXiv](https://arxiv.org/abs/2202.01107), [code](https://github.com/kayodeolaleye/keyword_localisation_speech)]
 - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
   E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
   [[arXiv](https://arxiv.org/abs/2108.06174)]
+- [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
+  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
+  [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://doi.org/10.1109/TASLP.2021.3060805)  
   H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
   [[arXiv](https://arxiv.org/abs/2006.02295), [code](https://github.com/kamperh/globalphone_awe)]
