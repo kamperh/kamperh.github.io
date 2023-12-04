@@ -37,24 +37,24 @@ order: 5
   Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Cognitive Science*, vol. 47, 2023.
   [[arXiv](https://psyarxiv.com/jmqtn)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
-  H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
+  H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684--694, 2023.
   [[arXiv](https://arxiv.org/abs/2202.11929), [code](https://github.com/kamperh/vqwordseg)]
 - [Semi-supervised machine learning for livestock threat classification using GPS data](https://doi.org/10.1109/ACCESS.2023.3258621)  
-  U. J. de Swardt and H. Kamper. *IEEE Access*, vol. 11, pp. 27749-27758, 2023.
+  U. J. de Swardt and H. Kamper. *IEEE Access*, vol. 11, pp. 27749--27758, 2023.
 - [Voice conversion for stuttered speech, instruments, unseen languages and textually described voices](https://doi.org/10.1007/978-3-031-49002-6_10)  
-  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1976, pp. 136-150, 2023.
+  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1976, pp. 136--150, 2023.
   [[arXiv](https://arxiv.org/abs/2310.08104), [code](https://rf5.github.io/sacair2023-knnvc-demo/)]
 - [Keyword localisation in untranscribed speech using visually grounded speech models](https://doi.org/10.1109/JSTSP.2022.3180220)  
-  K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454-1466, 2022.
+  K. Olaleye, D. Oneață, and H. Kamper. *IEEE Journal of Selected Topics in Signal Processing*, vol. 16, no. 6, pp. 1454--1466, 2022.
   [[arXiv](https://arxiv.org/abs/2202.01107), [code](https://github.com/kayodeolaleye/keyword_localisation_speech)]
 - [Feature learning for efficient ASR-free keyword spotting in low-resource languages](https://doi.org/10.1016/j.csl.2021.101275)  
   E. van der Westhuizen, H. Kamper, R. Menon, J. Quinn, and T. R. Niesler. *Computer Speech and Language*, vol. 71, 2022.
   [[arXiv](https://arxiv.org/abs/2108.06174)]
 - [TransFusion: Transcribing speech with multinomial diffusion](https://doi.org/10.1007/978-3-031-22321-1_16)  
-  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
+  M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231--245, 2022.
   [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://doi.org/10.1109/TASLP.2021.3060805)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
+  H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107--1118, 2021.
   [[arXiv](https://arxiv.org/abs/2006.02295), [code](https://github.com/kamperh/globalphone_awe)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
   E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
@@ -62,37 +62,37 @@ order: 5
 - [BINet: A binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
   [[arXiv](https://arxiv.org/abs/1912.05189)]
- - [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
-  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1342, pp. 69-84, 2020.
+- [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts](https://doi.org/10.1007/978-3-030-66151-9_5)  
+  M. Baas and H. Kamper. *Communications in Computer and Information Science*, vol. 1342, pp. 69--84, 2020.
   [[arXiv](https://arxiv.org/abs/2106.00043), [preprint]({{site.url}}/papers/baas+kamper_ccis2020_preprint.pdf), [code](https://rf5.github.io/sacair2020/)]
 - [Unsupervised feature learning for speech using correspondence and Siamese networks](https://doi.org/10.1109/LSP.2020.2973798)  
-  P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421-425, 2020.
+  P-J. Last, H. A. Engelbrecht, and H. Kamper. *IEEE Signal Processing Letters*, vol. 27, pp. 421--425, 2020.
   [[arXiv](http://arxiv.org/abs/2003.12799), [preprint]({{site.url}}/papers/last+engelbrecht+kamper_spl2020.pdf)]
 - [On the expected behaviour of noise regularised deep neural networks as Gaussian processes](https://doi.org/10.1016/j.patrec.2020.06.027)  
-  A. Pretorius, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 75-81, 2020.
+  A. Pretorius, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 75--81, 2020.
   [[arXiv](https://arxiv.org/abs/1910.05563), [preprint](https://arxiv.org/pdf/1910.05563)]
 - [If dropout limits trainable depth, does critical initialisation still matter? A large-scale statistical analysis on ReLU networks](https://doi.org/10.1016/j.patrec.2020.06.025)  
-  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 95-105, 2020.
+  A. Pretorius, E. van Biljon, B. van Niekerk, R. Eloff, M. Reynard, S. James, B. Rosman, H. Kamper, and S. Kroon. *Pattern Recognition Letters*, vol. 138, pp. 95--105, 2020.
   [[arXiv](https://arxiv.org/abs/1910.05725), [preprint](https://arxiv.org/pdf/1910.05725)]
 - [Semantic speech retrieval with a visually grounded model of untranscribed speech](https://doi.org/10.1109/TASLP.2018.2872106)  
-  H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89-98, 2019.
+  H. Kamper, G. Shakhnarovich, and K. Livescu. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 27, no. 1, pp. 89--98, 2019.
   [[arXiv](https://arxiv.org/abs/1710.01949), [preprint]({{site.url}}/papers/kamper+shakhnarovich+livescu_taslp2019.pdf), [code](https://github.com/kamperh/recipe_semantic_flickraudio), [data](https://github.com/kamperh/semantic_flickraudio)]
 - [Teaching for the future](https://issuu.com/aimediasynapse/docs/synapse_-_issue_3_-_opt)  
-  W. Brink, H. Kamper, S. Kroon, U. Paquet, and H. Touchette. *Synapse*, vol. 3, pp. 41-42, 2019.
+  W. Brink, H. Kamper, S. Kroon, U. Paquet, and H. Touchette. *Synapse*, vol. 3, pp. 41--42, 2019.
 - [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017. [**ISCA best paper published in CSL 2016--2020**]
+  H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154--174, 2017. [**ISCA best paper published in CSL 2016--2020**]
   [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
 - [Unsupervised word segmentation and lexicon discovery using acoustic word embeddings](http://dx.doi.org/10.1109/TASLP.2016.2517567)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
+  H. Kamper, A. Jansen, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669--679, 2016.
   [[arXiv](http://arxiv.org/abs/1603.02845), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_taslp2016.pdf)]
 - [Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system](https://doi.org/10.1016/j.csl.2014.04.005)  
-  H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.
+  H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. *Computer Speech and Language*, vol. 28, no. 6, pp. 1255--1268, 2014.
   [[preprint]({{site.url}}/papers/kamper+dewet+hain+niesler_csl2013_preprint.pdf)]
 - [The impact of accent identification errors on speech recognition of South African English](http://dx.doi.org/10.1590/sajs.2014/20120049)  
-  H. Kamper and T. R. Niesler. *South African Journal of Science*, vol. 110, no. 1, 6 pages, 2014.
+  H. Kamper and T. R. Niesler. *South African Journal of Science*, vol. 110, no. 1, 2014.
   [[preprint]({{site.url}}/papers/kamper+niesler_sajs2014.pdf)]
 - [Multi-accent acoustic modelling of South African English](https://doi.org/10.1016/j.specom.2012.01.008)  
-  H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. *Speech Communication*, vol. 54, no. 6, pp. 801-813, 2012.
+  H. Kamper, F. J. Muamba Mukanya, and T. R. Niesler. *Speech Communication*, vol. 54, no. 6, pp. 801--813, 2012.
   [[preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
 
 
