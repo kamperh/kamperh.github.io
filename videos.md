@@ -5,7 +5,7 @@ permalink: /videos/
 order: 2
 ---
 
-# Teaching and videos
+# Videos
 
 ### Courses
 
