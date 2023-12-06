@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Videos
+permalink: /videos/
 order: 2
 ---
 
