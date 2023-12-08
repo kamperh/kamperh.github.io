@@ -42,5 +42,6 @@ order: 2
 
 - [NLP introduction, units, tokenisation and edit distance](https://www.youtube.com/playlist?list=PLmZlBIcArwhOqEQwyk2TBHmtEKTGPMu5d)
 - [Language modelling with N-grams](https://www.youtube.com/playlist?list=PLmZlBIcArwhP-ril7Xe5vDNpdMEgOjppP)
+- [Hidden Markov models](https://www.youtube.com/playlist?list=PLmZlBIcArwhMIRdgNwFUWGqY53h2TC6PH)
 - [Encoder-decoder models, machine translation and attention](https://www.youtube.com/playlist?list=PLmZlBIcArwhPHmHzyM_cZJQ8_v5paQJTV)
 - [Self-attention and transformers](https://www.youtube.com/playlist?list=PLmZlBIcArwhOPR2s-FIR7WoqNaBML233s)
