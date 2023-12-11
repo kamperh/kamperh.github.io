@@ -288,9 +288,9 @@ onto students).
   "five captions".
 - In a thesis, book or longer report, I often start a chapter with a paragraph
   explaining what the reader should expect in that chapter. I also often finish
-  with a final section like "Chapter summary", explaining what the reader
-  should take away from that chapter and how it links with what happens next
-  and in the rest of the document.
+  with a final section like "Chapter summary" or "Concluding remarks",
+  explaining what the reader should take away from that chapter and how it
+  links with what happens next and in the rest of the document.
 
 
 ## General writing strategies
