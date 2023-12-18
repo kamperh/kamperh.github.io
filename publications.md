@@ -8,7 +8,6 @@ order: 5
 
 # Publications
 
-
 ### arXiv preprints
 
 - [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
@@ -23,9 +22,6 @@ order: 5
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
-
-<!-- Check all ?? in publications.py -->
-<!-- Add WEEF paper PDF -->
 
 
 ### Journal publications
