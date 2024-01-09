@@ -16,8 +16,8 @@ order: 5
   C. Jacobs and H. Kamper. *arXiv preprint arXiv:2307.02083*, 2023. 
 - [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
-- [Mava: A research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
-  A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)]
+<!-- - [Mava: A research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
+  A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)] -->
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, A. Pretorius, O. Räsänen, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
