@@ -9,8 +9,8 @@ order: 2
 
 ### Courses
 
-- [Data Analytics 414](https://www.kamperh.com/data414/): An introduction to machine learning
-- [Natural Language Processing 817](https://www.kamperh.com/nlp817/): An introduction to natural language processing
+- [Data Analytics 414](https://www.kamperh.com/data414/): Introduction to machine learning
+- [Natural Language Processing 817](https://www.kamperh.com/nlp817/): Introduction to natural language processing
 <!-- - Systems and Signals 414: Digital signal processing -->
 <!-- - Computer Programming 143: A first programming course -->
 
