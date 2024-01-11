@@ -34,7 +34,7 @@ order: 2
 - [Preprocessing](https://www.youtube.com/playlist?list=PLmZlBIcArwhNSvaKyVSoIEq0ewNX9KTC4)
 - [Decision trees](https://www.youtube.com/playlist?list=PLmZlBIcArwhPrP3H7iejBQpqtP1UHrhFp)
 - [Ensemble methods](https://www.youtube.com/playlist?list=PLmZlBIcArwhOS-uLDR79Dzzp_e1QdxOhP)
-- [Unsupervised learning](https://www.youtube.com/playlist?list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) ($K$-means and PCA)
+- [Unsupervised learning](https://www.youtube.com/playlist?list=PLmZlBIcArwhMfNuMBg4XR-YQ0QIqdHCrl) (K-means and PCA)
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
   [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes](https://www.kamperh.com/nlp817/notes/08_nn_notes.pdf)]
 
