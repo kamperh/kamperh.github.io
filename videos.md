@@ -27,6 +27,7 @@ order: 2
 
 - [Introduction to machine learning](https://www.youtube.com/playlist?list=PLmZlBIcArwhM_7t4ZzxXAs1PWaLqcPusG)
 - [Linear regression](https://www.youtube.com/playlist?list=PLmZlBIcArwhNd_sWiz6f1-NHc3lg3k7PF)
+- [Training, validating and testing](https://youtu.be/aXRDdjK-hI4)
 - [Gaussians](https://www.youtube.com/playlist?list=PLmZlBIcArwhPnCzcSUU5mF90aU_dMSnZ2)
 - [Classification](https://www.youtube.com/playlist?list=PLmZlBIcArwhMiJk7vCghuHGOGXXjC4n6b)
 - [Logistic regression](https://www.youtube.com/playlist?list=PLmZlBIcArwhOr0ysO1Hg4Wfoww0dZnHz4)
