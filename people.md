@@ -11,14 +11,18 @@ order: 5
 
 ### Current students
 
+- Christiaan Jacobs (Postdoc)
 - Leanne Nortje (PhD)
 - Benjamin van Niekerk (PhD)
-- Christiaan Jacobs (PhD)
 - [Matthew Baas](https://rf5.github.io/) (PhD)
 - Nicol Visser (MEng)
+- Emma Sharratt (MEng)
+- Retief Louw (MEng)
+- Simon Malan (MEng)
 
 ### Past students
 
+- Christiaan Jacobs (PhD, 2023)
 - Urs de Swardt (MEng, 2023)
 - [Kayode Olaleye](https://kayodeolaleye.github.io/cv/) (PhD, 2023)
 - Kevin Eloff (MEng, 2023, co-supervisors: Herman A. Engelbrecht and [Arnu Pretorius](https://arnupretorius.github.io/))
