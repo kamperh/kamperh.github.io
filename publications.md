@@ -12,8 +12,6 @@ order: 5
 
 - [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
   M. Baas and H. Kamper. *arXiv preprint arXiv:2307.01673*, 2023. [[code](https://github.com/RF5/simple-asgan/)]
-- [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://arxiv.org/abs/2307.02083)  
-  C. Jacobs and H. Kamper. *arXiv preprint arXiv:2307.02083*, 2023. 
 - [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
@@ -24,14 +22,16 @@ order: 5
   A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)] -->
 
 
-
 ### Journal publications
 
+- [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://doi.org/10.1109/LSP.2023.3347154)  
+  C. Jacobs and H. Kamper. *IEEE Signal Processing Letters*, vol. 31, pp. 311-315, 2024.
+  [[arXiv](https://arxiv.org/abs/2307.02083)]
 - [Rhythm modeling for voice conversion](https://doi.org/10.1109/LSP.2023.3313515)  
   B. van Niekerk, M-A. Carbonneau, and H. Kamper. *IEEE Signal Processing Letters*, vol. 30, pp. 1297-1301, 2023.
   [[arXiv](https://arxiv.org/abs/2307.06040), [code](https://github.com/bshall/urhythmic), [samples](https://ubisoft-laforge.github.io/speech/urhythmic)]
 - [Infant phonetic learning as perceptual space learning: A crosslinguistic evaluation of computational models](https://doi.org/10.1111/cogs.13314)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. *Cognitive Science*, vol. 47, 2023.
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. Goldwater. *Cognitive Science*, vol. 47, 2023.
   [[arXiv](https://psyarxiv.com/jmqtn)]
 - [Word segmentation on discovered phone units with dynamic programming and self-supervised scoring](https://doi.org/10.1109/TASLP.2022.3229264)  
   H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, pp. 684-694, 2023.
@@ -51,10 +51,10 @@ order: 5
   M. Baas, K. Eloff, and H. Kamper. *Communications in Computer and Information Science*, vol. 1734, pp. 231-245, 2022.
   [[arXiv](https://arxiv.org/abs/2210.07677), [preprint]({{site.url}}/papers/baas+eloff+kamper_ccis2022_preprint.pdf), [code](https://github.com/RF5/transfusion-asr/)]
 - [Improved acoustic word embeddings for zero-resource languages using multilingual transfer](https://doi.org/10.1109/TASLP.2021.3060805)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
+  H. Kamper, Y. Matusevych, and S. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 29, pp. 1107-1118, 2021.
   [[arXiv](https://arxiv.org/abs/2006.02295), [code](https://github.com/kamperh/globalphone_awe)]
 - [Multilingual and unsupervised subword modeling for zero-resource languages](https://doi.org/10.1016/j.csl.2020.101098)  
-  E. Hermann, H. Kamper, and S. J. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
+  E. Hermann, H. Kamper, and S. Goldwater. *Computer Speech and Language*, vol. 65, 2021.
   [[arXiv](https://arxiv.org/abs/1811.04791), [preprint]({{site.url}}/papers/hermann+kamper+goldwater_csl2020_preprint.pdf)]
 - [BINet: A binary inpainting network for deep patch-based image compression](https://doi.org/10.1016/j.image.2020.116119)  
   A. Nortje, W. Brink, H. A. Engelbrecht, and H. Kamper. *Signal Processing: Image Communication*, vol. 92, 2021.
@@ -77,10 +77,10 @@ order: 5
 - [Teaching for the future](https://issuu.com/aimediasynapse/docs/synapse_-_issue_3_-_opt)  
   W. Brink, H. Kamper, S. Kroon, U. Paquet, and H. Touchette. *Synapse*, vol. 3, pp. 41-42, 2019.
 - [A segmental framework for fully-unsupervised large-vocabulary speech recognition](http://dx.doi.org/10.1016/j.csl.2017.04.008)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017. [**ISCA best paper published in CSL 2016--2020**]
+  H. Kamper, A. Jansen, and S. Goldwater. *Computer Speech and Language*, vol. 46, pp. 154-174, 2017. [**ISCA best paper published in CSL 2016--2020**]
   [[arXiv](http://arxiv.org/abs/1606.06950), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_csl2017_preprint.pdf), [code](https://github.com/kamperh/segmentalist)]
 - [Unsupervised word segmentation and lexicon discovery using acoustic word embeddings](http://dx.doi.org/10.1109/TASLP.2016.2517567)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
+  H. Kamper, A. Jansen, and S. Goldwater. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 24, no. 4, pp. 669-679, 2016.
   [[arXiv](http://arxiv.org/abs/1603.02845), [preprint]({{site.url}}/papers/kamper+jansen+goldwater_taslp2016.pdf)]
 - [Capitalising on North American speech resources for the development of a South African English large vocabulary speech recognition system](https://doi.org/10.1016/j.csl.2014.04.005)  
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. *Computer Speech and Language*, vol. 28, no. 6, pp. 1255-1268, 2014.
@@ -94,6 +94,7 @@ order: 5
 
 
 ### Conference proceedings
+
 
 **2023**
 
@@ -153,7 +154,7 @@ order: 5
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2021.
   [[arXiv](http://arxiv.org/abs/2012.05680), [code](https://github.com/LeanneNortje/DirectMultimodalFew-ShotLearning)]
 - [A phonetic model of non-native spoken word processing]({{site.url}}/papers/matusevych+kamper+schatz+feldman+goldwater_eacl2021.pdf)  
-  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021. [**honourable mention**]
+  Y. Matusevych, H. Kamper, T. Schatz, N. H. Feldman, and S. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021. [**honourable mention**]
   [[arXiv](https://arxiv.org/abs/2101.11332)]
 - [Acoustic word embeddings for zero-resource languages using self-supervised contrastive learning and multilingual adaptation]({{site.url}}/papers/jacobs+matusevych+kamper_slt2021.pdf)  
   C. Jacobs, Y. Matusevych, and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2021.
@@ -171,13 +172,13 @@ order: 5
   L. Nortje and H. Kamper. In *Proceedings of Interspeech*, 2020.
   [[arXiv](http://arxiv.org/abs/2008.06258), [slides]({{site.url}}/slides/nortje+kamper_interspeech2020_talk.pdf)]
 - [Evaluating computational models of infant phonetic learning across languages]({{site.url}}/papers/matusevych+schatz+kamper+feldman+goldwater_cogsci2020.pdf)  
-  Y. Matusevych, T. Schatz, H. Kamper, N. H. Feldman, and S. J. Goldwater. In *Proceedings of CogSci*, 2020.
+  Y. Matusevych, T. Schatz, H. Kamper, N. H. Feldman, and S. Goldwater. In *Proceedings of CogSci*, 2020.
   [[arXiv](http://arxiv.org/abs/2008.02888), [video](https://youtu.be/LG4vuZLpCMw)]
 - [Multilingual acoustic word embedding models for processing zero-resource languages]({{site.url}}/papers/kamper+matusevych+goldwater_icassp2020.pdf)  
-  H. Kamper, Y. Matusevych, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
+  H. Kamper, Y. Matusevych, and S. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/2002.02109), [slides]({{site.url}}/slides/kamper+matusevych+goldwater_icassp2020_talk.pdf), [code](https://github.com/kamperh/globalphone_awe), [video](https://youtu.be/J2QJKguiULQ)]
 - [Cross-lingual topic prediction for speech using translations]({{site.url}}/papers/bansal+kamper+lopez+goldwater_icassp2020.pdf)  
-  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
+  S. Bansal, H. Kamper, A. Lopez, and S. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2020.
   [[arXiv](https://arxiv.org/abs/1908.11425), [slides]({{site.url}}/slides/bansal+kamper+lopez+goldwater_icassp2020_talk.pdf)]
 - [Training neural networks for plant estimation, control and disturbance rejection]({{site.url}}/papers/kotze+kamper+jordaan_ifac2020.pdf)  
   H. Kotzé, H. Kamper, and H. W. Jordaan. In *Proceedings of the International Federation of Automatic Control (IFAC)*, 2020.
@@ -191,7 +192,7 @@ order: 5
   P. Peng, H. Kamper, K. Livescu. In *NeurIPS Workshop on Self-Supervised Learning for Speech and Audio Processing (NeurIPS-SAS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2012.02221), [slides]({{site.url}}/slides/peng+kamper+livescu_sas2020_talk.pdf)]
 - [Analyzing autoencoder-based acoustic word embeddings]({{site.url}}/papers/matusevych+kamper+goldwater_baics2020.pdf)  
-  Y. Matusevych, H. Kamper, and S. J. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
+  Y. Matusevych, H. Kamper, and S. Goldwater. In *ICLR Workshop on Bridging AI and Cognitive Science (BAICS)*, 2020.
   [[arXiv](https://arxiv.org/abs/2004.01647), [slides]({{site.url}}/slides/matusevych+kamper+goldwater_baics2020_talk.pdf)]
 - [Masakhane -- Machine translation for Africa](https://arxiv.org/pdf/2003.11529)  
   I. Orife and many others. In *ICLR AfricaNLP Workshop*, 2020.
@@ -227,7 +228,7 @@ order: 5
   R. Eloff, H. A. Engelbrecht, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2019.
   [[arXiv](https://arxiv.org/abs/1811.03875), [poster]({{site.url}}/posters/eloff+etal_icassp2019_poster.pdf), [code](https://github.com/rpeloff/multimodal-one-shot-learning)]
 - [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation]({{site.url}}/papers/bansal+etal_naacl2019.pdf)  
-  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. In *Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2019.
+  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. Goldwater. In *Proceedings of the Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, 2019.
   [[arXiv](https://arxiv.org/abs/1809.01431), [slides]({{site.url}}/slides/bansal+etal_naacl2019_talk.pdf), [code](https://github.com/0xSameer/ast)]
 
 **2018**
@@ -245,7 +246,7 @@ order: 5
   R. Menon, H. Kamper, J. Quinn, and T. R. Niesler. In *Proceedings of Interspeech*, 2018.
   [[arXiv](https://arxiv.org/abs/1806.09374), [poster]({{site.url}}/posters/menon+kamper+quinn+niesler_interspeech2018_poster.pdf)]
 - [Low-resource speech-to-text translation]({{site.url}}/papers/bansal+kamper+livescu+lopez+goldwater_interspeech2018.pdf)  
-  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. J. Goldwater. In *Proceedings of Interspeech*, 2018.
+  S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. Goldwater. In *Proceedings of Interspeech*, 2018.
   [[arXiv](https://arxiv.org/abs/1803.09164), [poster]({{site.url}}/posters/bansal+kamper+livescu+lopez+goldwater_interspeech2018_poster.pdf)]
 - [Learning dynamics of linear denoising autoencoders]({{site.url}}/papers/pretorius+kroon+kamper_icml2018.pdf)  
   A. Pretorius, S. Kroon, and H. Kamper. In *Proceedings of the International Conference on Machine Learning (ICML)*, 2018.
@@ -257,7 +258,7 @@ order: 5
 **2017**
 
 - [An embedded segmental K-means model for unsupervised segmentation and clustering of speech]({{site.url}}/papers/kamper+livescu+goldwater_asru2017.pdf)  
-  H. Kamper, K. Livescu, and S. J. Goldwater. In *Proceedings of the IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)*, 2017. [**best paper nominee**]
+  H. Kamper, K. Livescu, and S. Goldwater. In *Proceedings of the IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)*, 2017. [**best paper nominee**]
   [[arXiv](https://arxiv.org/abs/1703.08135), [poster]({{site.url}}/posters/kamper+livescu+goldwater_asru2017_poster.pdf), [code](https://github.com/kamperh/eskmeans)]
 - [Visually grounded learning of keyword prediction from untranscribed speech]({{site.url}}/papers/kamper+settle+shakhnarovich+livescu_interspeech2017.pdf)  
   H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu. In *Proceedings of Interspeech*, 2017.
@@ -266,10 +267,10 @@ order: 5
   S. Settle, K. Levin, H. Kamper, and K. Livescu. In *Proceedings of Interspeech*, 2017.
   [[arXiv](https://arxiv.org/abs/1706.03818), [poster]({{site.url}}/posters/settle+levin+kamper+livescu_interspeech2017_poster.pdf)]
 - [Towards speech-to-text translation without speech recognition]({{site.url}}/papers/bansal+kamper+lopez+goldwater_eacl2017.pdf)  
-  S. Bansal, H. Kamper, A. Lopez, and S. J. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2017.
+  S. Bansal, H. Kamper, A. Lopez, and S. Goldwater. In *Proceedings of the European Chapter of the Association for Computational Linguistics (EACL)*, 2017.
   [[arXiv](https://arxiv.org/abs/1702.03856), [slides](https://0xsameer.github.io/phd/reveal.js/eacl2017#/)]
 - [Weakly supervised spoken term discovery using cross-lingual side information]({{site.url}}/papers/bansal+kamper+goldwater+lopez_icassp2017.pdf)  
-  S. Bansal, H. Kamper, S. J. Goldwater, and A. Lopez. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2017.
+  S. Bansal, H. Kamper, S. Goldwater, and A. Lopez. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2017.
   [[arXiv](https://arxiv.org/abs/1609.06530), [poster]({{site.url}}/posters/bansal+kamper+goldwater+lopez_icassp2017_poster.pdf)]
 
 **2016**
@@ -281,26 +282,32 @@ order: 5
 **2015**
 
 - [Fully unsupervised small-vocabulary speech recognition using a segmental Bayesian model]({{site.url}}/papers/kamper+jansen+goldwater_interspeech2015.pdf)  
-  H. Kamper, A. Jansen, and S. J. Goldwater. In *Proceedings of Interspeech*, 2015.
+  H. Kamper, A. Jansen, and S. Goldwater. In *Proceedings of Interspeech*, 2015.
   [[poster]({{site.url}}/posters/kamper+jansen+goldwater_interspeech2015_poster.pdf)]
 - [A comparison of neural network methods for unsupervised representation learning on the Zero Resource Speech Challenge]({{site.url}}/papers/renshaw+kamper+jansen+goldwater_interspeech2015.pdf)  
-  D. Renshaw, H. Kamper, A. Jansen, and S. J. Goldwater. In *Proceedings of Interspeech*, 2015.
+  D. Renshaw, H. Kamper, A. Jansen, and S. Goldwater. In *Proceedings of Interspeech*, 2015.
   [[slides]({{site.url}}/slides/renshaw+kamper+jansen+goldwater_interspeech2015_talk.pdf)]
 - [Unsupervised neural network based feature extraction using weak top-down constraints]({{site.url}}/papers/kamper+elsner+jansen+goldwater_icassp2015.pdf)  
-  H. Kamper, M. Elsner, A. Jansen, and S. J. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015.
+  H. Kamper, M. Elsner, A. Jansen, and S. Goldwater. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2015.
   [[slides]({{site.url}}/slides/kamper+elsner+jansen+goldwater_icassp2015_talk.pdf), [code](https://github.com/kamperh/speech_correspondence)]
 
-**Pre-2015**
+**2014**
 
 - [Unsupervised lexical clustering of speech segments using fixed-dimensional acoustic embeddings]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf)  
-  H. Kamper, A. Jansen, S. King, and S. J. Goldwater. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2014. [**best poster presentation award**]
+  H. Kamper, A. Jansen, S. King, and S. Goldwater. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2014. [**best poster presentation award**]
   [[poster]({{site.url}}/posters/kamper+jansen+king+goldwater_slt2014_poster.pdf), [code](https://github.com/kamperh/bayes_gmm)]
+
+**2012**
+
 - [Resource development and experiments in automatic South African broadcast news transcription]({{site.url}}/papers/kamper+dewet+hain+niesler_sltu2012.pdf)  
   H. Kamper, F. de Wet, T. Hain, and T. R. Niesler. In *Proceedings of the Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU)*, 2012.
   [[slides]({{site.url}}/slides/kamper+dewet+hain+niesler_sltu2012_talk.pdf)]
 - [Optimisation of acoustic models for a target accent using decision-tree state clustering]({{site.url}}/papers/kamper+niesler_prasa2012.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of the Annual Symposium of the Pattern Recognition of South Africa (PRASA)*, 2012. [**best paper award**]
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2012_talk.pdf)]
+
+**Pre-2012**
+
 - [Multi-accent speech recognition of Afrikaans, Black and White varieties of South African English]({{site.url}}/papers/kamper+niesler_interspeech2011.pdf)  
   H. Kamper and T. R. Niesler. In *Proceedings of Interspeech*, 2011.
   [[poster]({{site.url}}/posters/kamper+niesler_interspeech2011_poster.pdf)]
@@ -315,7 +322,6 @@ order: 5
   [[slides]({{site.url}}/slides/kamper+niesler_prasa2009_talk.pdf)]
 
 
-
 ### Other publications
 
 - [Unsupervised neural and Bayesian models for zero-resource speech processing]({{site.url}}/papers/kamper_phd2016.pdf)  
@@ -323,31 +329,3 @@ order: 5
   [[arXiv](https://arxiv.org/abs/1701.00851)]
 - [Speech recognition of South African English accents]({{site.url}}/papers/kamper_msceng2012.pdf)  
   H. Kamper. *Master's thesis*, Stellenbosch University, South Africa, 2012.
-
-<!-- ### Heading
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-This is just ``_poole``
-
-This is another test:
-
-    Let's see what happens
-    $ ./test.py
-    You can find the source code for Jekyll at You can find the source code for Jekyll at You can find the source code for Jekyll at You can find the source code for Jekyll at
-
-{% highlight python %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-You can find the source code for Jekyll at You can find the source code for Jekyll at You can find the source code for Jekyll at You can find the source code for Jekyll at
-{% endhighlight %}
-
-1.  A list
-2.  There you are. -->
