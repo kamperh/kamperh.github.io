@@ -24,6 +24,9 @@ order: 5
 
 ### Journal publications
 
+- [Disentanglement in a GAN for unconditional speech synthesis](https://doi.org/10.1109/TASLP.2024.3359352)  
+  M. Baas and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 32, pp. 1324-1335, 2024.
+  [[arXiv](https://arxiv.org/abs/2307.01673), [code](https://github.com/RF5/simple-asgan/)]
 - [Leveraging multilingual transfer for unsupervised semantic acoustic word embeddings](https://doi.org/10.1109/LSP.2023.3347154)  
   C. Jacobs and H. Kamper. *IEEE Signal Processing Letters*, vol. 31, pp. 311-315, 2024.
   [[arXiv](https://arxiv.org/abs/2307.02083)]
