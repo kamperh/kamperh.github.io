@@ -10,16 +10,12 @@ order: 5
 
 ### arXiv preprints
 
-- [Disentanglement in a GAN for unconditional speech synthesis](https://arxiv.org/abs/2307.01673)  
-  M. Baas and H. Kamper. *arXiv preprint arXiv:2307.01673*, 2023. [[code](https://github.com/RF5/simple-asgan/)]
 - [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
   A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
-<!-- - [Mava: A research framework for distributed multi-agent reinforcement learning](https://arxiv.org/abs/2107.01460)  
-  A. Pretorius and many others. *arXiv preprint arXiv:2107.01460*, 2021. [[code](https://github.com/instadeepai/Mava)] -->
 
 
 ### Journal publications
