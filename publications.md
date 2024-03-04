@@ -10,7 +10,7 @@ order: 5
 
 ### arXiv preprints
 
-- [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)
+- [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)  
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2401.17902*, 2024.
 - [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
