@@ -23,6 +23,8 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 ### Invited talks
 
+- [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_ilcc2024_talk-compressed.pdf)  
+  ILCC, University of Edinburgh, 2024.
 - [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_epfl2023_talk-compressed.pdf)  
   SDSC, École Polytechnique Fédérale de Lausanne, 2023.
 - [Multimodal few-shot learning & probing self-supervised speech models]({{site.url}}/slides/kamper_ens2023_talk-compressed.pdf)  
