@@ -7,7 +7,8 @@ order: 5
 
 # Language, Speech and Learning (LSL)
 
-*Language, Speech and Learning (LSL)* is a small research group at Stellenbosch University working on methods allowing speech and language processing systems to be developed with as little supervision as possible. The hope is that this will lead to new insights in machine and human learning. Apart from the students listed below, LSL also has a number of members from the DSP laboratory and the [MediaLab](https://ml.sun.ac.za/) at Stellenbosch.
+*Language, Speech and Learning (LSL)* is a small research group at Stellenbosch University working on methods allowing speech and language processing systems to be developed with as little supervision as possible. The hope is that this will lead to new insights in machine and human learning. Apart from the students listed below, LSL has several members from the DSP laboratory and the [MediaLab](https://ml.sun.ac.za/) at Stellenbosch.
+
 
 ### Current students
 
@@ -19,6 +20,7 @@ order: 5
 - Emma Sharratt (MEng)
 - Retief Louw (MEng)
 - Simon Malan (MEng)
+
 
 ### Past students
 
@@ -37,25 +39,3 @@ order: 5
 - [Matthew Reynard](https://www.matthewreynard.com/) (MEng, 2020, main supervisor: Herman A. Engelbrecht)
 - Sameer Bansal (PhD, 2019, main supervisors: [Sharon Goldwater](https://homepages.inf.ed.ac.uk/sgwater/) and [Adam Lopez](https://alopez.github.io/))
 - [Arnu Pretorius](https://arnupretorius.github.io/) (PhD, 2019, main supervisor: [Steve Kroon](http://www.cs.sun.ac.za/~kroon/))
-
-<!--
-
-### Former/Past students
-
-- **Tan Pengfei**, MSc, University of Edinburgh. Main supervisor: Sharon Goldwater.  
-*Cross-lingual representation learning for unsupervised speech technology.*
-- **Dan Wells**, MSc, University of Edinburgh. Main supervisor: Sharon Goldwater.  
-*Unsupervised speech segmentation for zero-resource applications.*
-- **Flo Bremner**, MSc, University of Edinburgh. Main supervisor: Sharon Goldwater.  
-*The encoding of linguistic and speaker information in unsupervised neural network based feature extraction.*
-
- -->
-
-<!-- ### Former students
-
-**Tan Pangfei**, MSc, University of Edinburgh, main supervisor: Sharon Goldwater.  
-Thesis: *Cross-lingual representations for speech.*
-
-**Dan Wells**, MSc, University of Edinburgh, main supervisor: Sharon Goldwater.  
-Thesis: *Cross-lingual representations for speech.*
- -->
