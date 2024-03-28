@@ -31,6 +31,13 @@ My code is available on [GitHub](https://github.com/{{ site.github_username }}).
 <!-- - **[bayes_gmm](https://github.com/kamperh/bayes_gmm)**: Bayesian Gaussian mixture models in Python, as described in [(Kamper et al., 2014)]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf). -->
 
 
+### For Stellenbosch University students
+
+- [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
+- [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
+- [Stellenbosch University Style Guide](http://www.sun.ac.za/english/Documents/2024/SU_Language_Style_Guide_(Oct%202023).pdf)
+
+
 ### Invited talks
 
 - [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_ilcc2024_talk-compressed.pdf)  
@@ -63,11 +70,3 @@ My code is available on [GitHub](https://github.com/{{ site.github_username }}).
   CSAIL, MIT, 2016.
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   MLSLP Workshop, Spotlight Speaker, 2016.
-
-
-### For Stellenbosch University students
-
-- [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
-- [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
-- [Stellenbosch University Style Guide](http://www.sun.ac.za/english/Documents/2024/SU_Language_Style_Guide_(Oct%202023).pdf)
-
