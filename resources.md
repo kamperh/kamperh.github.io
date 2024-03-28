@@ -59,3 +59,5 @@ Most of my code is available on [GitHub](https://github.com/{{ site.github_usern
 
 - [Getting started with the Stellenbosch HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1) by Matthew Baas
 - [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template)
+- [Stellenbosch University Style Guide](http://www.sun.ac.za/english/Documents/2024/SU_Language_Style_Guide_(Oct%202023).pdf)
+
