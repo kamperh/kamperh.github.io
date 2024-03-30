@@ -7,7 +7,7 @@ order: 5
 
 # Language, Speech and Learning (LSL)
 
-*Language, Speech and Learning (LSL)* is a small research group at Stellenbosch University working on methods allowing speech and language processing systems to be developed with as little supervision as possible. The hope is that this will lead to new insights in machine and human learning. Apart from the students listed below, LSL has several members from the DSP laboratory and the [MediaLab](https://ml.sun.ac.za/) at Stellenbosch.
+*Language, Speech and Learning (LSL)* is a small research group at Stellenbosch University working on methods allowing speech and language processing systems to be developed with as little supervision as possible. Apart from the students listed below, LSL has several members from the DSP laboratory and the [MediaLab](https://ml.sun.ac.za/) at Stellenbosch.
 
 
 ### Current students
