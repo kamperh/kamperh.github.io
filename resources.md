@@ -21,7 +21,7 @@ order: 3
 
 ### Code and data
 
-My code is available on [GitHub](https://github.com/{{ site.github_username }}). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. Below are links to datasets.
+My code is available on [GitHub](https://github.com/kamperh). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. Below are links to datasets.
 
 - [YFACC](https://www.kamperh.com/yfacc): Yorùbá Flickr Audio Caption Corpus. The dataset is described in [(Olaleye et al., 2023)](https://arxiv.org/abs/2210.04600).
 - [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio): A dataset of labels for semantic speech retrieval, as described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
