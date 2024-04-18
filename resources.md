@@ -27,7 +27,7 @@ My code is available on [GitHub](https://github.com/kamperh). To find the code f
 
 - [YFACC](https://www.kamperh.com/yfacc): Yorùbá Flickr Audio Caption Corpus. The dataset is described in [(Olaleye et al., 2023)](https://arxiv.org/abs/2210.04600).
 - [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio): A dataset of labels for semantic speech retrieval, as described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
-- [ES-KMeans](https://github.com/kamperh/eskmeans): The embedded segmental K-means (ES-KMeans) algorithm for unsupervised word segmentation and clustering of speech in Python 3. We use it in [(Kamper et al., 2017)](https://arxiv.org/abs/1703.08135), as shown in this [recipe](https://github.com/kamperh/bucktsong_eskmeans).
+- [ES-KMeans](https://github.com/kamperh/eskmeans): The embedded segmental K-means (ES-KMeans) algorithm for unsupervised word segmentation and clustering of speech in Python 3. We use it in [(Kamper et al., 2017)](https://arxiv.org/abs/1703.08135), as shown in this [recipe](https://github.com/kamperh/bucktsong_eskmeans). For getting started, [this notebook](https://github.com/kamperh/eskmeans/blob/master/examples/eskmeans_example.ipynb) serves as a good reference.
 
 
 ### For Stellenbosch University students
