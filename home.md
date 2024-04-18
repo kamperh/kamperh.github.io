@@ -8,7 +8,7 @@ permalink: /
 
 I am a Professor in [Electrical and Electronic Engineering](http://www.ee.sun.ac.za/) at [Stellenbosch University](http://www.sun.ac.za/), South Africa. Before moving (back) to South Africa, I did a postdoc at [TTI-Chicago](http://www.ttic.edu/) with [Karen Livescu](http://ttic.uchicago.edu/~klivescu/) and [Greg Shakhnarovich](http://ttic.uchicago.edu/~gregory/) on multimodal machine learning models combining speech and vision. I obtained my PhD in 2017 from the [University of Edinburgh](http://web.inf.ed.ac.uk/ilcc), where I was supervised by [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/), [Aren Jansen](https://sites.google.com/view/ajansen-pubs) and [Simon King](http://homepages.inf.ed.ac.uk/simonk/). I worked on unsupervised speech processing using Bayesian and neural models.
 
-I am a researcher in machine learning with a focus on speech processing. In my group, we develop methods that allow machines to acquire language autonomously, using as little supervision as possible. The hope is that this will lead to new insights into machine and human learning.
+I am a researcher in machine learning with a focus on speech processing. In my group we develop methods that allow machines to acquire language autonomously, using as little supervision as possible. The hope is that this will lead to new insights into machine and human learning.
 
 <div class="social">
   <div class="contact-icons">
