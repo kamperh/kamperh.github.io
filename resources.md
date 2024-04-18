@@ -9,6 +9,8 @@ order: 3
 
 ### Videos and teaching
 
+My videos are available on [YouTube](https://www.youtube.com/c/HermanKamperML). I provide links to selected videos below.
+
 - [Introduction to machine learning](https://www.kamperh.com/data414/) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
@@ -21,7 +23,7 @@ order: 3
 
 ### Code and data
 
-My code is available on [GitHub](https://github.com/kamperh). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. Below are links to selected projects.
+My code is available on [GitHub](https://github.com/kamperh). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. I provide links to selected projects below.
 
 - [YFACC](https://www.kamperh.com/yfacc): Yorùbá Flickr Audio Caption Corpus. The dataset is described in [(Olaleye et al., 2023)](https://arxiv.org/abs/2210.04600).
 - [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio): A dataset of labels for semantic speech retrieval, as described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
