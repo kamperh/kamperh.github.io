@@ -9,7 +9,7 @@ order: 3
 
 ### Videos and teaching
 
-My videos are available on [YouTube](https://www.youtube.com/c/HermanKamperML). I provide links to selected video lists below.
+My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperML). I provide links to selected video lists below.
 
 - [Introduction to machine learning](https://www.kamperh.com/data414/) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
