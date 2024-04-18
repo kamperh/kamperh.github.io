@@ -21,17 +21,11 @@ order: 3
 
 ### Code and data
 
-My code is available on [GitHub](https://github.com/kamperh). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. Below are links to datasets.
+My code is available on [GitHub](https://github.com/kamperh). To find the code for a particular paper, look for the `[code]` link given with each of papers on the [publications]({{site.url}}/publications/) page. Below are links to selected projects.
 
 - [YFACC](https://www.kamperh.com/yfacc): Yorùbá Flickr Audio Caption Corpus. The dataset is described in [(Olaleye et al., 2023)](https://arxiv.org/abs/2210.04600).
 - [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio): A dataset of labels for semantic speech retrieval, as described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT.
-<!-- - **[globalphone_awe](https://github.com/kamperh/globalphone_awe)**: A complete recipe for the multilingual acoustic word embedding approach described in [(Kamper et al., 2020)](https://arxiv.org/abs/2002.02109). Embeddings are trained on one set of GlobalPhone languages and evaluated on another. -->
-<!-- - **[recipe_bucktsong_awe_py3](https://github.com/kamperh/recipe_bucktsong_awe_py3)**: A complete recipe for the unsupervised acoustic word embedding methods described in [(Kamper, 2019)](https://arxiv.org/abs/1811.00403). Methods are evaluated on the Buckeye English and NCHLT Xitsonga datasets. -->
-<!-- - **[recipe_semantic_flickraudio](https://github.com/kamperh/recipe_semantic_flickraudio)**: A complete recipe for our visually grounded semantic speech retrieval model described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949). This recipe uses the [semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio) dataset below, and is an updated version of the [recipe_vision_speech_flickr](https://github.com/kamperh/recipe_vision_speech_flickr) recipe. -->
-<!-- - **[semantic_flickraudio](https://github.com/kamperh/semantic_flickraudio)**: A dataset of labels for semantic speech retrieval, as described in [(Kamper et al., 2019)](https://arxiv.org/abs/1710.01949).  The dataset is an extension of the [Flickr Audio Captions Corpus](https://groups.csail.mit.edu/sls/downloads/flickraudio/) from MIT. -->
-<!-- - **[ES-KMeans](https://github.com/kamperh/eskmeans)**: The embedded segmental K-means (ES-KMeans) algorithm for unsupervised word segmentation and clustering of speech in Python 3. We use it in [(Kamper et al., 2017)](https://arxiv.org/abs/1703.08135), as shown in this [recipe](https://github.com/kamperh/bucktsong_eskmeans). -->
-<!-- - **[segmentalist](https://github.com/kamperh/segmentalist)**: Unsupervised word segmentation and clustering of speech in Python. We use it in [(Kamper et al., 2017)](https://arxiv.org/abs/1606.06950) and apply it to the Zero Resource Speech Challenge 2015 data (English and Xitsonga), as shown in this [complete recipe](https://github.com/kamperh/bucktsong_segmentalist). -->
-<!-- - **[bayes_gmm](https://github.com/kamperh/bayes_gmm)**: Bayesian Gaussian mixture models in Python, as described in [(Kamper et al., 2014)]({{site.url}}/papers/kamper+jansen+king+goldwater_slt2014.pdf). -->
+- [ES-KMeans](https://github.com/kamperh/eskmeans): The embedded segmental K-means (ES-KMeans) algorithm for unsupervised word segmentation and clustering of speech in Python 3. We use it in [(Kamper et al., 2017)](https://arxiv.org/abs/1703.08135), as shown in this [recipe](https://github.com/kamperh/bucktsong_eskmeans).
 
 
 ### For Stellenbosch University students
@@ -43,7 +37,8 @@ My code is available on [GitHub](https://github.com/kamperh). To find the code f
 
 ### Invited talks
 
-- [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_ilcc2024_talk-compressed.pdf)  
+- [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_mit2024_talk-compressed.pdf)  
+  SLS, MIT, 2024.  
   ILCC, University of Edinburgh, 2024.
 - [Multimodal few-shot learning & probing self-supervised speech models]({{site.url}}/slides/kamper_ens2023_talk-compressed.pdf)  
   LSCP, Ecole Normale Supérieure, 2023.
