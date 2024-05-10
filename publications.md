@@ -14,8 +14,6 @@ order: 5
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2403.13922*, 2024. [[code](https://sites.google.com/view/mutualexclusivityinvgs)]
 - [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)  
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2401.17902*, 2024.
-- [Visually grounded few-shot word learning in low-resource settings](https://arxiv.org/abs/2306.11371)  
-  L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2306.11371*, 2023. [[code](https://sites.google.com/view/few-shotwordacquisition/home)]
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 - [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
@@ -23,7 +21,9 @@ order: 5
 
 
 ### Journal publications
-
+- [Visually grounded few-shot word learning in low-resource settings](https://doi.org/10.1109/TASLP.2024.3393772)  
+  L. Nortje, D. Oneață, and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 32, pp. 2544-2554, 2024.
+  [[arXiv](https://arxiv.org/abs/2306.11371), [code](https://sites.google.com/view/few-shotwordacquisition)]
 - [Disentanglement in a GAN for unconditional speech synthesis](https://doi.org/10.1109/TASLP.2024.3359352)  
   M. Baas and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 32, pp. 1324-1335, 2024.
   [[arXiv](https://arxiv.org/abs/2307.01673), [code](https://github.com/RF5/simple-asgan/)]
