@@ -14,13 +14,13 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 - [Introduction to machine learning](https://www.kamperh.com/data414/) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
-  [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes](https://www.kamperh.com/nlp817/notes/08_nn_notes.pdf)]
+  [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes]({{site.url}}/nlp817/notes/08_nn_notes.pdf)]
 - [Introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
   [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
 - [Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
 - [Our Git workflow](https://www.youtube.com/playlist?list=PLmZlBIcArwhPFPPZp7br31Kbjt4k0NJD1)
-  [[notes](https://www.kamperh.com/notes/git_workflow_notes.pdf)]
+  [[notes]({{site.url}}/notes/git_workflow_notes.pdf)]
 
 
 ### Code and data
