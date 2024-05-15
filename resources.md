@@ -19,6 +19,8 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
   [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
 - [Dynamic time warping](https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL)
   [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]
+- [Our Git workflow](https://www.youtube.com/playlist?list=PLmZlBIcArwhPFPPZp7br31Kbjt4k0NJD1)
+  [[notes](https://www.kamperh.com/notes/git_workflow_notes.pdf)]
 
 
 ### Code and data
