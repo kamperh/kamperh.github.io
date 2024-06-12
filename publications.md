@@ -10,7 +10,7 @@ order: 5
 
 ### arXiv preprints
 
-- [Translating speech with just images](https://arxiv.org/abs/2406.07133)
+- [Translating speech with just images](https://arxiv.org/abs/2406.07133)  
   D. Oneață and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/danoneata/strim)]
 - [Visually grounded speech models have a mutual exclusivity bias](https://arxiv.org/abs/2403.13922)  
   L. Nortje, D. Oneață, and H. Kamper. *Accepted to TACL*, 2024. [[code](https://sites.google.com/view/mutualexclusivityinvgs)]
