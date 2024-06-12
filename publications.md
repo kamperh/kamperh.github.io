@@ -18,8 +18,6 @@ order: 5
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2401.17902*, 2024.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
   K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
-- [Deep motion estimation for parallel inter-frame prediction in video compression](https://arxiv.org/abs/1912.05193)  
-  A. Nortje, H. A. Engelbrecht, and H. Kamper. *arXiv preprint arXiv:1912.05193*, 2019.
 
 
 ### Journal publications
@@ -99,7 +97,6 @@ order: 5
 
 
 ### Conference proceedings
-
 
 **2023**
 
