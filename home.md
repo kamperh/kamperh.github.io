@@ -14,7 +14,7 @@ I am a researcher in machine learning with a focus on speech processing. In my g
   <div class="contact-icons">
     <a href="m&#x61;&#105;l&#x74;&#111;:{{ site.email }}" title="email"><i class="fas fa-envelope"></i></a>
     <a href="https://github.com/{{ site.github_username }}" title="GitHub" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
-    <a href="https://www.youtube.com/c/HermanKamperML" rel="external nofollow noopener" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.youtube.com/@kamperh" rel="external nofollow noopener" target="_blank"><i class="fab fa-youtube"></i></a>
     <a href="{{ site.google_scholar }}" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a>
   </div>
 </div>
