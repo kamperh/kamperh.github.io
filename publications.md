@@ -10,6 +10,8 @@ order: 5
 
 ### arXiv preprints
 
+- [Spoken-term discovery using discrete speech units](https://arxiv.org/abs/2408.14390)  
+  B. van Niekerk, J. Zaïdi, M-A. Carbonneau, and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/bshall/dusted)]
 - [Translating speech with just images](https://arxiv.org/abs/2406.07133)  
   D. Oneață and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/danoneata/strim)]
 - [Visually grounded speech models have a mutual exclusivity bias](https://arxiv.org/abs/2403.13922)  
