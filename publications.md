@@ -16,6 +16,8 @@ order: 5
   D. Oneață and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/danoneata/strim)]
 - [Visually grounded speech models have a mutual exclusivity bias](https://arxiv.org/abs/2403.13922)  
   L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Accepted to TACL*, 2024. [[code](https://sites.google.com/view/mutualexclusivityinvgs)]
+- [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
+  L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2409.06013*, 2024.
 - [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)  
   H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2401.17902*, 2024.
 - [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
