@@ -11,7 +11,7 @@ order: 5
 ### arXiv preprints
 
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
-  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2409.14486*, 2024.
+  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2409.14486*, 2024. [[coode1](https://github.com/s-malan/es-kmeans-plus), [code2](https://github.com/s-malan/prom-seg-clus)]
 - [Spoken-term discovery using discrete speech units](https://arxiv.org/abs/2408.14390)  
   B. van Niekerk, J. Zaïdi, M-A. Carbonneau, and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/bshall/dusted)]
 - [Translating speech with just images](https://arxiv.org/abs/2406.07133)  
