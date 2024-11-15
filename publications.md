@@ -24,7 +24,11 @@ order: 5
   K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 
 
-### Journal publications
+### Journal articles
+
+- [Visually grounded speech models have a mutual exclusivity bias](https://doi.org/10.1162/tacl_a_00672)  
+  L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Transactions of the Association for Computational Linguistics*, vol. 12, pp. 755-770, 2024.
+  [[arXiv](https://arxiv.org/abs/2403.13922), [code](https://sites.google.com/view/mutualexclusivityinvgs)]
 - [Visually grounded speech models have a mutual exclusivity bias](https://doi.org/10.1162/tacl_a_00672)  
   L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Transactions of the Association for Computational Linguistics*, vol. 12, pp. 755-770, 2024.
   [[arXiv](https://arxiv.org/abs/2403.13922), [code](https://sites.google.com/view/mutualexclusivityinvgs)]
@@ -103,7 +107,20 @@ order: 5
   [[preprint]({{site.url}}/papers/kamper+muambamukanya+niesler_speechcom2012_preprint.pdf)]
 
 
-### Conference proceedings
+### Conference papers
+
+
+**2024**
+
+- [Spoken-term discovery using discrete speech units]({{site.url}}/papers/vanniekerk+zaidi+carbonneua+kamper_interspeech2024.pdf)  
+  B. van Niekerk, J. Zaïdi, M-A. Carbonneau, and H. Kamper. In *Proceedings of Interspeech*, 2024.
+  [[arXiv](https://arxiv.org/abs/2408.14390), [code](https://github.com/bshall/dusted)]
+- [Translating speech with just images]({{site.url}}/papers/oneata+kamper_interspeech2024.pdf)  
+  D. Oneață and H. Kamper. In *Proceedings of Interspeech*, 2024.
+  [[arXiv](https://arxiv.org/abs/2406.07133), [code](https://github.com/danoneata/strim)]
+- [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/pdf/2401.17902)  
+  H. Kamper and B. van Niekerk. In *arXiv*, 2024.
+  [[arXiv](https://arxiv.org/abs/2401.17902)]
 
 **2023**
 
@@ -171,6 +188,9 @@ order: 5
 - [A comparison of self-supervised speech representations as input features for unsupervised acoustic word embeddings]({{site.url}}/papers/vanstaden+kamper_slt2021.pdf)  
   L. van Staden and H. Kamper. In *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2021.
   [[arXiv](http://arxiv.org/abs/2012.07387)]
+- [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/pdf/2111.02827)  
+  K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. In *arXiv*, 2021.
+  [[arXiv](https://arxiv.org/abs/2111.02827)]
 
 **2020**
 
