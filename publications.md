@@ -16,8 +16,6 @@ order: 5
   B. van Niekerk, J. Zaïdi, M-A. Carbonneau, and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/bshall/dusted)]
 - [Translating speech with just images](https://arxiv.org/abs/2406.07133)  
   D. Oneață and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/danoneata/strim)]
-- [Visually grounded speech models have a mutual exclusivity bias](https://arxiv.org/abs/2403.13922)  
-  L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Accepted to TACL*, 2024. [[code](https://sites.google.com/view/mutualexclusivityinvgs)]
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2409.06013*, 2024. [[code](https://github.com/LeanneNortje/low-resource_VPKL)]
 - [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)  
@@ -27,6 +25,9 @@ order: 5
 
 
 ### Journal publications
+- [Visually grounded speech models have a mutual exclusivity bias](https://doi.org/10.1162/tacl_a_00672)  
+  L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Transactions of the Association for Computational Linguistics*, vol. 12, pp. 755-770, 2024.
+  [[arXiv](https://arxiv.org/abs/2403.13922), [code](https://sites.google.com/view/mutualexclusivityinvgs)]
 - [Visually grounded few-shot word learning in low-resource settings](https://doi.org/10.1109/TASLP.2024.3393772)  
   L. Nortje, D. Oneață, and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 32, pp. 2544-2554, 2024.
   [[arXiv](https://arxiv.org/abs/2306.11371), [code](https://sites.google.com/view/few-shotwordacquisition)]
