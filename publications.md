@@ -12,16 +12,8 @@ order: 5
 
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
   S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2409.14486*, 2024. [[code1](https://github.com/s-malan/es-kmeans-plus), [code2](https://github.com/s-malan/prom-seg-clus)]
-- [Spoken-term discovery using discrete speech units](https://arxiv.org/abs/2408.14390)  
-  B. van Niekerk, J. Zaïdi, M-A. Carbonneau, and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/bshall/dusted)]
-- [Translating speech with just images](https://arxiv.org/abs/2406.07133)  
-  D. Oneață and H. Kamper. *Accepted to Interspeech*, 2024. [[code](https://github.com/danoneata/strim)]
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2409.06013*, 2024. [[code](https://github.com/LeanneNortje/low-resource_VPKL)]
-- [Revisiting speech segmentation and lexicon learning with better features](https://arxiv.org/abs/2401.17902)  
-  H. Kamper and B. van Niekerk. *arXiv preprint arXiv:2401.17902*, 2024.
-- [Towards learning to speak and hear through multi-agent communication over a continuous acoustic channel](https://arxiv.org/abs/2111.02827)  
-  K. Eloff, O. Räsänen, H. A. Engelbrecht, A. Pretorius, and H. Kamper. *arXiv preprint arXiv:2111.02827*, 2021.
 
 
 ### Journal articles
