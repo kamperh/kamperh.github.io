@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-<img style="float:right;margin-left:10px;width:205px;margin-top:3px;margin-right:5px" src="images/herman3.png" alt="mugshot">
+<img style="float:right;margin-left:10px;width:205px;margin-top:3px;margin-right:5px" src="images/herman_stefan_els_scaled_more.png" alt="mugshot">
 
 I am a professor in [Electrical and Electronic Engineering](http://www.ee.sun.ac.za/) at [Stellenbosch University](http://www.sun.ac.za/), South Africa. Before moving (back) to South Africa, I did a postdoc at [TTI-Chicago](http://www.ttic.edu/) with [Karen Livescu](http://ttic.uchicago.edu/~klivescu/) and [Greg Shakhnarovich](http://ttic.uchicago.edu/~gregory/) on multimodal machine learning models combining speech and vision. I obtained my PhD in 2017 from the [University of Edinburgh](http://web.inf.ed.ac.uk/ilcc), where I was supervised by [Sharon Goldwater](http://homepages.inf.ed.ac.uk/sgwater/), [Aren Jansen](https://sites.google.com/view/ajansen-pubs) and [Simon King](http://homepages.inf.ed.ac.uk/simonk/). I worked on unsupervised speech processing using Bayesian and neural models.
 
