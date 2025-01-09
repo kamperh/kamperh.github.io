@@ -71,8 +71,8 @@ really sad. Here are some basic expectations:
   taught in school). Consider this example: "It is imperative to acknowledge
   that no element within this elucidation possesses novelty; rather, it
   unequivocally constitutes a particular instantiation of dynamic programming."
-  Here is how I would write it instead: "Note that nothing in this description
-  is new. It is really just a specific version of dynamic programming. "
+  Here is how I would write it instead: "Nothing in this description is new: it
+  is just a specific version of dynamic programming."
 
 
 ## Mathematics
