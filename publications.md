@@ -11,7 +11,7 @@ order: 5
 ### arXiv preprints
 
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
-  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2409.14486*, 2024. [[code1](https://github.com/s-malan/es-kmeans-plus), [code2](https://github.com/s-malan/prom-seg-clus)]
+  S. Malan, B. van Niekerk, and H. Kamper. Accepted to *Interspeech*, 2024. [[code1](https://github.com/s-malan/es-kmeans-plus), [code2](https://github.com/s-malan/prom-seg-clus)]
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
   L. Nortje, D. Oneață, and H. Kamper. *arXiv preprint arXiv:2409.06013*, 2024. [[code](https://github.com/LeanneNortje/low-resource_VPKL)]
 
