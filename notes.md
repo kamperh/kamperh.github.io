@@ -11,6 +11,7 @@ order: 1
 
 - [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
+- [Speech 101: Introduction to speech processing](/notes/speech101.pdf)
 - [Yet another introduction to backpropagation](/notes/kamper_backprop22.pdf)
 - [Yet another introduction to probabilistic graphical models](/notes/kamper_pgm_notes23.pdf)
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models](/notes/kamper_bayesgmm15.pdf)
