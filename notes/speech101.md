@@ -1,7 +1,9 @@
 ---
 title: "Speech 101: Introduction to speech processing"
-author: "[Herman Kamper](https://www.kamperh.com/)"
-date: "2025-01, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+layout: post
+date: 2025-01-01
+author: Herman Kamper
+exclude: true
 ---
 
 This is a self-paced course. The goal is to get you to modern speech recognition
