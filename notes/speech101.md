@@ -31,7 +31,7 @@ Please let me know if you find any errors or typos in this document.
 
 
 
-# Basic signal processing and speech science
+## Basic signal processing and speech science
 
 - [Introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
 
@@ -57,7 +57,7 @@ Please let me know if you find any errors or typos in this document.
 
 
 
-# Machine learning
+## Machine learning
 
 You need to get to a point where you understand neural networks, including
 architectures like recurrent neural networks (RNNs), convolutional neural
@@ -157,7 +157,7 @@ order, then you should be there:
 
 
 
-# Language modelling
+## Language modelling
 
 Natural language processing (NLP) typically refers to text processing (rather
 than speech processing). But speech recognition systems output text. So many NLP
@@ -193,7 +193,7 @@ that you are able to understand state-of-the-art text-based language models.
 
 
 
-# Large language models
+## Large language models
 
 - [Intro to large language models](https://youtu.be/zjkBMFhNj_g?si=dU7KNFP0_C_AQGuH) by Andrej Karpathy (1 h)
 - [Large language model training and inference](https://youtu.be/Y9YmVNLslvs?list=PLmZlBIcArwhOVLRdimL3lS9F_33fzh9jU) (14 min)
@@ -202,7 +202,7 @@ that you are able to understand state-of-the-art text-based language models.
 
 
 
-# Speech recognition
+## Speech recognition
 
 - Encoder-decoder models for speech recognition:
 
@@ -238,7 +238,7 @@ that you are able to understand state-of-the-art text-based language models.
  
 
 
-# Speech synthesis
+## Speech synthesis
 
 The terms "speech synthesis" and "text-to-speech" are sometimes used
 interchangably.
@@ -251,12 +251,12 @@ interchangably.
 
 
 
-# Future
+## Future
 
 - Explain what forced alignments are
 
 
-# Further reading 
+## Further reading 
 
 - [Hugging Face NLP tutorial](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [Hugging Face audio tutorial](https://huggingface.co/learn/audio-course/chapter0/introduction)
