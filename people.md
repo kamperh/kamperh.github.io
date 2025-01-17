@@ -13,9 +13,12 @@ order: 5
 ### Current students
 
 - Nicol Visser (MEng)
+- Reuben Smit (PhD)
 - Emma Sharratt (MEng)
 - Retief Louw (MEng)
 - Simon Malan (MEng)
+- Kyle Janse van Rensburg (MEng)
+- Danel Adendorff (MEng)
 
 
 ### Past students
