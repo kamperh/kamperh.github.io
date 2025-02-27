@@ -13,6 +13,7 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 
 - [Introduction to machine learning](https://www.kamperh.com/data414/) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
+- [Introduction to digital signal processing](https://www.kamperh.com/ss414/) (SS414)
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
   [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes]({{site.url}}/nlp817/notes/08_nn_notes.pdf)]
 - [Introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
