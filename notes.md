@@ -11,7 +11,6 @@ order: 1
 
 - [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (Data Analytics 414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
-- [Speech 101: Introduction to speech processing](/notes/speech101.pdf)
 - [Yet another introduction to backpropagation](/notes/kamper_backprop22.pdf)
 - [Yet another introduction to probabilistic graphical models](/notes/kamper_pgm_notes23.pdf)
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models](/notes/kamper_bayesgmm15.pdf)
@@ -20,6 +19,12 @@ order: 1
 - [Dynamic programming](/notes/kamper_dynamic_programming22.pdf)
 - [Principal components analysis](/notes/kamper_pca23.pdf)
 - [Autoencoder, variational AE, vector-quantised VAE and categorical VAE](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
+
+
+### Speech and signal processing
+
+- [Speech 101: Introduction to speech processing](/notes/speech101.pdf)
+- [Introduction to digital signal processing](https://www.kamperh.com/ss414/) (SS414)
 
 
 ### Professional development
