@@ -14,11 +14,11 @@ order: 5
 
 - Nicol Visser (PhD)
 - Reuben Smit (PhD)
+- Danel Adendorff (MEng)
+- Kyle Janse van Rensburg (MEng)
 - Emma Sharratt (MEng)
 - Retief Louw (MEng)
 - Simon Malan (MEng)
-- Kyle Janse van Rensburg (MEng)
-- Danel Adendorff (MEng)
 
 
 ### Past students
