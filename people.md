@@ -12,7 +12,7 @@ order: 5
 
 ### Current students
 
-- Nicol Visser (MEng)
+- Nicol Visser (PhD)
 - Reuben Smit (PhD)
 - Emma Sharratt (MEng)
 - Retief Louw (MEng)
@@ -23,6 +23,7 @@ order: 5
 
 ### Past students
 
+- Nicol Visser (MEng, 2025)
 - Christiaan Jacobs (Postdoc, 2024)
 - [Matthew Baas](https://rf5.github.io/) (PhD, 2024)
 - Leanne Nortje (PhD, 2024)
