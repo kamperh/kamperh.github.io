@@ -251,7 +251,7 @@
   // Currently h2 and h3 are identical
   h2 {
     font-size: 26px;
-    margin-top: $spacing-unit*0.7;  // Herman
+    margin-top: $spacing-unit;  // Herman
 
     @include media-query($on-laptop) {
       font-size: 22px;
@@ -265,7 +265,7 @@
 
   h3 {
     font-size: 26px;
-    margin-top: $spacing-unit*0.7;  // Herman    
+    margin-top: $spacing-unit;  // Herman    
 
     @include media-query($on-laptop) {
       font-size: 22px;
