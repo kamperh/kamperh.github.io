@@ -6,7 +6,7 @@ order: 5
 ---
 
 
-# Publications assad
+# Publications
 
 ### arXiv preprints
 
