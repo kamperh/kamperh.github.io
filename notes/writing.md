@@ -64,6 +64,10 @@ really sad. Here are some basic expectations:
   Y". Sometimes you can say that something is unexpected or surprising, but
   then you need to unpack why you say so, and help the reader see what you are
   seeing.
+- If you define an abbreviation, then you need to use it again somewhere in the
+  document, otherwise just do not define it. Also, always think whether it is
+  really necessary to define an abbreviation? Many modern papers end up just
+  looking like a huge sequence of abbreviations strung together to form sentences.
 - You don't have to use big words or be overly formal. Short, punchy sentences
   are often clearer and are easier to write (especially for second-language
   writers). I think students are now increasingly under the impression that
