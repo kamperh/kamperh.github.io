@@ -1,7 +1,7 @@
 ---
 title: Notes on writing
 layout: post
-date: 2020-07-14
+date: 2025-05-12
 author: Herman Kamper
 exclude: true
 ---
