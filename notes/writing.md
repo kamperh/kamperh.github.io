@@ -272,12 +272,10 @@ onto students).
   be consistent. Should language modelling (LM) also then be capitalised?
   Probably. And then you end up capitalising a whole paper. Proper nouns are
   capitalised, though, as in the HMM example in the next sentence.  
-  
   In a paper, I write out abbreviations---such as hidden Markov model (HMM)---in
   the abstract, at first use in the body, and also in the conclusion. I do this
   since I think these sections should be self-contained. I also (normally) write
   out abbreviations in section headings.
-  
 - **Tenses.** It is often tricky to know what tense (past, present, future) to
   use for different sections. My own convention is always to write in the
   present tense, except for the Conclusion, which I write in the past tense.
@@ -287,15 +285,12 @@ onto students).
   exception in the body and write in the past tense instead of the present
   tense; this is normally when I refer back to something that has happened in a
   previous section or chapter, e.g. "In Section 3.1 we found that ...".
-  
 - **Bulleted lists.** I try to follow
   [this](https://www.instructionalsolutions.com/blog/bulleted-list-punctuation)
   guideline on how to punctuate bullet point lists.
-  
 - "3" vs. "three": I write out the words for numbers up to ten, and from
   then on write out the number. E.g. I would write "13 layers", but would write
   "five captions".
-  
 - In a thesis, book or longer report, I often start a chapter with a paragraph
   explaining what the reader should expect in that chapter. I also often finish
   with a final section like "Chapter summary" or "Concluding remarks",
