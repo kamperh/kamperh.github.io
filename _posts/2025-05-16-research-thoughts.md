@@ -40,7 +40,7 @@ There is a lot of freedom in research. But this means it also isn't clear what e
 
 ## Why do research?
 
-Research is a slog. You struggle all the time. You are never sure that what you are working on will actually pan out (and you shouldn't be, otherwise you aren't doing real research). You do not get regular feedback in research. And the feedback you do get is always mediocre (in terms of both the substance of the reviews and the assessment the reviewers make of your work.) If I have to go by the reviews my work receives, I should be labelled a borderline weak reject/accept researcher. Between all this, you always feel like you are missing out on some research direction or project. There is never enough time.
+Research is a slog. You struggle all the time. You are never sure that what you are working on will actually pan out (and you shouldn't be, otherwise you aren't doing real research). You do not get regular feedback. Feedback is important for job satisfaction (Colin Raffel [writes](https://colinraffel.com/blog/reflecting-on-two-years-of-professorship.html) quite a bit about this). The feedback you do get is always mediocre (in terms of both the substance of the reviews and the assessment the reviewers make of your work). If I have to go by the reviews my work receives, I should be labelled as a borderline weak reject/accept researcher. Between all this, you always feel like you are missing out on some research direction or project. There is never enough time.
 
 So why do research? The unfortunate thing is that there isn't a single right answer. I will sketch out some answers and then give my own. Then you can come up with your own reason.
 
