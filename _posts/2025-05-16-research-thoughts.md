@@ -85,7 +85,7 @@ Successful researchers can switch between the high-level and the detail-level, a
 Successful researchers follow [Joshua Tenenbaum's rules of thumb for doing research](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf), or at least hits two of these:
 
 1. Don't waste time doing research you don't love.
-2. Don't waste time doing research that other people can do better than you can.
+2. Don't waste time doing research that other people can do better than you can. This sounds pretty extreme and can be a bit crushing. I think it can be softened a bit: you should pick research where you have a unique advantage, skill or opportunity.
 3. Don't waste time doing research that other people in your field won't care about. (It's okay, and probably a good sign, if some people won't appreciate it, as long as enough people will.)
 
 At this point it is worth just asking, what does *successful* mean? I aspire to be a good researcher. But a while ago I made a conscious decision that I will not become an A-rated researcher (a South African rating for someone at the absolute highest possible level of research, think Richard Feynman). I want to be a middle-of-the-pack researcher. And that is okay. Other people are at the university mainly here to teach (see above). I would encourage them to do a bit of research (because it improves teaching), but it is absolutely fine to not have that be their main reason for being here (just like for me, as explained above, research is really just a means to an end).
