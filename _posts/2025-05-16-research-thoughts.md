@@ -93,7 +93,7 @@ At this point it is worth just asking, what does *successful* mean? I aspire to 
 
 ## More loose thoughts on research
 
-It is often to pick who you are going to work with rather than picking what you work on.
+It is often better to pick who you are going to work with rather than picking what you work on.
 
 Early on, it is good to explore to figure out which route to take. But you need to keep pruning.
 
