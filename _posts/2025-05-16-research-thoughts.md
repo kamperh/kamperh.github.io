@@ -27,7 +27,7 @@ I am also not a manager. The most students that I've had was eleven, and I tanke
 
 ## Mistakes in research
 
-There is a lot of freedom in research. But this means it also isn't clear what exactly you should be doing. You can choose your own adventure, but now you actually have to choose it. How do I know what to do? Often it is easier to figure out what definitely not to do. Below are some common mistakes early-career researchers often make.
+There is a lot of freedom in research. But this means it also isn't clear what exactly you should be doing. You can choose your own adventure, but now you actually have to choose it. How do I know what to do? Often it is easier to figure out what definitely not to do. (And it is funny how often we still end up doing the thing we know we should not.) Below are some common mistakes early-career researchers often make.
 
 **Not doing research.** This sounds dumb. But so many early career researchers say they are hoping for the future when they will have time to do research. That day will never come. Or stated differently: if tomorrow isn't that day, then that day does not exist. You need to prioritise, despite all the other things going on in your life (like teaching).
 
