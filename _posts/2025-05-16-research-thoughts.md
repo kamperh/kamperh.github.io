@@ -101,7 +101,7 @@ Don't submit crap. Don't wait until something is perfect before submitting.
 
 If you are worried about being scooped, you are working on the wrong thing (Dan Jurafsky said this in a talk at TTIC in 2016). If you can explain what you are doing to someone in one sentence and are then worried that they will quickly be able to implement it and beat you to the publication, you are working on the wrong thing.
 
-If you are worried about falling behind (in terms of e.g. technology), you are working on the wrong thing. This is different from the point above. What I am saying is that, if your overarching research question requires you to stay absolutely up to date with every single thing, then you are working on the wrong thing. This happens, for instance, if your research aims to be at the top of some leaderboard. If your aim is to beat scores, your life will not be fun.
+If you are worried about falling behind (in terms of e.g. technology), you are working on the wrong thing. This is different from the point above. What I am saying is that, if your overarching research vision requires you to stay absolutely up to date with every single thing, then you are working on the wrong thing. This happens, for instance, if your research aims to be at the top of some leaderboard. If your aim is to beat scores, your life will not be fun.
 
 You will never be able to explore every interesting question, so it is okay to just focus on what has been placed in front of you at the moment.
 
