@@ -18,7 +18,7 @@ The **lone ranger** is the researcher implementing things on their own: the one 
 
 Finally there is a researcher falling in between these two extremes: the **[player-coach](https://en.wikipedia.org/wiki/Player-coach)**. They try very hard to be both hands-on but also to give guidance to others. They sometimes meddle too much. Think Obi-Wan Kenobi or Hermione Granger. (Hermione is an undercover player-coach: she plays her role in the action, but then she also tries to coach Harry and Ron to become better.)
 
-You can be any one of these. Most of the superstar academics that you are familiar with are probably managers. But there would also be many mediocre managers who should probably stop trying to be managers and move to one of the other types. So becoming a manager is not a sure-fire way to become a superstar researcher.
+You can be any one of these. All researchers start out as lone rangers while they are doing their PhD. Most of the superstar academics that you are familiar with are probably managers. But there would also be many mediocre managers who should probably stop trying to be managers and move to one of the other types. Becoming a manager is not a sure-fire way to become a superstar researcher.
 
 I see myself as a player-coach. I am not that keen to implement everything on my own, but I like to try and understand the details. During my sabbatical, I tried to be a lone ranger for a bit. While a good experience, I didn't enjoy it nearly as much as I thought I would. I forgot what it was like to be stuck for several months on a problem---and that is something the loan ranger should be able to do.
 
