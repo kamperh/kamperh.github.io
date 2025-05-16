@@ -27,9 +27,10 @@ order: 1
 - [Introduction to digital signal processing](https://www.kamperh.com/ss414/) (SS414)
 
 
-### Professional development
+### About research
 
 - [Notes on writing](/notes/writing)
+- [Choose your own adventure: Some thoughts on research]({% post_url 2025-05-16-research-thoughts %})
 
 
 ### About teaching
