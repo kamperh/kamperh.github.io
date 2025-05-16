@@ -1,9 +1,9 @@
 ---
-title: "Choose your own adventure: Perspectives on being a researcher"
+title: "Choose your own adventure: Some thoughts on research"
 author: Herman Kamper
 ---
 
-My central argument is that research is like a choose-your-own-adventure book: there are many routes to becoming a successful researcher. This is also the most difficult part: many studies show that more options actually make us more unhappy (watch some of Dan Ariely's TED talks). So the good and bad news: there isn't a recipe for becoming a successful researcher.
+My central argument in this post is that research is like a choose-your-own-adventure book: there are many routes to becoming a successful researcher. This is also the most difficult part: many studies show that more options actually make us more unhappy (watch some of Dan Ariely's TED talks). So the good and bad news: there isn't a recipe for becoming a successful researcher.
 
 Below I sketch some common routes to becoming a good researcher, list some pitfalls, and give some tips along the way.
 
@@ -12,11 +12,11 @@ Below I sketch some common routes to becoming a good researcher, list some pitfa
 
 There are three types of researchers.
 
-The **manager** has several postdocs and a large research group. They are involved in big research projects---probably more than one at the same time. They secure big grants, collaborate across institutions, and shape the direction of big projects through strategic guidance. Think Yoda or Albus Dumbledore.
+The **manager** has a big strategic vision and constructs a large research team to execute on this vision. The manager is involved in big research projects---probably more than one at the same time. They secure big grants, collaborate across institutions, have several postdocs, and shape the direction of big projects through strategic guidance. Think Yoda or Albus Dumbledore.
 
 The **lone ranger** is the researcher implementing things on their own: the one writing both the code and the paper. They have very few or no students. They might collaborate with other researchers, but they are still usually the one implementing the solution. The eternal postdoc. They pursue their personal interests with minimal delegation. Think Anakin Skywalker or Severus Snape.
 
-Finally there is a researcher falling in between these two extremes: the [**player-coach**](https://en.wikipedia.org/wiki/Player-coach). They try very hard to be both hands-on but also to give guidance to others. They sometimes meddle too much. Think Obi-Wan Kenobi or Hermione Granger. (Hermione is an undercover player-coach: she plays her role in the action, but then she also tries to coach Harry and Ron to become better.)
+Finally there is a researcher falling in between these two extremes: the **[player-coach](https://en.wikipedia.org/wiki/Player-coach)**. They try very hard to be both hands-on but also to give guidance to others. They sometimes meddle too much. Think Obi-Wan Kenobi or Hermione Granger. (Hermione is an undercover player-coach: she plays her role in the action, but then she also tries to coach Harry and Ron to become better.)
 
 You can be any one of these. Most of the superstar academics that you are familiar with are probably managers. But there would also be many mediocre managers who should probably stop trying to be managers and move to one of the other types. So becoming a manager is not a sure-fire way to become a superstar researcher.
 
@@ -35,7 +35,7 @@ There is a lot of freedom in research. But this means it also isn't clear what e
 
 **Thinking that you should first read the textbook.** Some early career academics think you should first master all the fundamentals and only then can you do proper research, since you will know where the gaps are. Now I am not saying textbooks aren't useful. But they are most useful when directed at a problem---when you are reading with a purpose. The best way to learn how to do research: do research. With others. Working with a more experienced researcher on a paper will trump reading a textbook for its own sake. You do not learn how to play piano by reading a lot of music theory (although, of course, the theory is useful, so maybe not the best analogy, but you get the point).
 
-**Thinking the work will speak for itself.** People do not see what you want them to see if you do not tell them what you want them to see. (And even if you do tell them, and they get it, they will probably not think it is as amazing as you think it is. But if you do not tell them, they will definitely not see the point, and then even the chances of them thinking your work is even somewhat interesting becomes absolute zero.) You have to craft a story around your research.
+**Thinking the work will speak for itself.** People do not see what you want them to see if you do not tell them what you want them to see. (And even if you do tell them, and they get it, they will probably not think it is as amazing as you think it is. But if you do not tell them, they will definitely not see the point, and then even the chances of them thinking your work is even somewhat interesting become absolute zero.) You have to craft a story around your research.
 
 
 ## Why do research?
@@ -60,7 +60,7 @@ A good friend, Simon Muller, once said the following about the difference betwee
 
 **Why do I do research?** I like being part of the conversation in my field---or at least listening in. I enjoy visiting other campuses. I like going to conferences. I love telling stories with a technical component to it. I like coding (a bit), writing (a bit), and teaching (a lot). I like making small YouTube videos. I enjoy seeing and being part of academia. I do not care about "producing new useful knowledge". I like making notes, chatting with people, trying to figure out what has not been looked at before, and whether there is a weird way to look at an old problem. I enjoy getting some new technical insight from a student. These small things are the ends in themself. Research---for me---is just means to that end, not the other way around.
 
-You have to come up with your own answer to "why research?". Sorry. And more options does not make us happy. Sorry again.
+You have to come up with your own answer to "why research?" Sorry. And more options do not make us happy. Sorry again.
 
 
 ## Research and teaching
@@ -101,7 +101,7 @@ Don't submit crap. Don't wait until something is perfect before submitting.
 
 If you are worried about being scooped, you are working on the wrong thing (Dan Jurafsky said this in a talk at TTIC in 2016). If you can explain what you are doing to someone in one sentence and are then worried that they will quickly be able to implement it and beat you to the publication, you are working on the wrong thing.
 
-If you are worried about falling behind (in terms of e.g.\ technology), you are working on the wrong thing. This is different from the point above. What I am saying is that, if your overarching research question requires you to stay absolutely up to date with every single thing, then you are working on the wrong thing. This happens, for instance, if your research aims to be at the top of some leaderboard. If your aim is to beat scores, your life will not be fun.
+If you are worried about falling behind (in terms of e.g. technology), you are working on the wrong thing. This is different from the point above. What I am saying is that, if your overarching research question requires you to stay absolutely up to date with every single thing, then you are working on the wrong thing. This happens, for instance, if your research aims to be at the top of some leaderboard. If your aim is to beat scores, your life will not be fun.
 
 You will never be able to explore every interesting question, so it is okay to just focus on what has been placed in front of you at the moment.
 
