@@ -35,7 +35,7 @@ There is a lot of freedom in research. But this means it also isn't clear what e
 
 **Thinking that you should first read the textbook.** Some early career academics think you should first master all the fundamentals and only then can you do proper research, since you will know where the gaps are. Now I am not saying textbooks aren't useful. But they are most useful when directed at a problem---when you are reading with a purpose. The best way to learn how to do research: do research. With others. Working with a more experienced researcher on a paper will trump reading a textbook for its own sake. You do not learn how to play piano by reading a lot of music theory (although, of course, the theory is useful, so maybe not the best analogy, but you get the point).
 
-**Thinking the work will speak for itself.** People do not see what you want them to see if you do not tell them what you want them to see. (And even if you do tell them, and they get it, they will probably not think it is as amazing as you think it is. But if you do not tell them, they will definitely not see the point, and then even the chances of them thinking your work is even somewhat interesting become absolute zero.) You have to craft a story around your research.
+**Thinking the work will speak for itself.** People do not see what you want them to see if you do not tell them what you want them to see. (And even if you do tell them, and they get it, they will probably not think it is as amazing as you think it is. But if you do not tell them, they will definitely not see the point.) You have to craft a story around your research.
 
 
 ## Why do research?
