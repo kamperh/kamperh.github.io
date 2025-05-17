@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Notes
-permalink: /notes/
+title: Writing
+permalink: /writing/
 order: 1
 ---
 
 # Notes
+
+I have called this page "notes" or "blog" in the past. Whatever you want to call it, it is a collection of the things I write.
+
 
 ### Machine learning
 
