@@ -5,7 +5,7 @@ permalink: /writing/
 order: 1
 ---
 
-# Notes
+# Writing
 
 I have called this page "notes" or "blog" in the past. Whatever you want to call it, it is a collection of the things I write.
 
