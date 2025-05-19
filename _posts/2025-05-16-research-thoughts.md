@@ -50,7 +50,7 @@ So now some real reasons why people do research.
 
 "[T]he ... thing academia and writing is all about: gaining insight and making it public" (Ahrens 2017). This process can be wonderful.
 
-An interesting problem that you just can't let go. Many writers talk about how writing is really painful, but they just have to get it out of their system. Some researchers are the same with a particular problem.
+An interesting problem that you just can't let go. Many writers talk about how writing is really painful, but they just have to get it out of their system ([Orwell 1946](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)). Some researchers are the same with a particular problem.
 
 Because it is fun.
 
