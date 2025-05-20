@@ -105,3 +105,7 @@ If you are worried about falling behind (in terms of e.g. technology), you are w
 
 You will never be able to explore every interesting question, so it is okay to focus on what has been placed in front of you at the moment.
 
+
+## Acknowledgements
+
+Thanks to [Herman Engelbrecht](https://www.linkedin.com/in/herman-engelbrecht-20828819), [JC Schoeman](https://www.jcschoeman.com/), and [Dan Oneață](https://doneata.bitbucket.io/) for helpful feedback.
