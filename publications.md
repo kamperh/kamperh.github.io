@@ -10,6 +10,8 @@ order: 5
 
 ### arXiv preprints
 
+- [Spoken language modeling with duration-penalized self-supervised units](https://arxiv.org/abs/2505.23494)  
+  N. Visser and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/nicolvisser/dp-slm)]
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
   S. Malan, B. van Niekerk, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://s-malan.github.io/prom-seg-clus/)]
 - [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives](https://arxiv.org/abs/2501.06478)  
