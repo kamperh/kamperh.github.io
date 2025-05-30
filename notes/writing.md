@@ -240,7 +240,7 @@ which should be capitalised, i.e. "JHU CLSP".
       authors through git, making it easier to isolate where changes have
       happened.
     - It also really helps with larger documents like theses.
-    - In Overleaf it is better better to use a single file, since separate
+    - In Overleaf it is better to use a single file, since separate
       files sometimes break the forward and backward search functionality.
       (This is maybe one more reason why I am not a huge Overleaf fan, but I
       think it's just me.)
