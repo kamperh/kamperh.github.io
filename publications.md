@@ -10,7 +10,7 @@ order: 5
 
 ### arXiv preprints
 
-- [LinearVC: Linear transformations of self-supervised features through the lens of voice conversion](https://arxiv.org/abs/2506.01510)
+- [LinearVC: Linear transformations of self-supervised features through the lens of voice conversion](https://arxiv.org/abs/2506.01510)  
   H. Kamper, B. van Niekerk, J. Zaïdi, and M-A. Carbonneau. Accepted to *Interspeech*, 2025. [[code](https://github.com/kamperh/linearvc/), [samples](https://www.kamperh.com/linearvc/)]
 - [Spoken language modeling with duration-penalized self-supervised units](https://arxiv.org/abs/2505.23494)  
   N. Visser and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/nicolvisser/dp-slm)]
