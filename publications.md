@@ -14,6 +14,8 @@ order: 5
   H. Kamper, B. van Niekerk, J. Zaïdi, and M-A. Carbonneau. Accepted to *Interspeech*, 2025. [[code](https://github.com/kamperh/linearvc/), [samples](https://www.kamperh.com/linearvc/)]
 - [Spoken language modeling with duration-penalized self-supervised units](https://arxiv.org/abs/2505.23494)  
   N. Visser and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/nicolvisser/dp-slm)]
+- [The mutual exclusivity bias of bilingual visually grounded speech models](https://arxiv.org/abs/2506.04037)
+  D. Oneață, L. Nortje, Y. Matusevych, and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/danoneata/me-vgs)]
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
   S. Malan, B. van Niekerk, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://s-malan.github.io/prom-seg-clus/)]
 - [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives](https://arxiv.org/abs/2501.06478)  
