@@ -45,7 +45,7 @@ My code is available on [GitHub](https://github.com/kamperh). To find the code f
 ### Invited talks
 
 - [Voice conversion and the geometry of self-supervised speech representations]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)  
-  Conversational AI Reading Group, Concordia University, 2025
+  Conversational AI Reading Group, Concordia University, 2025 [[video](https://youtu.be/L6SnWOui_7A)]
 - [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_mit2024_talk-compressed.pdf)  
   SLS, MIT, 2024  
   ILCC, University of Edinburgh, 2024
