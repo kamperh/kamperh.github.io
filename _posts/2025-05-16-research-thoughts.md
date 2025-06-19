@@ -24,6 +24,8 @@ I see myself as a player-coach. I am not that keen to implement everything on my
 
 I am also not a manager. The most students that I've had was eleven, and I tanked. The manager would set things up to deal with ten, twenty or even thirty students. But for me the optimal number is somewhere between five and seven (spanning both research master's and PhD students). I don't get value from postdocs: I end up managing the more junior students regardless of whether I have a postdoc or not. So I fall on the player-coach side of the spectrum. This is not a role I consciously chose: I explored having more students and this didn't work (so I'm not a manager), but I also do not want only one or two students (lone ranger).
 
+Video: [The three types of researchers](https://youtu.be/6tjdUeioFZ4) (7 min)
+
 
 ## Mistakes in research
 
