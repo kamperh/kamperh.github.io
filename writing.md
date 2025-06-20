@@ -34,7 +34,7 @@ I have called this page "notes" or "blog" in the past. Whatever you want to call
 
 - [Notes on writing](/notes/writing)
 - [Choose your own adventure: Some thoughts on research]({% post_url 2025-05-16-research-thoughts %})
-
+- [Learn to figure out what is worth figuring out]({% post_url 2025-06-20-knowing-what-to-learn %})
 
 ### About teaching
 
