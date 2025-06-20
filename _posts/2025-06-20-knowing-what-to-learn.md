@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn to figure out what is worth figuring out
+title: Figuring out what is worth figuring out
 author: Herman Kamper
 ---
 
