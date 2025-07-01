@@ -19,7 +19,7 @@ order: 5
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
   S. Malan, B. van Niekerk, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://s-malan.github.io/prom-seg-clus/)]
 - [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives](https://arxiv.org/abs/2501.06478)  
-  C. Jacobs, A. Smith, D. Klop, O. Klejch, F. de Wet, and H. Kamper. Accepted to *ICASSP*, 2025.
+  C. Jacobs, A. Smith, D. Klop, O. Klejch, F. de Wet, and H. Kamper. Accepted to *ICASSP*, 2025. [[video](https://youtu.be/TFTRYssql9M)]
 - [MARS6: A small and robust hierarchical-codec text-to-speech model](https://arxiv.org/abs/2501.05787 )  
   M. Baas, P. Scholtz, A. Mehta, E. Dyson, A. Prakash, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://camb-ai.github.io/mars6-turbo/)]
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
