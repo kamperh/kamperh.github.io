@@ -10,6 +10,8 @@ order: 5
 
 ### arXiv preprints
 
+- [Analyzing and improving speaker similarity assessment for speech synthesis](https://arxiv.org/abs/2507.02176)  
+  M-A. Carbonneau, B. van Niekerk, H. Seuté, J-P. Letendre, H. Kamper, and J. Zaïdi. Accepted to the *Speech Synthesis Workshop*, 2025. [[code](https://github.com/ubisoft/ubisoft-laforge-spkrid)]
 - [LinearVC: Linear transformations of self-supervised features through the lens of voice conversion](https://arxiv.org/abs/2506.01510)  
   H. Kamper, B. van Niekerk, J. Zaïdi, and M-A. Carbonneau. Accepted to *Interspeech*, 2025. [[code](https://github.com/kamperh/linearvc/), [samples](https://www.kamperh.com/linearvc/)]
 - [Spoken language modeling with duration-penalized self-supervised units](https://arxiv.org/abs/2505.23494)  
