@@ -11,13 +11,15 @@ order: 5
 ### arXiv preprints
 
 - [Analyzing and improving speaker similarity assessment for speech synthesis](https://arxiv.org/abs/2507.02176)  
-  M-A. Carbonneau, B. van Niekerk, H. Seuté, J-P. Letendre, H. Kamper, and J. Zaïdi. Accepted to the *Speech Synthesis Workshop*, 2025. [[code](https://github.com/ubisoft/ubisoft-laforge-spkrid)]
+  M-A. Carbonneau, B. van Niekerk, H. Seuté, J-P. Letendre, H. Kamper, and J. Zaïdi. Accepted to the *Speech Synthesis Workshop (SSW)*, 2025. [[code](https://github.com/ubisoft/ubisoft-laforge-spkrid)]
 - [LinearVC: Linear transformations of self-supervised features through the lens of voice conversion](https://arxiv.org/abs/2506.01510)  
   H. Kamper, B. van Niekerk, J. Zaïdi, and M-A. Carbonneau. Accepted to *Interspeech*, 2025. [[code](https://github.com/kamperh/linearvc/), [samples](https://www.kamperh.com/linearvc/)]
 - [Spoken language modeling with duration-penalized self-supervised units](https://arxiv.org/abs/2505.23494)  
   N. Visser and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/nicolvisser/dp-slm)]
 - [The mutual exclusivity bias of bilingual visually grounded speech models](https://arxiv.org/abs/2506.04037)  
   D. Oneață, L. Nortje, Y. Matusevych, and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/danoneata/me-vgs)]
+- [Towards few-shot isolated word reading assessment](https://arxiv.org/abs/2507.12217)  
+  R. Smit, R. Louw, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
   S. Malan, B. van Niekerk, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://s-malan.github.io/prom-seg-clus/)]
 - [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives](https://arxiv.org/abs/2501.06478)  
