@@ -18,6 +18,8 @@ order: 5
   N. Visser and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/nicolvisser/dp-slm)]
 - [The mutual exclusivity bias of bilingual visually grounded speech models](https://arxiv.org/abs/2506.04037)  
   D. Oneață, L. Nortje, Y. Matusevych, and H. Kamper. Accepted to *Interspeech*, 2025. [[code](https://github.com/danoneata/me-vgs)]
+- [Automatically assessing oral narratives of Afrikaans and isiXhosa children](https://arxiv.org/abs/2507.13205)
+  R. Louw, E. Sharratt, F. de Wet, C. Jacobs, A. Smith, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
 - [Towards few-shot isolated word reading assessment](https://arxiv.org/abs/2507.12217)  
   R. Smit, R. Louw, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
