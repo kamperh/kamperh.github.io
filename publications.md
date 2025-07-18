@@ -20,6 +20,8 @@ order: 5
   M-A. Carbonneau, B. van Niekerk, H. Seuté, J-P. Letendre, H. Kamper, and J. Zaïdi. Accepted to the *Speech Synthesis Workshop (SSW)*, 2025. [[code](https://github.com/ubisoft/ubisoft-laforge-spkrid)]
 - [Automatically assessing oral narratives of Afrikaans and isiXhosa children](https://arxiv.org/abs/2507.13205)  
   R. Louw, E. Sharratt, F. de Wet, C. Jacobs, A. Smith, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
+- [Feature-based analysis of oral narratives from Afrikaans and isiXhosa children](https://arxiv.org/abs/2507.13164)  
+  E. Sharratt, A. Smith, R. Louw, D. Klop, F. de Wet, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
 - [Towards few-shot isolated word reading assessment](https://arxiv.org/abs/2507.12217)  
   R. Smit, R. Louw, and H. Kamper. Accepted to the *Workshop on Speech and Language Technology in Education (SLaTE)*, 2025.
 - [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming](https://arxiv.org/abs/2409.14486)  
