@@ -30,10 +30,10 @@ order: 5
   C. Jacobs, A. Smith, D. Klop, O. Klejch, F. de Wet, and H. Kamper. Accepted to *ICASSP*, 2025. [[video](https://youtu.be/TFTRYssql9M)]
 - [MARS6: A small and robust hierarchical-codec text-to-speech model](https://arxiv.org/abs/2501.05787 )  
   M. Baas, P. Scholtz, A. Mehta, E. Dyson, A. Prakash, and H. Kamper. Accepted to *ICASSP*, 2025. [[code](https://camb-ai.github.io/mars6-turbo/)]
-- [Should top-down clustering affect boundaries in unsupervised word discovery?](https://arxiv.org/abs/2507.19204)  
-  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2507.19204*, 2025. [[code](https://github.com/s-malan/prom-seg-clus)]
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
   L. Nortje, D. Oneață, and H. Kamper. Accepted to the *Conference on Speech Technology and Human-Computer Dialogue (SpeD)*, 2025. [[code](https://github.com/LeanneNortje/low-resource_VPKL)]
+- [Should top-down clustering affect boundaries in unsupervised word discovery?](https://arxiv.org/abs/2507.19204)  
+  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2507.19204*, 2025. [[code](https://github.com/s-malan/prom-seg-clus)]
 
 
 ### Journal articles
