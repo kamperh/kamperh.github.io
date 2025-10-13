@@ -10,7 +10,7 @@ order: 5
 
 ### arXiv preprints
 
-- [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)
+- [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)  
   D. Adendorff, S. Malan, and Herman Kamper. *arXiv preprint arXiv:2510.09225*, 2025.
 - [Improved visually prompted keyword localisation in real low-resource settings](https://arxiv.org/abs/2409.06013)  
   L. Nortje, D. Oneață, G. Pîrlogeanu, and H. Kamper. Accepted to the *Conference on Speech Technology and Human-Computer Dialogue (SpeD)*, 2025. [[code](https://github.com/LeanneNortje/low-resource_VPKL)]
