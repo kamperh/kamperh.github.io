@@ -5,6 +5,8 @@ permalink: /talks/
 order: 4
 ---
 
+# Invited talks
+
 All the talks with videos are given on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H).
 
 - [Voice conversion and the geometry of self-supervised speech representations]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)  
