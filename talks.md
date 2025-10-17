@@ -5,7 +5,7 @@ permalink: /talks/
 order: 4
 ---
 
-# Invited Talks
+# Talks
 
 Many of the talks below are also on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H).
 
