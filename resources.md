@@ -26,7 +26,7 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 - [Dynamic programming](/notes/kamper_dynamic_programming22.pdf)
 - [Principal components analysis](/notes/kamper_pca23.pdf)
 - [Autoencoder, variational AE, vector-quantised VAE and categorical VAE](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
-- [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (Data Analytics 414)
+- [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (DatA414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
 
 
