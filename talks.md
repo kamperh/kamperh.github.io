@@ -18,6 +18,8 @@ order: 4
   LSCP, Ecole Normale Supérieure, 2023
 - [What can large spoken language models tell us about speech?]({{site.url}}/slides/kamper_indabax2023_talk-compressed.pdf)  
   IndabaX South Africa, University of Cape Town, 2023 [[video](https://youtu.be/g0nTBjBGkGY)]
+- [AI, ChatGPT, and God]({{site.url}}/slides/kamper_tgif_krux2023_talk.pdf)
+  TGIF, KRUX, 2023 [[video](https://youtu.be/VtoVimtm_VQ)]
 - [Unsupervised word segmentation using dynamic programming on self-supervised speech representations]({{site.url}}/slides/kamper_aaaisas2022_talk.pdf)  
   AAAI SAS Workshop, Invited Talk, 2022 [[video](https://youtu.be/oA0EMR_cMQY)]
 - [Learning acoustic units and words from unlabelled speech (with a bit of vision)]({{site.url}}/slides/kamper_jhuclsp2020_talk.pdf)  
