@@ -42,6 +42,7 @@ My code is available on [GitHub](https://github.com/kamperh). To find the code f
 - [Stellenbosch University Style Guide](http://www.sun.ac.za/english/Documents/2024/SU_Language_Style_Guide_(Oct%202023).pdf)
 
 
+<!--
 ### Invited talks
 
 - [Voice conversion and the geometry of self-supervised speech representations]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)  
@@ -75,4 +76,4 @@ My code is available on [GitHub](https://github.com/kamperh). To find the code f
   CSAIL, MIT, 2016
 - [Unsupervised speech processing using acoustic word embeddings]({{site.url}}/slides/kamper_mlslp2016_talk.pdf)  
   MLSLP Workshop, Spotlight Speaker, 2016
-
+-->
