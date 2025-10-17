@@ -7,7 +7,7 @@ order: 4
 
 # Talks
 
-Many of the talks below are also on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H).
+<!-- Many of the talks below are also on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H). -->
 
 - [Voice conversion and the geometry of self-supervised speech representations]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)  
   Conversational AI Reading Group, Concordia University, 2025 [[video](https://youtu.be/L6SnWOui_7A)]
