@@ -5,7 +5,7 @@ permalink: /talks/
 order: 4
 ---
 
-# Invited talks
+# Invited Talks
 
 - [Voice conversion and the geometry of self-supervised speech representations]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)  
   Conversational AI Reading Group, Concordia University, 2025 [[video](https://youtu.be/L6SnWOui_7A)]
