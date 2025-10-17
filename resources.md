@@ -7,9 +7,11 @@ order: 2
 
 # Resources
 
+<!--
 ### Videos
 
 My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperML).
+-->
 
 
 ### Machine learning
