@@ -26,8 +26,8 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 - [Vector and matrix calculus](/notes/kamper_matrixcalculus13.pdf)
 - [Dynamic programming](/notes/kamper_dynamic_programming22.pdf)
 - [Principal components analysis](/notes/kamper_pca23.pdf)
-- [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (Data Analytics 414)
-- [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (Natural Language Processing 817)
+- [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (DatA414)
+- [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
 
 
 ### Speech and signal processing
@@ -37,7 +37,7 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
   [[slides]({{site.url}}/slides/dtw-crop.pdf), [notebook](https://github.com/kamperh/lecture_dtw_notebook/blob/main/dtw.ipynb)]  
 - [Introduction to speech features](https://www.youtube.com/playlist?list=PLmZlBIcArwhN8nFJ8VL1jLM2Qe7YCcmAb)
   [[slides]({{site.url}}/slides/speech_features-crop.pdf)]
-- [Introduction to digital signal processing](https://www.kamperh.com/ss414/) (Systems and Signals 414)
+- [Introduction to digital signal processing](https://www.kamperh.com/ss414/) (SS414)
 
 
 ### About research
