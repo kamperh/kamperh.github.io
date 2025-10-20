@@ -19,13 +19,13 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 - [Introduction to neural networks](https://www.youtube.com/playlist?list=PLmZlBIcArwhMHnIrNu70mlvZOwe6MqWYn)
   [[slides](https://www.kamperh.com/data414/slides/intro_nn-crop.pdf), [notes]({{site.url}}/nlp817/notes/08_nn_notes.pdf)]
 - [Yet another introduction to backpropagation](/notes/kamper_backprop22.pdf)
+- [Autoencoder, variational AE, vector-quantised VAE and categorical VAE](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Yet another introduction to probabilistic graphical models](/notes/kamper_pgm_notes23.pdf)
 - [Gibbs sampling for fitting finite and infinite Gaussian mixture models](/notes/kamper_bayesgmm15.pdf)
   [[code](https://github.com/kamperh/bayes_gmm)]
 - [Vector and matrix calculus](/notes/kamper_matrixcalculus13.pdf)
 - [Dynamic programming](/notes/kamper_dynamic_programming22.pdf)
 - [Principal components analysis](/notes/kamper_pca23.pdf)
-- [Autoencoder, variational AE, vector-quantised VAE and categorical VAE](https://github.com/kamperh/autoencoders_mnist/blob/master/ae_mnist.ipynb)
 - [Introduction to machine learning](https://www.kamperh.com/data414/#lecture-notes) (DatA414)
 - [Introduction to natural language processing](https://www.kamperh.com/nlp817/) (NLP817)
 
