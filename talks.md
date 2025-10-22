@@ -17,7 +17,7 @@ order: 4
 - [Multimodal few-shot learning & probing self-supervised speech models]({{site.url}}/slides/kamper_ens2023_talk-compressed.pdf)  
   LSCP, Ecole Normale Supérieure, 2023
 - [What can large spoken language models tell us about speech?](https://youtu.be/g0nTBjBGkGY)  
-  IndabaX South Africa, University of Cape Town, 2023 [slides({{site.url}}/slides/kamper_indabax2023_talk-compressed.pdf)]
+  IndabaX South Africa, University of Cape Town, 2023 [[slides]({{site.url}}/slides/kamper_indabax2023_talk-compressed.pdf)]
 - [AI, ChatGPT, and God](https://youtu.be/VtoVimtm_VQ)  
   TGIF and KRUX, 2023 [[slides]({{site.url}}/slides/kamper_tgif_krux2023_talk_compressed.pdf)]
 - [Unsupervised word segmentation using dynamic programming on self-supervised speech representations](https://youtu.be/oA0EMR_cMQY)  
