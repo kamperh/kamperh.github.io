@@ -9,6 +9,8 @@ order: 4
 
 <!-- Many of the talks below are also on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H). -->
 
+- [The science and engineering of language acquisition in humans and machines](https://www.youtube.com/live/gDfy_n5IbFo?t=550)  
+  Inaugural lecture, Stellenbosch University, 2025 [[slides]({{site.url}}/slides/kamper2025inaugural.pdf)]
 - [Voice conversion and the geometry of self-supervised speech representations](https://youtu.be/L6SnWOui_7A)  
   Conversational AI Reading Group, Concordia University, 2025 [[slides]({{site.url}}/slides/kamper_convairg2025_talk-compressed.pdf)]
 - [Speech systems that emulate language acquisition in humans]({{site.url}}/slides/kamper_mit2024_talk-compressed.pdf)  
