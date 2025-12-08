@@ -112,6 +112,18 @@ order: 5
 - [The mutual exclusivity bias of bilingual visually grounded speech models]({{site.url}}/papers/oneata+nortje+matusevych+kamper_interspeech2025.pdf)  
   D. Oneață, L. Nortje, Y. Matusevych, and H. Kamper. In *Proceedings of Interspeech*, 2025.
   [[arXiv](https://arxiv.org/abs/2506.04037), [code](https://github.com/danoneata/me-vgs)]
+- [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming]({{site.url}}/papers/malan+vanniekerk+kamper_icassp2025.pdf)  
+  S. Malan, B. van Niekerk, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
+  [[arXiv](https://arxiv.org/abs/2409.14486), [code](https://s-malan.github.io/prom-seg-clus)]
+- [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives]({{site.url}}/papers/jacobs+smith+klop+klejch+dewet+kamper_icassp2025.pdf)  
+  C. Jacobs, A. Smith, D. Klop, O. Klejch, F. de Wet, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
+  [[arXiv](https://arxiv.org/abs/2501.06478), [video](https://youtu.be/TFTRYssql9M)]
+- [MARS6: A small and robust hierarchical-codec text-to-speech model]({{site.url}}/papers/baas+scholtz+mehta+dyson+prakash+kamper_icassp2025.pdf)  
+  M. Baas, P. Scholtz, A. Mehta, E. Dyson, A. Prakash, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
+  [[arXiv](https://arxiv.org/abs/2501.05787), [code](https://camb-ai.github.io/mars6-turbo)]
+- [Improved visually prompted keyword localisation in real low-resource settings]({{site.url}}/papers/nortje+oneata+pirlogeanu+kamper_sped2025.pdf)  
+  L. Nortje, D. Oneață, G. Pîrlogeanu, and H. Kamper. In *Proceedings of the Conference on Speech Technology and Human-Computer Dialogue (SpeD)*, 2025.
+  [[arXiv](https://arxiv.org/abs/2409.06013), [code](https://github.com/LeanneNortje/low-resource_VPKL)]
 - [Analyzing and improving speaker similarity assessment for speech synthesis]({{site.url}}/papers/carbonneua+vanniekerk+seute+letendre+kamper+zaidi_ssw2025.pdf)  
   M-A. Carbonneau, B. van Niekerk, H. Seuté, J-P. Letendre, H. Kamper, and J. Zaïdi. In *Proceedings of the Speech Synthesis Workshop (SSW)*, 2025.
   [[arXiv](https://arxiv.org/abs/2507.02176), [code](https://github.com/ubisoft/ubisoft-laforge-spkrid)]
@@ -124,15 +136,6 @@ order: 5
 - [Towards few-shot isolated word reading assessment]({{site.url}}/papers/smit+louw+kamper_slate2025.pdf)  
   R. Smit, R. Louw, and H. Kamper. In *Proceedings of the Workshop on Speech and Language Technology in Education (SLaTE)*, 2025. [**best student paper**]
   [[arXiv](https://arxiv.org/abs/2507.12217), [code](https://github.com/Reubix29/child-speech-bench)]
-- [Unsupervised word discovery: Boundary detection with clustering vs. dynamic programming]({{site.url}}/papers/malan+vanniekerk+kamper_icassp2025.pdf)  
-  S. Malan, B. van Niekerk, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
-  [[arXiv](https://arxiv.org/abs/2409.14486), [code](https://s-malan.github.io/prom-seg-clus)]
-- [Speech recognition for automatically assessing Afrikaans and isiXhosa preschool oral narratives]({{site.url}}/papers/jacobs+smith+klop+klejch+dewet+kamper_icassp2025.pdf)  
-  C. Jacobs, A. Smith, D. Klop, O. Klejch, F. de Wet, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
-  [[arXiv](https://arxiv.org/abs/2501.06478), [video](https://youtu.be/TFTRYssql9M)]
-- [MARS6: A small and robust hierarchical-codec text-to-speech model]({{site.url}}/papers/baas+scholtz+mehta+dyson+prakash+kamper_icassp2025.pdf)  
-  M. Baas, P. Scholtz, A. Mehta, E. Dyson, A. Prakash, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025.
-  [[arXiv](https://arxiv.org/abs/2501.05787), [code](https://camb-ai.github.io/mars6-turbo)]
 
 **2024**
 
