@@ -14,15 +14,17 @@ order: 3
 
 - Nicol Visser (PhD)
 - Reuben Smit (PhD)
+- Simon Malan (PhD)
 - Danel Adendorff (MEng)
 - Kyle Janse van Rensburg (MEng)
-- Emma Sharratt (MEng)
-- Retief Louw (MEng)
-- Simon Malan (MEng)
+- Camryn Abrahamson (MEng)
+- Daanshil Ramgutty (MEng)
 
 
 ### Past students
 
+- Emma Sharratt (MEng, 2026)
+- Retief Louw (MEng, 2026)
 - Nicol Visser (MEng, 2025)
 - Christiaan Jacobs (Postdoc, 2024)
 - [Matthew Baas](https://rf5.github.io/) (PhD, 2024)
