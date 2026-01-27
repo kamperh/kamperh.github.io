@@ -11,9 +11,9 @@ order: 5
 ### arXiv preprints
 
 - [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)  
-  D. Slabbert, S. Malan, and Herman Kamper. Accepted to *ICASSP*, 2026.
+  D. Slabbert, S. Malan, and Herman Kamper. Accepted to the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
 - [Should top-down clustering affect boundaries in unsupervised word discovery?](https://arxiv.org/abs/2507.19204)  
-  S. Malan, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2507.19204*, 2025. [[code](https://github.com/s-malan/prom-seg-clus)]
+  S. Malan, B. van Niekerk, and H. Kamper. Accepted to the *IEEE/ACM Transactions on Audio, Speech and Language Processing*, 2026. [[code](https://github.com/s-malan/prom-seg-clus)]
 
 
 ### Journal articles
