@@ -60,4 +60,5 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 
 - [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template) [[Overleaf](https://www.overleaf.com/latex/templates/stellenbosch-university-electrical-and-electronic-engineering-template/bsppqrfmdpqp)]
 - [Stellenbosch University Style Guide](http://www.sun.ac.za/english/Documents/2024/SU_Language_Style_Guide_(Oct%202023).pdf) (link currently broken)
+- [Getting started with the Stellenbosch University HPC](https://gist.github.com/RF5/eabb93ba85b763746d404afc9626e5d1)
 
