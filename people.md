@@ -15,7 +15,7 @@ order: 3
 - Nicol Visser (PhD)
 - Reuben Smit (PhD)
 - Simon Malan (PhD)
-- Danel Adendorff (MEng)
+- Danel Slabbert (MEng)
 - Kyle Janse van Rensburg (MEng)
 - Camryn Abrahamson (MEng)
 - Daanshil Ramgutty (MEng)
