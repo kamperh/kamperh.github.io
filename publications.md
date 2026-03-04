@@ -12,6 +12,8 @@ order: 5
 
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
   N. Visser, S. Malan, D. Adendorff, and Herman Kamper. *arXiv preprint arXiv:2602.15537*, 2026. [[code](https://github.com/nicolvisser/ZeroSyl/)]
+- [Interpreting speaker characteristics in the dimensions of self-supervised speech features](http://arxiv.org/abs/2603.03096)
+  K. Janse van Rensburg, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2603.03096*, 2026.
 - [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)  
   D. Slabbert, S. Malan, and Herman Kamper. Accepted to the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
 - [Should top-down clustering affect boundaries in unsupervised word discovery?](https://doi.org/10.1109/TASLPRO.2026.3659426)  
