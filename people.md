@@ -15,6 +15,7 @@ order: 3
 - Nicol Visser (PhD)
 - Reuben Smit (PhD)
 - Simon Malan (PhD)
+- Gabriel Pirlogeanu (PhD, main supervisors: [Horia Cucu](https://speed.pub.ro/people/horia-cucu/) and [Dan Oneață](https://doneata.bitbucket.io/))
 - Danel Slabbert (MEng)
 - Kyle Janse van Rensburg (MEng)
 - Camryn Abrahamson (MEng)
