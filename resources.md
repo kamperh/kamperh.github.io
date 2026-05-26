@@ -56,6 +56,12 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 - [My teaching philosophy](/teaching_portfolio/)
 
 
+### About life
+
+- [Surviving Life](https://www.youtube.com/playlist?list=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
+- [How someone else views me doesn't need to mess up how I see them]({% post_url 2026-05-26-viewing_people %})
+
+
 ### For Stellenbosch University students
 
 - [Electrical and Electronic Engineering LaTeX template](https://github.com/kamperh/stellenbosch_ee_report_template) [[Overleaf](https://www.overleaf.com/latex/templates/stellenbosch-university-electrical-and-electronic-engineering-template/bsppqrfmdpqp)]
