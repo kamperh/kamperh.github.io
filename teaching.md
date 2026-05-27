@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-order: 0
+order: 2
 ---
 
 # Teaching
