@@ -16,6 +16,8 @@ order: 5
   S. Malan, D. Slabbert, and H. Kamper. *arXiv preprint arXiv:2606.06183*, 2026.
 - [Interpreting speaker characteristics in the dimensions of self-supervised speech features](http://arxiv.org/abs/2603.03096)  
   K. Janse van Rensburg, B. van Niekerk, and H. Kamper. *arXiv preprint arXiv:2603.03096*, 2026.
+- [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
+  G. Pirlogeanu, D. Oneata, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
   N. Visser, S. Malan, D. Slabbert, and H. Kamper. Accepted to *Interspeech*, 2026. [[code](https://github.com/nicolvisser/ZeroSyl/)]
 - [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)  
