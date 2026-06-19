@@ -9,6 +9,8 @@ order: 4
 
 <!-- Many of the talks below are also on [this YouTube playlist](https://www.youtube.com/playlist?list=PLmZlBIcArwhOcX0KF9aNc-BfZxd1xqF8H). -->
 
+- [Simple, training-free methods for SSL-based speech processing](https://youtu.be/JJGpg7MQuE8)  
+  IEEE SPS SLTC/AASP Webinar, 2026 [[slides]({{site.url}}/slides/kamper2026simple_talk.pdf)]
 - [The science and engineering of language acquisition in humans and machines](https://www.youtube.com/live/gDfy_n5IbFo?t=550)  
   Inaugural lecture, Stellenbosch University, 2025 [[slides]({{site.url}}/slides/kamper2025inaugural.pdf)]
 - [Voice conversion and the geometry of self-supervised speech representations](https://youtu.be/L6SnWOui_7A)  
