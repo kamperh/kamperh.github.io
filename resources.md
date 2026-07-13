@@ -10,7 +10,7 @@ order: 1
 <!--
 ### Videos
 
-My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperML).
+My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperML). 
 -->
 
 
