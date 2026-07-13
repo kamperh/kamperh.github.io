@@ -4,7 +4,7 @@ title: What I hope AI will bring, what I fear AI will bring
 author: Herman Kamper
 ---
 
-Each year, I have to fill in a progress report for each of my postgraduate students. I have no idea whether these forms are ever checked. They serve no purpose.^[For some reason, university upper management loves forms, and especially forms that serve no purpose. Introducing a new form fills them with happiness. Maybe I am a bit unfair: banks, the traffic department and my optometrist all love forms asking for redundant information. If you check these forms carefully, the actually important information could normally be obtained through three yes/no questions.] I do know, however, that if I just write "yes" or "not applicable" under a question requiring a paragraph, the form will be flagged and sent back. So I get AI to write answers for me with prompts like, "For question 3, I want to write 'not applicable'. Use a lot of words to say 'not applicable'. Use the rest of the form for context."
+Each year, I have to fill in a progress report for each of my postgraduate students. I have no idea whether these forms are ever checked. They serve no purpose.[^1] I do know, however, that if I just write "yes" or "not applicable" under a question requiring a paragraph, the form will be flagged and sent back. So I get AI to write answers for me with prompts like, "For question 3, I want to write 'not applicable'. Use a lot of words to say 'not applicable'. Use the rest of the form for context."
 
 ## What I hope will happen
 
@@ -27,3 +27,8 @@ My fear is this: because we can produce more with the help of AI, we are require
 We end in a situation where we are required to produce more essentially useless things.
 
 We can of course decide to go a different route. But at the moment it looks like we will just be filling out more forms.
+
+
+* * *
+
+[^1]: For some reason, university upper management loves forms, and especially forms that serve no purpose. Introducing a new form fills them with happiness. Maybe I am a bit unfair: banks, the traffic department and my optometrist all love forms asking for redundant information. If you check these forms carefully, the actually important information could normally be obtained through three yes/no questions.
