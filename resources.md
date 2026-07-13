@@ -60,6 +60,7 @@ My videos are all available on [YouTube](https://www.youtube.com/c/HermanKamperM
 
 - [Surviving Life](https://www.youtube.com/playlist?list=PLmZlBIcArwhOpJ6Fkz7OghXQQQ9_UjGTE)
 - [How someone else views me doesn't need to mess up how I see them]({% post_url 2026-05-26-viewing_people %})
+- [What I hope AI will bring, what I fear AI will bring](% post_url 2026-07-13-ai_hope_fear %)
 
 
 ### For Stellenbosch University students
