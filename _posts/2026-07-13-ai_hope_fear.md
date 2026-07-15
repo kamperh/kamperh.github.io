@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I hope AI will bring, what I fear AI will bring
+title: What I hope AI will bring, what I fear AI will bring (about forms)
 author: Herman Kamper
 ---
 
