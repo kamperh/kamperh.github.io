@@ -14,6 +14,8 @@ order: 5
   D. Slabbert, S. Malan, and H. Kamper. *arXiv preprint arXiv:2606.10781*, 2026. [[code](https://github.com/adendorffy/zipf-clus)]
 - [Revisiting lexicon evaluation in unsupervised word discovery](https://arxiv.org/abs/2606.06183)  
   S. Malan, D. Slabbert, and H. Kamper. *arXiv preprint arXiv:2606.06183*, 2026.
+- [Self-supervised speech comparison for L2 phone, rhythm, and intonation scoring](https://arxiv.org/abs/2607.13721)  
+  S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. *arXiv preprint arXiv:2607.13721*, 2026
 - [Interpreting content and speaker characteristics in factorised self-supervised subspaces](https://arxiv.org/abs/2606.19974)  
   K. Janse van Rensburg and H. Kamper. *arXiv preprint arXiv:2606.19974*, 2026.
 - [Interpreting speaker characteristics in the dimensions of self-supervised speech features](http://arxiv.org/abs/2603.03096)  
