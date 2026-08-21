@@ -24,10 +24,6 @@ order: 5
   G. Pirlogeanu, D. Oneata, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
   N. Visser, S. Malan, D. Slabbert, and H. Kamper. Accepted to *Interspeech*, 2026. [[code](https://github.com/nicolvisser/ZeroSyl/)]
-- [Unsupervised lexicon learning from speech is limited by representations rather than clustering](https://arxiv.org/abs/2510.09225)  
-  D. Slabbert, S. Malan, and H. Kamper. Accepted to the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
-- [Should top-down clustering affect boundaries in unsupervised word discovery?](https://doi.org/10.1109/TASLPRO.2026.3659426)  
-  S. Malan, B. van Niekerk, and H. Kamper. Accepted to the *IEEE/ACM Transactions on Audio, Speech and Language Processing*, 2026. [[arXiv](https://arxiv.org/abs/2507.19204), [code](https://github.com/s-malan/prom-seg-clus)]
 
 
 ### Journal articles
