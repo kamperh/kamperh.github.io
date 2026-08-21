@@ -32,6 +32,9 @@ order: 5
 
 ### Journal articles
 
+- [Should top-down clustering affect boundaries in unsupervised word discovery?](https://doi.org/10.1109/TASLPRO.2026.3659426)  
+  S. Malan, B. van Niekerk, and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 34, pp. 1163-1172, 2026.
+  [[arXiv](https://arxiv.org/abs/2507.19204), [code](https://github.com/s-malan/prom-seg-clus)]
 - [Visually grounded speech models have a mutual exclusivity bias](https://doi.org/10.1162/tacl_a_00672)  
   L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Transactions of the Association for Computational Linguistics*, vol. 12, pp. 755-770, 2024.
   [[arXiv](https://arxiv.org/abs/2403.13922), [code](https://sites.google.com/view/mutualexclusivityinvgs)]
@@ -112,6 +115,11 @@ order: 5
 
 ### Conference papers
 
+**2026**
+
+- [Unsupervised lexicon learning from speech is limited by representations rather than clustering]({{site.url}}/papers/slabbert+malan+kamper_icassp2026.pdf)  
+  D. Slabbert, S. Malan, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
+  [[arXiv](https://arxiv.org/abs/2510.09225)]
 
 **2025**
 
