@@ -19,7 +19,7 @@ order: 5
 - [Interpreting content and speaker characteristics in factorised self-supervised subspaces](https://arxiv.org/abs/2606.19974)  
   K. Janse van Rensburg and H. Kamper. *arXiv preprint arXiv:2606.19974*, 2026.
 - [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
-  G. Pirlogeanu, D. Oneata, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
+  G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
   N. Visser, S. Malan, D. Slabbert, and H. Kamper. Accepted to *Interspeech*, 2026. [[code](https://github.com/nicolvisser/ZeroSyl/)]
 
