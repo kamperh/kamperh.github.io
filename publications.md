@@ -18,8 +18,6 @@ order: 5
   S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. *arXiv preprint arXiv:2607.13721*, 2026
 - [Interpreting content and speaker characteristics in factorised self-supervised subspaces](https://arxiv.org/abs/2606.19974)  
   K. Janse van Rensburg and H. Kamper. *arXiv preprint arXiv:2606.19974*, 2026.
-- [Interpreting speaker characteristics in the dimensions of self-supervised speech features](http://arxiv.org/abs/2603.03096)  
-  K. Janse van Rensburg, B. van Niekerk, and H. Kamper. Accepted to *IEEE Signal Processing Letters*, 2026. [[DOI](https://doi.org/10.1109/LSP.2026.3716838)]
 - [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
   G. Pirlogeanu, D. Oneata, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
@@ -31,6 +29,9 @@ order: 5
 - [Should top-down clustering affect boundaries in unsupervised word discovery?](https://doi.org/10.1109/TASLPRO.2026.3659426)  
   S. Malan, B. van Niekerk, and H. Kamper. *IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 34, pp. 1163-1172, 2026.
   [[arXiv](https://arxiv.org/abs/2507.19204), [code](https://github.com/s-malan/prom-seg-clus)]
+- [Interpreting speaker characteristics in the dimensions of self-supervised speech features](https://doi.org/10.1109/LSP.2026.3716838)  
+  K. Janse van Rensburg, B. van Niekerk, and H. Kamper. *IEEE Signal Processing Letters*, vol. 33, pp. 3132-3136, 2026.
+  [[arXiv](http://arxiv.org/abs/2603.03096), [samples](https://kylejvr767.github.io/SPL_demo_page/)]  
 - [Visually grounded speech models have a mutual exclusivity bias](https://doi.org/10.1162/tacl_a_00672)  
   L. Nortje, D. Oneață, Y. Matusevych, and H. Kamper. *Transactions of the Association for Computational Linguistics*, vol. 12, pp. 755-770, 2024.
   [[arXiv](https://arxiv.org/abs/2403.13922), [code](https://sites.google.com/view/mutualexclusivityinvgs)]
