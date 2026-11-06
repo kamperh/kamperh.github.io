@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am so happy I grew up before AI
+title: I am so happy I grew up before...
 author: Herman Kamper
 ---
 
