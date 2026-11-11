@@ -14,14 +14,14 @@ order: 5
   H. Kamper, *arXiv preprint arXiv:2611.13990*, 2026. [[code](https://github.com/kamperh/inforate/)]
 - [Mapping written words to spoken words in a different language using only visual grounding](https://arxiv.org/abs/2608.26925)  
   G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. *arXiv preprint arXiv:2608.26925*, 2026.
-- [Recovering the Zipfian distribution in unsupervised term discovery](https://arxiv.org/abs/2606.10781)  
-  D. Slabbert, S. Malan, and H. Kamper. *arXiv preprint arXiv:2606.10781*, 2026. [[code](https://github.com/adendorffy/zipf-clus)]
-- [Revisiting lexicon evaluation in unsupervised word discovery](https://arxiv.org/abs/2606.06183)  
-  S. Malan, D. Slabbert, and H. Kamper. *arXiv preprint arXiv:2606.06183*, 2026.
-- [Self-supervised speech comparison for L2 phone, rhythm, and intonation scoring](https://arxiv.org/abs/2607.13721)  
-  S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. *arXiv preprint arXiv:2607.13721*, 2026
 - [Interpreting content and speaker characteristics in factorised self-supervised subspaces](https://arxiv.org/abs/2606.19974)  
   K. Janse van Rensburg and H. Kamper. *arXiv preprint arXiv:2606.19974*, 2026.
+- [Recovering the Zipfian distribution in unsupervised term discovery](https://arxiv.org/abs/2606.10781)  
+  D. Slabbert, S. Malan, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026. [[code](https://github.com/adendorffy/zipf-clus)]
+- [Revisiting lexicon evaluation in unsupervised word discovery](https://arxiv.org/abs/2606.06183)  
+  S. Malan, D. Slabbert, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026.
+- [Self-supervised speech comparison for L2 phone, rhythm, and intonation scoring](https://arxiv.org/abs/2607.13721)  
+  S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026
 - [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
   G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 - [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
