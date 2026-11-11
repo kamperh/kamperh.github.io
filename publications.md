@@ -10,7 +10,7 @@ order: 5
 
 ### arXiv preprints
 
-- [On the information rate of phones, syllables and words](https://arxiv.org/abs/2611.13990)
+- [On the information rate of phones, syllables and words](https://arxiv.org/abs/2611.13990)  
   H. Kamper, *arXiv preprint arXiv:2611.13990*, 2026. [[code](https://github.com/kamperh/inforate/)]
 - [Mapping written words to spoken words in a different language using only visual grounding](https://arxiv.org/abs/2608.26925)  
   G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. *arXiv preprint arXiv:2608.26925*, 2026.
