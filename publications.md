@@ -24,8 +24,6 @@ order: 5
   S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026
 - [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
   G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
-- [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling](https://arxiv.org/abs/2602.15537)  
-  N. Visser, S. Malan, D. Slabbert, and H. Kamper. Accepted to *Interspeech*, 2026. [[code](https://github.com/nicolvisser/ZeroSyl/)]
 
 
 ### Journal articles
@@ -118,6 +116,9 @@ order: 5
 
 **2026**
 
+- [ZeroSyl: Simple zero-resource syllable tokenization for spoken language modeling]({{site.url}}/papers/visser+malan+slabbert+kamper_interspeech2026.pdf)  
+  N. Visser, S. Malan, D. Slabbert, and H. Kamper. In *Proceedings of Interspeech*, 2026.
+  [[arXiv](https://arxiv.org/abs/2602.15537), [code](https://github.com/nicolvisser/ZeroSyl/)]
 - [Unsupervised lexicon learning from speech is limited by representations rather than clustering]({{site.url}}/papers/slabbert+malan+kamper_icassp2026.pdf)  
   D. Slabbert, S. Malan, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
   [[arXiv](https://arxiv.org/abs/2510.09225)]
