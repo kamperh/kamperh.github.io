@@ -12,6 +12,8 @@ order: 5
 
 - [On the information rate of phones, syllables and words](https://arxiv.org/abs/2611.13990)  
   H. Kamper, *arXiv preprint arXiv:2611.13990*, 2026. [[code](https://github.com/kamperh/inforate/)]
+- [Factorized self-supervised speech tokenization](https://arxiv.org/abs/2611.18898)  
+  B. Van Niekerk, J-P. Letendre, N. Visser, H. Seute, H. Kamper, M. Ravanelli, Accepted to *NeurIPS*, 2026. [[code](https://github.com/ubisoft/ubisoft-laforge-facto/), [samples(https://ubisoft-laforge.github.io/speech/facto/)]]
 - [Mapping written words to spoken words in a different language using only visual grounding](https://arxiv.org/abs/2608.26925)  
   G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. *arXiv preprint arXiv:2608.26925*, 2026.
 - [Interpreting content and speaker characteristics in factorised self-supervised subspaces](https://arxiv.org/abs/2606.19974)  
