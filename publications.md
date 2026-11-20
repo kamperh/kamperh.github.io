@@ -124,6 +124,9 @@ order: 5
 - [Unsupervised lexicon learning from speech is limited by representations rather than clustering]({{site.url}}/papers/slabbert+malan+kamper_icassp2026.pdf)  
   D. Slabbert, S. Malan, and H. Kamper. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
   [[arXiv](https://arxiv.org/abs/2510.09225)]
+- [Connecting speech to words through images]({{site.url}}/papers/pirlogeanu+oneata+cucu+kamper_eusipco2026.pdf)  
+  G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. In *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
+  [[arXiv](https://arxiv.org/abs/2606.16807)]
 
 **2025**
 
