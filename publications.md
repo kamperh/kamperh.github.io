@@ -24,8 +24,6 @@ order: 5
   S. Malan, D. Slabbert, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026.
 - [Self-supervised speech comparison for L2 phone, rhythm, and intonation scoring](https://arxiv.org/abs/2607.13721)  
   S. McIntosh, R. Smit, D. Saito, N. Minematsu, and H. Kamper. Accepted to the *Proceedings of the IEEE Spoken Language Technology Workshop (SLT)*, 2026
-- [Connecting speech to words through images](https://arxiv.org/abs/2606.16807)  
-  G. Pirlogeanu, D. Oneață, H. Cucu, and H. Kamper. Accepted to the *Proceedings of the European Signal Processing Conference (EUSIPCO)*, 2026.
 
 
 ### Journal articles
